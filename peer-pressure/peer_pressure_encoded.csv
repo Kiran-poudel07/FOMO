@@ -1,0 +1,474 @@
+P_ID,Permanent_Residence,Current_Residence,Year,Gender,Department,Q12 = I have bought things that were too expensive for me just to fit in with my friends.,"Q13 =I act like I enjoy activities my friends like, even if I don't actually enjoy them.","Q14 = I feel pressure to goto parties or hangouts with friends, even when I need to study them.",Q15 =.l've changed how Iook( (like hairstyle or clothing) to match the style of other students in my engineering group.,Q16 =  I feel pressure to choose a career or internship that's similar to what my friends are doing.,peer_pressure,peer_pressure_level,high_peer_pressure,low_peer_pressure,medium_peer_pressure
+1,Arghakhanchi ,Hostel,Fourth,Male,IT,4,4,3,4,4,3.8,low,0,1,0
+2,Morang,Hostel,First,Male,IT,5,5,5,5,4,4.8,low,0,1,0
+3,Bajura,Rented room,Second,Male,IT,5,5,4,3,3,4.0,low,0,1,0
+4,Sindhupalchok,Living with family at home,First,Male,IT,5,5,4,5,5,4.8,low,0,1,0
+5,Dadlendura,Rented room,Fourth,Male,Computer,2,3,4,3,3,3.0,medium,0,0,1
+6,Panchthar,Rented flat or apartment,Third,Male,Computer,5,5,1,5,5,4.2,low,0,1,0
+7,Lalitpur,Living with family at home,Third,Female,Computer,3,2,4,4,4,3.4,medium,0,0,1
+8,Kathmandu,Living with family at home,Third,Male,Computer,4,3,3,3,3,3.2,medium,0,0,1
+9,Sindhupalchok,Living with family at home,First,Male,IT,5,5,4,5,4,4.6,low,0,1,0
+10,Siraha,Hostel,First,Female,IT,4,4,2,2,2,2.8,medium,0,0,1
+11,Morang,Hostel,First,Female,IT,4,3,2,5,4,3.6,low,0,1,0
+12,Lalitpur,Living with family at home,Fourth,Female,Computer,4,4,5,5,2,4.0,low,0,1,0
+13,Lalitpur,Living with family at home,Fourth,Male,Computer,5,4,4,4,4,4.2,low,0,1,0
+14,Ilam,Rented flat or apartment,Fourth,Male,Computer,5,2,4,5,5,4.2,low,0,1,0
+15,Gorkha,Rented flat or apartment,Fourth,Female,Computer,4,4,5,5,5,4.6,low,0,1,0
+16,Accham,Living with family at home,Fourth,Female,IT,5,5,5,5,4,4.8,low,0,1,0
+17,Parsa,Living with family at home,Fourth,Male,IT,5,4,5,5,4,4.6,low,0,1,0
+18,Salyan,Living with family at home,Fourth,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+19,Jhapa,Hostel,First,Male,IT,5,4,4,4,4,4.2,low,0,1,0
+20,Jhapa,Hostel,Second,Male,IT,4,4,3,4,5,4.0,low,0,1,0
+21,Salyan,Rented room,First,Female,IT,2,2,2,2,2,2.0,high,1,0,0
+22,Palpa,Hostel,First,Male,IT,4,4,4,5,5,4.4,low,0,1,0
+23,Lalitpur,Living with family at home,First,Male,Computer,4,3,1,5,4,3.4,medium,0,0,1
+24,Kathmandu,Rented flat or apartment,Fourth,Male,Computer,5,5,1,5,5,4.2,low,0,1,0
+25,Kathmandu,Living with family at home,Fourth,Female,Computer,5,3,2,5,3,3.6,low,0,1,0
+26,Arghakhanchi ,Rented room,First,Female,IT,5,1,3,3,5,3.4,medium,0,0,1
+27,Kathmandu,Living with family at home,First,Female,IT,5,2,3,3,5,3.6,low,0,1,0
+28,Baitadi,Rented room,First,Male,IT,5,3,4,4,4,4.0,low,0,1,0
+29,Rupandehi,Living with family at home,First,Male,IT,2,3,4,1,5,3.0,medium,0,0,1
+30,Lalitpur,Living with family at home,Second,Female,IT,5,1,5,5,2,3.6,low,0,1,0
+31,Kathmandu,Living with family at home,Fourth,Male,Computer,3,4,4,3,4,3.6,low,0,1,0
+32,Rupandehi,Rented flat or apartment,Fourth,Male,Computer,5,5,5,5,4,4.8,low,0,1,0
+33,Rautahat,Living with family at home,Fourth,Female,Computer,4,5,5,5,5,4.8,low,0,1,0
+34,Kathmandu,Living with family at home,Fourth,Female,Computer,5,4,5,5,4,4.6,low,0,1,0
+35,Jhapa,Living with family at home,Fourth,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+36,Sunsari,Hostel,Fourth,Male,Computer,5,5,2,5,5,4.4,low,0,1,0
+37,Dhanusha,Hostel,Fourth,Female,Computer,5,5,5,5,5,5.0,low,0,1,0
+38,Kavrepalanchok,Living with family at home,Fourth,Male,Computer,4,4,4,4,4,4.0,low,0,1,0
+39,Gulmi,Living with family at home,Third,Male,Computer,4,3,2,3,3,3.0,medium,0,0,1
+40,Gulmi,Living with family at home,Third,Male,Computer,5,5,5,5,3,4.6,low,0,1,0
+41,Chitwan,Rented flat or apartment,Third,Male,Computer,5,4,4,4,4,4.2,low,0,1,0
+42,Gulmi,Living with family at home,First,Male,Computer,5,2,4,5,2,3.6,low,0,1,0
+43,Kapilvastu,Living with relatives or guardians,First,Male,Computer,5,4,5,5,4,4.6,low,0,1,0
+44,Jhapa,Living with relatives or guardians,First,Female,Computer,4,3,2,4,4,3.4,medium,0,0,1
+45,Lalitpur,Rented flat or apartment,Third,Female,Computer,4,4,4,4,3,3.8,low,0,1,0
+46,Kathmandu,Living with family at home,Third,Female,Computer,5,5,5,5,2,4.4,low,0,1,0
+47,Bhaktapur,Living with family at home,Third,Female,Computer,5,4,5,5,4,4.6,low,0,1,0
+48,Sunsari,Hostel,Third,Male,Computer,3,4,3,4,4,3.6,low,0,1,0
+49,Rupandehi,Hostel,Fourth,Male,Computer,4,5,5,5,5,4.8,low,0,1,0
+50,Morang,Rented flat or apartment,Third,Male,Computer,5,3,3,5,4,4.0,low,0,1,0
+51,Sinduli,Living with family at home,First,Male,Computer,5,4,5,5,5,4.8,low,0,1,0
+52,Kathmandu,Living with family at home,Fourth,Male,Computer,5,5,5,4,4,4.6,low,0,1,0
+53,Palpa,Rented room,Fourth,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+54,Bhojpur,Living with family at home,Fourth,Female,Computer,4,3,3,4,1,3.0,medium,0,0,1
+55,Mahottari,Rented flat or apartment,Fourth,Female,Computer,4,5,4,4,3,4.0,low,0,1,0
+56,Tehrathum,Living with family at home,Fourth,Male,Computer,4,3,3,5,2,3.4,medium,0,0,1
+57,Dhanusha,Hostel,Fourth,Male,IT,2,3,4,4,5,3.6,low,0,1,0
+58,Siraha,Hostel,First,Female,Computer,4,4,4,4,3,3.8,low,0,1,0
+59,Bhojpur,Living with family at home,First,Female,IT,5,4,4,4,4,4.2,low,0,1,0
+60,Kapilvastu,Hostel,Fourth,Male,Computer,5,5,4,5,5,4.8,low,0,1,0
+61,parsa,Rented flat or apartment,First,Male,Computer,4,2,4,4,4,3.6,low,0,1,0
+62,Makawanpur,Hostel,First,Male,Computer,4,4,4,4,2,3.6,low,0,1,0
+63,Arghakhanchi ,Hostel,First,Male,Computer,5,5,2,5,5,4.4,low,0,1,0
+64,Kathmandu,Living with family at home,First,Male,Computer,3,4,4,4,4,3.8,low,0,1,0
+65,Makawanpur,Hostel,First,Male,Computer,3,4,4,3,2,3.2,medium,0,0,1
+66,Lalitpur,Living with family at home,First,Male,Computer,5,5,5,3,2,4.0,low,0,1,0
+67,Dhading,Living with family at home,First,Male,Computer,4,5,5,5,5,4.8,low,0,1,0
+68,Rupandehi,Rented room,First,Male,Computer,5,4,2,5,4,4.0,low,0,1,0
+69,Rupandehi,Living with relatives or guardians,First,Male,Computer,4,4,4,4,4,4.0,low,0,1,0
+70,Sunsari,Living with family at home,First,Male,Computer,5,5,4,5,5,4.8,low,0,1,0
+71,Mahottari,Rented flat or apartment,First,Male,Computer,5,4,2,5,5,4.2,low,0,1,0
+72,Lamjung,Living with family at home,First,Male,Computer,5,5,5,4,3,4.4,low,0,1,0
+73,Baglung,Living with family at home,First,Male,Computer,5,4,5,3,4,4.2,low,0,1,0
+74,Ilam,Rented room,First,Male,Computer,3,4,4,2,3,3.2,medium,0,0,1
+75,Gulmi,Rented room,First,Male,Computer,3,5,5,5,5,4.6,low,0,1,0
+76,Nawalparasi,Hostel,First,Male,Computer,4,3,3,5,5,4.0,low,0,1,0
+77,Dhanusha,Rented room,First,Male,Computer,2,2,5,4,4,3.4,medium,0,0,1
+78,Dhanusha,Rented flat or apartment,First,Male,Computer,4,3,4,3,4,3.6,low,0,1,0
+79,Lalitpur,Living with family at home,First,Female,IT,5,5,5,5,5,5.0,low,0,1,0
+80,Bhaktapur,Living with family at home,First,Male,IT,4,4,4,4,4,4.0,low,0,1,0
+81,Lalitpur,Living with family at home,Second,Male,IT,3,3,3,3,3,3.0,medium,0,0,1
+82,Chitwan,Hostel,First,Male,IT,3,5,5,4,2,3.8,low,0,1,0
+83,Kailali,Living with family at home,First,Male,IT,3,3,3,4,4,3.4,medium,0,0,1
+84,Dhanusha,Rented room,First,Male,IT,4,4,5,2,4,3.8,low,0,1,0
+85,Dolakha,Living with family at home,First,Male,Computer,4,3,3,4,3,3.4,medium,0,0,1
+86,Kathmandu,Living with family at home,First,Male,Computer,4,4,3,5,3,3.8,low,0,1,0
+87,Morang,Hostel,First,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+88,Lalitpur,Living with family at home,First,Female,Computer,4,4,5,5,5,4.6,low,0,1,0
+89,Kathmandu,Living with family at home,First,Male,Computer,1,1,1,1,1,1.0,high,1,0,0
+90,Kathmandu,Living with family at home,First,Male,Computer,5,4,4,4,5,4.4,low,0,1,0
+91,Kathmandu,Rented room,First,Male,Computer,2,4,2,5,1,2.8,medium,0,0,1
+92,Morang,Hostel,First,Female,Computer,5,5,5,5,5,5.0,low,0,1,0
+93,Kathmandu,Living with family at home,First,Male,Computer,4,5,5,5,5,4.8,low,0,1,0
+94,Kathmandu,Living with family at home,First,Male,Computer,5,4,2,5,4,4.0,low,0,1,0
+95,Makawanpur,Living with family at home,First,Male,Computer,4,2,2,5,5,3.6,low,0,1,0
+96,Gorkha,Living with family at home,First,Male,IT,4,5,4,4,4,4.2,low,0,1,0
+97,Lalitpur,Rented flat or apartment,First,Female,Computer,5,4,4,4,5,4.4,low,0,1,0
+98,Sarlahi,Living with family at home,Fourth,Female,Computer,4,3,4,4,4,3.8,low,0,1,0
+99,Udayapur,Rented room,Third,Male,Computer,4,4,3,4,3,3.6,low,0,1,0
+100,Kanchanpur,Rented flat or apartment,Third,Male,Computer,4,4,5,5,3,4.2,low,0,1,0
+101,Kapilvastu,Rented room,Third,Male,Computer,4,5,5,4,4,4.4,low,0,1,0
+102,Chitwan,Hostel,Third,Male,IT,3,3,3,2,3,2.8,medium,0,0,1
+103,Jhapa,Rented flat or apartment,Third,Male,Computer,5,2,2,5,5,3.8,low,0,1,0
+104,Lalitpur,Living with family at home,Third,Male,Computer,4,4,4,4,4,4.0,low,0,1,0
+105,Rupandehi,Living with relatives or guardians,Third,Male,Computer,5,4,3,5,3,4.0,low,0,1,0
+106,Lamjung,Living with family at home,Fourth,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+107,Surkhet,Living with relatives or guardians,Fourth,Male,Computer,4,4,2,2,2,2.8,medium,0,0,1
+108,Rupandehi,Hostel,Fourth,Male,Computer,5,3,3,5,5,4.2,low,0,1,0
+109,Lamjung,Living with family at home,Fourth,Female,Computer,4,4,4,5,3,4.0,low,0,1,0
+110,Kathmandu,Living with family at home,Fourth,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+111,Kavrepalanchok,Living with family at home,Fourth,Male,Computer,5,5,3,4,3,4.0,low,0,1,0
+112,Surkhet,Rented room,Fourth,Male,Computer,4,4,3,2,4,3.4,medium,0,0,1
+113,Kanchanpur,Rented room,Fourth,Male,Computer,5,4,4,4,4,4.2,low,0,1,0
+114,Dolakha,Living with family at home,Second,Male,Computer,4,3,5,5,5,4.4,low,0,1,0
+115,Kathmandu,Living with family at home,Second,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+116,Kathmandu,Living with family at home,Second,Female,Computer,5,5,5,5,5,5.0,low,0,1,0
+117,Kailali,Rented flat or apartment,Second,Male,Computer,3,4,4,4,2,3.4,medium,0,0,1
+118,Kathmandu,Living with family at home,Second,Female,Computer,5,5,5,5,5,5.0,low,0,1,0
+119,Syangja,Rented flat or apartment,Second,Male,Computer,4,4,5,4,5,4.4,low,0,1,0
+120,Rupandehi,Hostel,Second,Male,Computer,4,5,4,4,4,4.2,low,0,1,0
+121,Palpa,Hostel,Second,Male,Computer,5,4,3,4,4,4.0,low,0,1,0
+122,Kathmandu,Living with family at home,Second,Female,Computer,5,3,1,5,4,3.6,low,0,1,0
+123,Tanahun,Rented flat or apartment,Fourth,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+124,Gulmi,Rented flat or apartment,Second,Male,Computer,5,5,5,5,4,4.8,low,0,1,0
+125,Bardiya,Hostel,Fourth,Male,Computer,2,2,2,4,4,2.8,medium,0,0,1
+126,Dhanusha,Living with family at home,Fourth,Female,Computer,4,4,4,5,5,4.4,low,0,1,0
+127,Nawalparasi,Rented room,Fourth,Female,Computer,5,5,5,5,5,5.0,low,0,1,0
+128,Lalitpur,Living with family at home,Fourth,Female,Computer,5,4,3,4,4,4.0,low,0,1,0
+129,Bhaktapur,Living with family at home,Fourth,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+130,Rupandehi,Rented flat or apartment,Fourth,Male,Computer,3,3,4,3,3,3.2,medium,0,0,1
+131,Lalitpur,Living with family at home,Fourth,Female,Computer,4,4,4,2,4,3.6,low,0,1,0
+132,Kathmandu,Living with family at home,Fourth,Female,Computer,2,2,1,2,4,2.2,medium,0,0,1
+133,Lalitpur,Living with family at home,Fourth,Female,Computer,4,5,4,5,4,4.4,low,0,1,0
+134,Kathmandu,Rented flat or apartment,Fourth,Male,Computer,5,4,4,4,4,4.2,low,0,1,0
+135,Panchthar,Living with relatives or guardians,Fourth,Male,Computer,4,4,4,5,4,4.2,low,0,1,0
+136,Okhaldhunga,Rented flat or apartment,Fourth,Female,Computer,5,4,5,5,5,4.8,low,0,1,0
+137,Morang,Living with relatives or guardians,Third,Male,Computer,4,2,3,5,3,3.4,medium,0,0,1
+138,Bajhang,Rented room,Third,Male,Computer,5,1,1,5,1,2.6,medium,0,0,1
+139,Kathmandu,Living with relatives or guardians,Third,Male,Computer,4,3,4,4,4,3.8,low,0,1,0
+140,Kailali,Rented room,Fourth,Male,Computer,5,4,3,5,5,4.4,low,0,1,0
+141,Lalitpur,Living with family at home,Fourth,Male,IT,5,4,3,4,2,3.6,low,0,1,0
+142,Sarlahi,Rented room,Third,Male,Computer,4,4,3,4,4,3.8,low,0,1,0
+143,Kaski,Living with family at home,First,Male,IT,5,5,5,5,5,5.0,low,0,1,0
+144,Gulmi,Rented flat or apartment,First,Male,Computer,3,3,3,3,3,3.0,medium,0,0,1
+145,Kathmandu,Living with family at home,Third,Male,Computer,3,3,3,3,3,3.0,medium,0,0,1
+146,Jhapa,Living with family at home,Fourth,Female,Computer,4,5,5,5,5,4.8,low,0,1,0
+147,Kathmandu,Living with family at home,First,Male,IT,4,5,4,3,3,3.8,low,0,1,0
+148,Lalitpur,Living with family at home,Fourth,Female,Computer,5,4,4,5,5,4.6,low,0,1,0
+149,Lalitpur,Rented room,Fourth,Male,Computer,5,2,5,5,2,3.8,low,0,1,0
+150,Kavrepalanchok,Living with family at home,Fourth,Male,Computer,5,2,4,5,5,4.2,low,0,1,0
+151,Sarlahi,Rented room,Third,Male,Computer,4,3,2,2,1,2.4,medium,0,0,1
+152,Bajhang,Living with relatives or guardians,First,Male,IT,5,3,2,5,5,4.0,low,0,1,0
+153,Rasuwa,Rented room,Third,Male,Computer,4,4,2,4,3,3.4,medium,0,0,1
+154,Chitwan,Living with family at home,Second,Male,Computer,3,3,5,4,3,3.6,low,0,1,0
+155,Gulmi,Rented flat or apartment,Second,Male,Computer,3,4,4,5,4,4.0,low,0,1,0
+156,Sarlahi,Rented room,Third,Male,Computer,4,4,4,4,4,4.0,low,0,1,0
+157,Dhanusha,Hostel,Fourth,Male,Computer,5,5,4,5,3,4.4,low,0,1,0
+158,Morang,Hostel,First,Male,IT,5,1,2,4,4,3.2,medium,0,0,1
+159,Mahottari,Rented flat or apartment,First,Female,IT,4,4,4,4,4,4.0,low,0,1,0
+160,Jhapa,Living with family at home,Second,Male,IT,5,5,5,5,5,5.0,low,0,1,0
+161,Okhaldhunga,Rented flat or apartment,Fourth,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+162,Ilam,Rented flat or apartment,First,Male,IT,5,5,5,5,5,5.0,low,0,1,0
+163,Jhapa,Hostel,First,Female,IT,3,4,4,4,4,3.8,low,0,1,0
+164,Lalitpur,Living with family at home,First,Male,IT,4,4,4,4,3,3.8,low,0,1,0
+165,Kailali,Rented room,First,Female,IT,5,5,5,4,5,4.8,low,0,1,0
+166,Kapilvastu,Rented flat or apartment,Third,Male,Computer,4,4,5,5,5,4.6,low,0,1,0
+167,Jhapa,Living with relatives or guardians,Third,Male,Computer,4,5,3,5,3,4.0,low,0,1,0
+168,Palpa,Rented flat or apartment,Third,Female,Computer,5,2,3,5,5,4.0,low,0,1,0
+169,Lalitpur,Living with family at home,Third,Female,Computer,5,4,4,5,5,4.6,low,0,1,0
+170,Kathmandu,Living with family at home,First,Female,Computer,5,4,5,3,5,4.4,low,0,1,0
+171,Rukum,Rented room,Fourth,Male,Computer,4,5,5,4,4,4.4,low,0,1,0
+172,Syangja,Rented room,Fourth,Male,Computer,3,5,5,5,4,4.4,low,0,1,0
+173,Chitwan,Hostel,Fourth,Female,Computer,3,2,2,4,4,3.0,medium,0,0,1
+174,Kailali,Rented room,Fourth,Male,Computer,3,3,3,3,3,3.0,medium,0,0,1
+175,Rupandehi,Hostel,Fourth,Female,Computer,4,4,3,4,2,3.4,medium,0,0,1
+176,Lalitpur,Living with family at home,Fourth,Male,Computer,4,4,4,5,1,3.6,low,0,1,0
+177,Morang,Living with family at home,Fourth,Male,Computer,4,1,1,1,1,1.6,high,1,0,0
+178,Rupandehi,Hostel,Third,Male,Computer,5,3,5,5,3,4.2,low,0,1,0
+179,Rupandehi,Rented flat or apartment,Third,Male,Computer,4,3,4,4,4,3.8,low,0,1,0
+180,Kanchanpur,Rented flat or apartment,Third,Male,Computer,4,3,2,4,2,3.0,medium,0,0,1
+181,Bara,Rented room,Third,Male,Computer,5,3,3,5,3,3.8,low,0,1,0
+182,Lalitpur,Living with family at home,First,Male,Computer,4,4,4,4,4,4.0,low,0,1,0
+183,Okhaldhunga,Living with family at home,First,Male,Computer,5,5,4,4,4,4.4,low,0,1,0
+184,Kathmandu,Living with family at home,First,Female,Computer,3,5,3,5,5,4.2,low,0,1,0
+185,Lamjung,Living with family at home,Fourth,Female,IT,5,4,3,5,4,4.2,low,0,1,0
+186,Siraha,Rented room,Fourth,Male,IT,4,5,5,4,2,4.0,low,0,1,0
+187,Kathmandu,Living with family at home,First,Female,Computer,4,5,5,4,5,4.6,low,0,1,0
+188,Lalitpur,Living with family at home,Fourth,Male,Computer,5,3,3,3,2,3.2,medium,0,0,1
+189,Palpa,Rented room,Fourth,Male,Computer,5,4,5,5,3,4.4,low,0,1,0
+190,Chitwan,Rented flat or apartment,Fourth,Female,Computer,4,4,4,4,2,3.6,low,0,1,0
+191,Kathmandu,Living with family at home,Fourth,Male,Computer,5,5,1,5,5,4.2,low,0,1,0
+192,Mugu,Living with family at home,Fourth,Other,Computer,5,5,5,5,4,4.8,low,0,1,0
+193,Nawalparasi,Rented room,Fourth,Male,Computer,4,2,3,4,2,3.0,medium,0,0,1
+194,Udayapur,Rented room,Fourth,Male,Computer,2,2,2,4,3,2.6,medium,0,0,1
+195,Dang,Living with relatives or guardians,Fourth,Male,Computer,4,5,4,5,3,4.2,low,0,1,0
+196,Lalitpur,Living with family at home,First,Female,Computer,2,3,1,3,2,2.2,medium,0,0,1
+197,Bara,Living with relatives or guardians,Fourth,Male,Computer,5,4,1,5,5,4.0,low,0,1,0
+198,Dhanusha,Rented flat or apartment,Fourth,Male,IT,5,4,4,5,5,4.6,low,0,1,0
+199,Dhading,Rented room,Second,Male,Computer,4,4,4,4,4,4.0,low,0,1,0
+200,Lalitpur,Living with family at home,Fourth,Other,Computer,5,3,3,5,3,3.8,low,0,1,0
+201,Kathmandu,Living with family at home,Third,Male,Computer,5,5,3,4,4,4.2,low,0,1,0
+202,Kanchanpur,Hostel,First,Female,IT,3,4,2,3,3,3.0,medium,0,0,1
+203,Sankhuwasabha,Rented room,First,Female,IT,4,5,4,4,5,4.4,low,0,1,0
+204,Kavrepalanchok,Living with family at home,Fourth,Female,Computer,5,3,4,5,2,3.8,low,0,1,0
+205,Rukum,Living with family at home,Fourth,Female,Computer,4,3,3,5,5,4.0,low,0,1,0
+206,Kalikot,Living with relatives or guardians,Fourth,Female,Computer,4,4,3,4,3,3.6,low,0,1,0
+207,Kathmandu,Living with family at home,Fourth,Female,Computer,4,4,3,4,3,3.6,low,0,1,0
+208,Mahottari,Hostel,Fourth,Male,Computer,2,3,2,5,3,3.0,medium,0,0,1
+209,Bajhang,Rented room,Fourth,Male,Computer,2,4,2,2,4,2.8,medium,0,0,1
+210,Kathmandu,Living with family at home,First,Male,Computer,5,4,4,5,5,4.6,low,0,1,0
+211,Lalitpur,Living with family at home,First,Male,Computer,4,4,2,4,4,3.6,low,0,1,0
+212,Bhaktapur,Living with family at home,Fourth,Female,IT,5,5,5,5,1,4.2,low,0,1,0
+213,Nawalparasi,Rented room,Third,Male,Computer,4,4,4,4,4,4.0,low,0,1,0
+214,Sunsari,Rented flat or apartment,Third,Male,Computer,5,2,2,5,4,3.6,low,0,1,0
+215,Kanchanpur,Rented flat or apartment,Fourth,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+216,Kathmandu,Rented room,Fourth,Male,Computer,5,5,5,5,3,4.6,low,0,1,0
+217,Kathmandu,Living with family at home,Fourth,Male,Computer,5,5,1,5,5,4.2,low,0,1,0
+218,Sunsari,Rented flat or apartment,Fourth,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+219,Sunsari,Rented room,Fourth,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+220,Ramechhap,Living with family at home,Fourth,Male,Computer,4,4,5,4,3,4.0,low,0,1,0
+221,Lalitpur,Living with family at home,Fourth,Male,Computer,5,4,2,4,4,3.8,low,0,1,0
+222,Jhapa,Rented room,Fourth,Male,Computer,5,1,1,5,1,2.6,medium,0,0,1
+223,Rautahat,Rented room,Second,Male,Computer,4,4,4,4,2,3.6,low,0,1,0
+224,Lalitpur,Living with family at home,Fourth,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+225,Dang,Rented room,Fourth,Male,Computer,2,4,4,4,2,3.2,medium,0,0,1
+226,Jhapa,Rented room,First,Male,IT,4,4,4,4,5,4.2,low,0,1,0
+227,Surkhet,Rented room,First,Male,IT,4,2,1,4,3,2.8,medium,0,0,1
+228,Kathmandu,Living with family at home,First,Male,IT,3,4,4,4,4,3.8,low,0,1,0
+229,Dhading,Living with family at home,First,Female,IT,5,5,5,5,5,5.0,low,0,1,0
+230,Salyan,Living with family at home,First,Male,IT,4,4,3,4,4,3.8,low,0,1,0
+231,Kathmandu,Living with family at home,Fourth,Male,Computer,5,5,4,5,5,4.8,low,0,1,0
+232,Dhanusha,Rented flat or apartment,Second,Male,Computer,3,3,3,3,3,3.0,medium,0,0,1
+233,Bara,Rented flat or apartment,Second,Male,Computer,4,4,3,4,4,3.8,low,0,1,0
+234,Arghakhanchi ,Rented room,Second,Male,Computer,3,4,4,4,3,3.6,low,0,1,0
+235,Kapilvastu,Rented room,Second,Male,Computer,5,4,4,4,4,4.2,low,0,1,0
+236,Saptari,Living with family at home,Second,Male,Computer,5,4,4,4,4,4.2,low,0,1,0
+237,Chitwan,Rented flat or apartment,Second,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+238,Baitadi,Rented room,Second,Male,Computer,2,4,2,2,5,3.0,medium,0,0,1
+239,Palpa,Living with family at home,Second,Male,Computer,4,4,4,4,1,3.4,medium,0,0,1
+240,Taplejung,Hostel,Second,Male,Computer,5,3,3,4,4,3.8,low,0,1,0
+241,Chitwan,Hostel,Second,Female,Computer,4,4,3,5,5,4.2,low,0,1,0
+242,Baglung,Rented flat or apartment,Second,Male,Computer,5,5,4,4,3,4.2,low,0,1,0
+243,Chitwan,Rented flat or apartment,Second,Male,Computer,5,5,5,4,2,4.2,low,0,1,0
+244,Nawalparasi,Rented flat or apartment,Second,Male,Computer,5,2,2,2,4,3.0,medium,0,0,1
+245,Nawalparasi,Rented flat or apartment,Second,Male,Computer,5,2,5,3,5,4.0,low,0,1,0
+246,Kathmandu,Living with family at home,Second,Male,Computer,5,3,3,5,3,3.8,low,0,1,0
+247,Kathmandu,Living with family at home,Second,Female,Computer,4,4,5,5,5,4.6,low,0,1,0
+248,Kanchanpur,Hostel,Second,Male,Computer,2,3,3,3,2,2.6,medium,0,0,1
+249,Bhaktapur,Living with family at home,Second,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+250,Baitadi,Living with family at home,Second,Male,Computer,5,2,2,2,5,3.2,medium,0,0,1
+251,Kathmandu,Living with family at home,Second,Male,Computer,5,5,3,5,5,4.6,low,0,1,0
+252,Kathmandu,Living with family at home,Second,Male,Computer,5,2,3,4,2,3.2,medium,0,0,1
+253,Jhapa,Rented room,Second,Male,Computer,4,5,5,5,2,4.2,low,0,1,0
+254,Rautahat,Rented room,Second,Male,Computer,3,3,3,4,3,3.2,medium,0,0,1
+255,Sunsari,Hostel,Third,Male,Computer,1,5,5,1,5,3.4,medium,0,0,1
+256,Parsa,Hostel,Third,Male,Computer,3,2,3,2,2,2.4,medium,0,0,1
+257,Surkhet,Rented flat or apartment,Fourth,Male,Computer,4,3,3,3,3,3.2,medium,0,0,1
+258,Banke,Rented room,Fourth,Male,Computer,4,4,5,5,4,4.4,low,0,1,0
+259,Surkhet,Rented room,Fourth,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+260,Sunsari,Living with family at home,Fourth,Male,Computer,4,5,4,4,5,4.4,low,0,1,0
+261,Lalitpur,Living with family at home,Fourth,Male,Computer,4,4,4,4,4,4.0,low,0,1,0
+262,Lalitpur,Living with family at home,Fourth,Male,Computer,4,4,3,4,3,3.6,low,0,1,0
+263,Lalitpur,Living with family at home,Fourth,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+264,Lalitpur,Living with family at home,Fourth,Male,Computer,3,3,3,3,3,3.0,medium,0,0,1
+265,Dang,Rented room,Fourth,Male,Computer,5,4,4,4,3,4.0,low,0,1,0
+266,Banke,Rented room,Fourth,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+267,Lalitpur,Living with family at home,Fourth,Male,Computer,2,2,3,5,5,3.4,medium,0,0,1
+268,Jhapa,Rented flat or apartment,First,Male,Computer,4,2,2,4,3,3.0,medium,0,0,1
+269,Parbat,Living with family at home,First,Male,Computer,4,4,4,5,3,4.0,low,0,1,0
+270,Pyuthan,Rented room,First,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+271,Nawalparasi,Rented flat or apartment,Fourth,Male,Computer,5,1,3,5,5,3.8,low,0,1,0
+272,Kathmandu,Living with family at home,Fourth,Male,Computer,3,4,4,4,3,3.6,low,0,1,0
+273,Kathmandu,Living with family at home,First,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+274,Gulmi,Living with family at home,First,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+275,Kavrepalanchok,Hostel,First,Female,Computer,4,4,4,4,4,4.0,low,0,1,0
+276,Lalitpur,Living with family at home,First,Male,Computer,4,3,1,4,2,2.8,medium,0,0,1
+277,Lalitpur,Living with family at home,Second,Female,Computer,4,4,4,4,4,4.0,low,0,1,0
+278,Lamjung,Living with family at home,Second,Female,Computer,5,5,5,5,4,4.8,low,0,1,0
+279,Nawalparasi,Rented room,Fourth,Female,Computer,4,4,4,4,4,4.0,low,0,1,0
+280,Arghakhanchi ,Hostel,Second,Female,Computer,5,4,4,4,5,4.4,low,0,1,0
+281,Mahottari,Hostel,Second,Female,Computer,3,3,3,3,4,3.2,medium,0,0,1
+282,Parsa,Rented flat or apartment,First,Female,Computer,2,2,2,2,2,2.0,high,1,0,0
+283,Jhapa,Living with family at home,Fourth,Male,Computer,4,4,4,4,4,4.0,low,0,1,0
+284,Kailali,Rented room,Fourth,Male,Computer,5,3,4,5,3,4.0,low,0,1,0
+285,Lalitpur,Rented flat or apartment,Second,Female,IT,4,2,4,1,5,3.2,medium,0,0,1
+286,Janakpur,Hostel,First,Female,IT,1,5,1,1,1,1.8,high,1,0,0
+287,Kailali,Living with family at home,First,Female,IT,5,1,4,4,4,3.6,low,0,1,0
+288,Kathmandu,Living with family at home,Fourth,Male,Computer,5,3,3,5,3,3.8,low,0,1,0
+289,Kaski,Living with family at home,Fourth,Male,Computer,4,4,4,4,4,4.0,low,0,1,0
+290,Dailekh ,Rented room,Second,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+291,Jhapa,Rented room,Fourth,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+292,Udayapur,Rented flat or apartment,Fourth,Female,IT,5,4,2,4,1,3.2,medium,0,0,1
+293,Lalitpur,Living with family at home,Second,Male,Computer,5,3,5,5,5,4.6,low,0,1,0
+294,Banke,Hostel,First,Female,Computer,4,2,4,4,4,3.6,low,0,1,0
+295,Chitwan,Hostel,Second,Male,Computer,5,2,4,5,5,4.2,low,0,1,0
+296,Lalitpur,Rented room,Fourth,Female,Computer,4,4,3,4,3,3.6,low,0,1,0
+297,Dhanusha,Rented room,Fourth,Female,IT,5,5,5,5,5,5.0,low,0,1,0
+298,Gulmi,Rented room,First,Male,Computer,4,2,2,4,3,3.0,medium,0,0,1
+299,Dang,Hostel,Fourth,Female,Computer,5,4,5,3,5,4.4,low,0,1,0
+300,Kathmandu,Living with family at home,Fourth,Female,Computer,4,4,4,4,4,4.0,low,0,1,0
+301,Bara,Rented flat or apartment,Fourth,Male,Computer,4,2,4,4,3,3.4,medium,0,0,1
+302,Siraha,Rented flat or apartment,Fourth,Male,IT,4,4,5,3,4,4.0,low,0,1,0
+303,Jhapa,Rented flat or apartment,First,Female,Computer,5,5,3,5,3,4.2,low,0,1,0
+304,Kailali,Hostel,First,Male,Computer,5,4,4,3,3,3.8,low,0,1,0
+305,Nawalparasi,Rented flat or apartment,Fourth,Female,Computer,5,5,4,5,2,4.2,low,0,1,0
+306,Kanchanpur,Rented flat or apartment,Fourth,Male,IT,5,5,5,4,5,4.8,low,0,1,0
+307,Baitadi,Living with family at home,Fourth,Male,Computer,4,5,4,5,5,4.6,low,0,1,0
+308,Lalitpur,Living with family at home,Fourth,Male,Computer,4,4,5,3,5,4.2,low,0,1,0
+309,Lalitpur,Living with family at home,Fourth,Male,Computer,4,4,4,5,4,4.2,low,0,1,0
+310,Parsa,Hostel,Third,Female,Computer,4,4,4,4,4,4.0,low,0,1,0
+311,Kathmandu,Living with family at home,Third,Female,Computer,4,4,4,4,4,4.0,low,0,1,0
+312,Dang,Rented flat or apartment,Fourth,Male,Computer,4,3,4,4,4,3.8,low,0,1,0
+313,Lalitpur,Living with family at home,Fourth,Male,IT,3,3,4,3,2,3.0,medium,0,0,1
+314,Lalitpur,Living with family at home,Third,Female,Computer,4,4,4,4,2,3.6,low,0,1,0
+315,Parsa,Hostel,First,Female,Computer,5,4,5,4,4,4.4,low,0,1,0
+316,Parbat,Hostel,First,Female,IT,5,5,5,5,3,4.6,low,0,1,0
+317,Morang,Rented flat or apartment,Fourth,Male,IT,4,2,3,5,4,3.6,low,0,1,0
+318,Lalitpur,Living with family at home,Third,Female,Computer,5,5,5,5,5,5.0,low,0,1,0
+319,Siraha,Living with family at home,First,Female,IT,2,3,3,1,4,2.6,medium,0,0,1
+320,Makawanpur,Hostel,First,Male,Computer,4,4,3,4,3,3.6,low,0,1,0
+321,Dhading,Rented flat or apartment,Fourth,Male,IT,5,2,3,2,5,3.4,medium,0,0,1
+322,Kaski,Living with family at home,Fourth,Male,Computer,4,4,4,4,3,3.8,low,0,1,0
+323,Kailali,Hostel,Fourth,Female,Computer,4,3,3,4,5,3.8,low,0,1,0
+324,Dang,Living with family at home,Fourth,Male,IT,4,3,3,4,2,3.2,medium,0,0,1
+325,Lalitpur,Living with family at home,Fourth,Male,Computer,5,3,4,5,4,4.2,low,0,1,0
+326,Dolakha,Rented room,Fourth,Male,Computer,5,5,5,5,3,4.6,low,0,1,0
+327,Lalitpur,Living with family at home,Fourth,Male,Computer,4,4,1,5,3,3.4,medium,0,0,1
+328,Kathmandu,Living with family at home,Third,Female,Computer,5,4,5,5,3,4.4,low,0,1,0
+329,Saptari,Living with family at home,Third,Female,Computer,4,3,4,4,4,3.8,low,0,1,0
+330,Khotang,Hostel,Third,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+331,Bhaktapur,Living with family at home,First,Male,Computer,5,4,4,5,4,4.4,low,0,1,0
+332,Bhaktapur,Living with family at home,First,Male,Computer,4,5,4,5,4,4.4,low,0,1,0
+333,Sinduli,Rented room,First,Male,Computer,4,4,3,3,2,3.2,medium,0,0,1
+334,Dang,Rented room,First,Male,Computer,4,3,3,4,5,3.8,low,0,1,0
+335,Jhapa,Rented flat or apartment,First,Male,Computer,4,4,2,4,4,3.6,low,0,1,0
+336,Tanahun,Living with family at home,First,Male,Computer,4,4,2,4,2,3.2,medium,0,0,1
+337,Chitwan,Hostel,First,Male,Computer,5,4,4,4,4,4.2,low,0,1,0
+338,Ilam,Rented room,Fourth,Male,Computer,4,4,2,4,4,3.6,low,0,1,0
+339,Udayapur,Rented room,First,Male,IT,2,3,2,2,2,2.2,medium,0,0,1
+340,Lalitpur,Living with family at home,First,Female,IT,5,5,5,5,5,5.0,low,0,1,0
+341,Chitwan,Rented flat or apartment,First,Male,IT,5,5,4,5,5,4.8,low,0,1,0
+342,Kaski,Rented flat or apartment,First,Male,IT,4,4,4,4,4,4.0,low,0,1,0
+343,Sinduli,Living with family at home,First,Male,IT,5,5,5,3,2,4.0,low,0,1,0
+344,Parbat,Living with relatives or guardians,Third,Male,Computer,4,1,2,3,2,2.4,medium,0,0,1
+345,Kaski,Living with family at home,Second,Male,Computer,5,3,4,5,5,4.4,low,0,1,0
+346,Lalitpur,Living with family at home,Fourth,Male,Computer,5,5,5,5,3,4.6,low,0,1,0
+347,Kavrepalanchok,Rented flat or apartment,Third,Male,Computer,5,5,5,5,2,4.4,low,0,1,0
+348,Janakpur,Living with family at home,First,Female,IT,4,5,5,5,5,4.8,low,0,1,0
+349,Nawalparasi,Hostel,First,Male,IT,4,3,4,4,3,3.6,low,0,1,0
+350,Syangja,Rented flat or apartment,Fourth,Female,Computer,5,2,3,5,5,4.0,low,0,1,0
+351,Kanchanpur,Rented room,First,Male,IT,5,2,4,3,2,3.2,medium,0,0,1
+352,Lalitpur,Living with family at home,First,Male,IT,5,3,4,4,5,4.2,low,0,1,0
+353,Kailali,Living with family at home,Second,Female,IT,4,5,5,4,5,4.6,low,0,1,0
+354,Kathmandu,Living with family at home,Second,Male,IT,4,4,4,4,4,4.0,low,0,1,0
+355,Makawanpur,Hostel,Third,Male,Computer,5,2,5,5,5,4.4,low,0,1,0
+356,Okhaldhunga,Living with family at home,Third,Male,Computer,3,3,4,3,3,3.2,medium,0,0,1
+357,Chitwan,Rented flat or apartment,Third,Female,Computer,4,4,4,4,5,4.2,low,0,1,0
+358,Kathmandu,Living with family at home,Third,Male,Computer,4,3,2,4,4,3.4,medium,0,0,1
+359,Lalitpur,Living with family at home,Fourth,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+360,Kailali,Rented room,Fourth,Male,Computer,5,4,5,5,4,4.6,low,0,1,0
+361,Kathmandu,Living with family at home,Fourth,Male,Computer,4,3,4,5,5,4.2,low,0,1,0
+362,Kathmandu,Living with family at home,Third,Male,Computer,5,5,2,5,5,4.4,low,0,1,0
+363,Kathmandu,Living with family at home,Third,Male,Computer,5,5,4,5,3,4.4,low,0,1,0
+364,Jhapa,Rented room,Fourth,Male,Computer,5,5,3,5,2,4.0,low,0,1,0
+365,Lalitpur,Living with family at home,Third,Female,Computer,4,5,4,4,4,4.2,low,0,1,0
+366,Kathmandu,Living with family at home,First,Female,Computer,4,4,5,4,5,4.4,low,0,1,0
+367,Kanchanpur,Rented room,Third,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+368,Nawalparasi,Hostel,Third,Male,Computer,5,5,5,5,4,4.8,low,0,1,0
+369,Kathmandu,Living with family at home,Third,Male,Computer,4,3,4,4,2,3.4,medium,0,0,1
+370,Kathmandu,Living with family at home,Third,Female,Computer,4,4,4,4,4,4.0,low,0,1,0
+371,Kathmandu,Living with family at home,Third,Male,Computer,5,4,3,4,2,3.6,low,0,1,0
+372,Kailali,Rented room,First,Male,Computer,5,5,5,5,4,4.8,low,0,1,0
+373,Dhanusha,Rented flat or apartment,Fourth,Male,IT,4,4,4,4,4,4.0,low,0,1,0
+374,Bhaktapur,Living with family at home,Fourth,Female,Computer,4,4,4,3,2,3.4,medium,0,0,1
+375,Kavrepalanchok,Living with family at home,Second,Male,IT,4,4,4,4,4,4.0,low,0,1,0
+376,Kavrepalanchok,Rented room,First,Male,Computer,2,2,2,1,2,1.8,high,1,0,0
+377,Lalitpur,Living with family at home,First,Male,IT,4,5,2,4,4,3.8,low,0,1,0
+378,Tanahun,Living with family at home,First,Male,IT,4,4,4,4,4,4.0,low,0,1,0
+379,Sarlahi,Living with family at home,First,Male,Computer,3,4,5,5,5,4.4,low,0,1,0
+380,Bhaktapur,Living with family at home,Fourth,Male,Computer,5,5,5,4,5,4.8,low,0,1,0
+381,Siraha,Rented room,First,Male,IT,1,3,2,2,3,2.2,medium,0,0,1
+382,Tanahun,Living with family at home,First,Male,IT,5,4,5,5,5,4.8,low,0,1,0
+383,Morang,Hostel,First,Male,IT,5,5,2,5,5,4.4,low,0,1,0
+384,Lalitpur,Rented flat or apartment,Fourth,Male,Computer,3,4,3,3,4,3.4,medium,0,0,1
+385,Palpa,Living with relatives or guardians,Fourth,Female,Computer,5,2,2,5,5,3.8,low,0,1,0
+386,Mahottari,Hostel,Fourth,Female,Computer,5,3,4,4,3,3.8,low,0,1,0
+387,Sankhuwasabha,Living with family at home,Fourth,Female,Computer,4,2,2,5,4,3.4,medium,0,0,1
+388,Sunsari,Rented room,Fourth,Female,Computer,5,5,5,5,5,5.0,low,0,1,0
+389,Nawalparasi,Rented flat or apartment,Fourth,Female,Computer,5,5,3,5,5,4.6,low,0,1,0
+390,Ilam,Hostel,Fourth,Male,Computer,5,4,2,5,5,4.2,low,0,1,0
+391,Bhaktapur,Living with family at home,Fourth,Male,Computer,3,5,4,4,4,4.0,low,0,1,0
+392,Kathmandu,Living with family at home,First,Male,IT,4,4,3,4,4,3.8,low,0,1,0
+393,Kailali,Rented room,First,Male,IT,1,5,5,4,3,3.6,low,0,1,0
+394,Rautahat,Rented flat or apartment,First,Male,IT,5,4,4,5,3,4.2,low,0,1,0
+395,Banke,Rented room,First,Female,IT,3,3,4,4,2,3.2,medium,0,0,1
+396,Dang,Rented room,First,Female,IT,4,1,3,4,4,3.2,medium,0,0,1
+397,Dhading,Living with family at home,First,Female,Computer,5,4,4,4,4,4.2,low,0,1,0
+398,Lalitpur,Living with family at home,First,Male,Computer,4,4,4,4,4,4.0,low,0,1,0
+399,Jhapa,Hostel,First,Female,Computer,5,5,3,5,3,4.2,low,0,1,0
+400,Kathmandu,Living with family at home,Fourth,Male,Computer,4,4,4,4,4,4.0,low,0,1,0
+401,Nawalparasi,Hostel,Fourth,Female,Computer,4,2,3,4,4,3.4,medium,0,0,1
+402,Pyuthan,Rented room,Fourth,Male,Computer,4,5,1,5,1,3.2,medium,0,0,1
+403,Kailali,Rented room,First,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+404,Bhaktapur,Living with family at home,First,Female,Computer,5,5,5,5,5,5.0,low,0,1,0
+405,Bhaktapur,Living with family at home,Fourth,Male,IT,5,5,5,5,5,5.0,low,0,1,0
+406,Chitwan,Living with relatives or guardians,Fourth,Male,Computer,4,5,5,5,4,4.6,low,0,1,0
+407,Gorkha,Living with family at home,Fourth,Male,Computer,5,2,1,4,2,2.8,medium,0,0,1
+408,Mahottari,Rented room,Fourth,Male,Computer,4,2,3,4,2,3.0,medium,0,0,1
+409,Ilam,Rented flat or apartment,Fourth,Male,Computer,4,4,4,4,4,4.0,low,0,1,0
+410,Kathmandu,Living with family at home,Fourth,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+411,Nuwakot,Living with relatives or guardians,Fourth,Male,Computer,4,4,5,5,4,4.4,low,0,1,0
+412,Gulmi,Rented room,Fourth,Male,Computer,4,4,3,4,2,3.4,medium,0,0,1
+413,Morang,Hostel,Fourth,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+414,Palpa,Living with family at home,Fourth,Male,Computer,5,3,3,5,3,3.8,low,0,1,0
+415,Gorkha,Living with family at home,Fourth,Male,Computer,4,3,3,3,3,3.2,medium,0,0,1
+416,Syangja,Rented room,Fourth,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+417,Lalitpur,Living with family at home,First,Male,Computer,3,4,1,4,5,3.4,medium,0,0,1
+418,Bhaktapur,Living with family at home,First,Male,Computer,4,2,2,4,5,3.4,medium,0,0,1
+419,Lalitpur,Living with family at home,First,Female,Computer,5,5,5,5,5,5.0,low,0,1,0
+420,Lalitpur,Living with family at home,First,Female,Computer,5,4,5,4,5,4.6,low,0,1,0
+421,Bhaktapur,Living with family at home,First,Male,Computer,1,1,1,1,3,1.4,high,1,0,0
+422,Dhanusha,Rented room,First,Male,Computer,4,2,2,3,4,3.0,medium,0,0,1
+423,Kathmandu,Rented room,First,Male,Computer,4,4,4,4,4,4.0,low,0,1,0
+424,Lalitpur,Living with family at home,First,Male,Computer,4,4,2,4,4,3.6,low,0,1,0
+425,Sarlahi,Hostel,First,Male,Computer,3,5,5,5,5,4.6,low,0,1,0
+426,Lalitpur,Living with family at home,First,Male,Computer,5,5,5,4,3,4.4,low,0,1,0
+427,Kaski,Living with family at home,First,Female,Computer,5,5,5,5,5,5.0,low,0,1,0
+428,Chitwan,Rented room,First,Male,Computer,5,4,4,3,4,4.0,low,0,1,0
+429,Jhapa,Living with family at home,First,Male,Computer,4,3,1,5,3,3.2,medium,0,0,1
+430,Lamjung,Hostel,First,Male,Computer,5,4,4,4,4,4.2,low,0,1,0
+431,Kathmandu,Living with family at home,First,Male,IT,4,3,4,3,3,3.4,medium,0,0,1
+432,Lalitpur,Living with family at home,First,Male,Computer,4,4,3,4,4,3.8,low,0,1,0
+433,Kailali,Rented flat or apartment,First,Male,Computer,5,4,5,4,4,4.4,low,0,1,0
+434,Dolakha,Living with family at home,First,Male,Computer,5,3,3,3,3,3.4,medium,0,0,1
+435,Baglung,Rented room,First,Male,Computer,5,1,5,3,4,3.6,low,0,1,0
+436,Saptari,Rented flat or apartment,First,Male,Computer,5,5,5,5,4,4.8,low,0,1,0
+437,Rupandehi,Rented flat or apartment,First,Male,Computer,5,5,4,4,3,4.2,low,0,1,0
+438,Pyuthan,Rented flat or apartment,First,Male,Computer,3,4,3,5,4,3.8,low,0,1,0
+439,Jhapa,Hostel,Second,Female,Computer,4,4,4,4,4,4.0,low,0,1,0
+440,Dhanusha,Rented flat or apartment,First,Female,Computer,4,3,4,5,5,4.2,low,0,1,0
+441,Baglung,Living with family at home,Second,Male,Computer,5,5,5,3,5,4.6,low,0,1,0
+442,Kathmandu,Living with family at home,First,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+443,Kanchanpur,Rented room,First,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+444,Kanchanpur,Rented room,First,Male,Computer,5,5,5,5,5,5.0,low,0,1,0
+445,Makawanpur,Living with relatives or guardians,First,Male,Computer,3,4,4,2,2,3.0,medium,0,0,1
+446,Kathmandu,Living with family at home,First,Male,Computer,5,4,4,4,5,4.4,low,0,1,0
+447,Dang,Rented flat or apartment,Second,Male,Computer,4,4,2,4,2,3.2,medium,0,0,1
+448,Kanchanpur,Rented room,Second,Male,Computer,4,4,4,4,3,3.8,low,0,1,0
+449,Saptari,Rented room,Fourth,Male,Computer,5,5,5,5,4,4.8,low,0,1,0
+450,Syangja,Rented flat or apartment,Fourth,Male,Computer,4,5,5,5,5,4.8,low,0,1,0
+451,Dhading,Rented room,Fourth,Male,Computer,5,5,5,5,4,4.8,low,0,1,0
+452,Pyuthan,Rented flat or apartment,Second,Male,Computer,4,4,4,4,4,4.0,low,0,1,0
+453,Makawanpur,Living with relatives or guardians,Fourth,Male,Computer,4,3,4,4,4,3.8,low,0,1,0
+454,Saptari,Living with family at home,First,Female,IT,5,5,5,5,5,5.0,low,0,1,0
+455,Saptari,Hostel,Fourth,Female,Computer,4,3,3,5,4,3.8,low,0,1,0
+456,Kavrepalanchok,Living with family at home,Fourth,Male,IT,5,4,4,5,4,4.4,low,0,1,0
+457,Kathmandu,Living with family at home,Fourth,Male,Computer,4,4,4,5,4,4.2,low,0,1,0
+458,Rautahat,Rented flat or apartment,Fourth,Female,IT,5,2,4,5,4,4.0,low,0,1,0
+459,Kaski,Rented room,Fourth,Female,Computer,4,2,3,4,4,3.4,medium,0,0,1
+460,Udayapur,Rented room,First,Male,Computer,5,2,5,5,4,4.2,low,0,1,0
+461,Kathmandu,Living with family at home,Fourth,Male,Computer,4,4,4,5,4,4.2,low,0,1,0
+462,Saptari,Living with family at home,Third,Female,Computer,5,5,4,5,3,4.4,low,0,1,0
+463,Lalitpur,Living with family at home,Third,Female,Computer,5,2,2,5,4,3.6,low,0,1,0
+464,Lalitpur,Living with family at home,Third,Female,Computer,5,4,5,5,5,4.8,low,0,1,0
+465,Kathmandu,Living with family at home,First,Female,IT,5,4,5,4,5,4.6,low,0,1,0
+466,Dang,Hostel,Fourth,Male,IT,4,3,5,4,5,4.2,low,0,1,0
+467,Saptari,Rented room,Fourth,Male,IT,4,4,4,2,4,3.6,low,0,1,0
+468,Sindhupalchok,Living with family at home,Fourth,Male,IT,5,4,4,4,4,4.2,low,0,1,0
+469,Siraha,Rented room,Fourth,Male,Computer,5,3,5,5,5,4.6,low,0,1,0
+470,Kathmandu,Living with family at home,Fourth,Female,IT,5,4,4,5,5,4.6,low,0,1,0
+471,Saptari,Rented room,Fourth,Male,Computer,3,2,2,2,3,2.4,medium,0,0,1
+472,Dhading,Rented room,Fourth,Male,Computer,5,4,2,5,5,4.2,low,0,1,0
+473,Dhanusha,Rented room,Fourth,Male,Computer,3,4,2,4,5,3.6,low,0,1,0

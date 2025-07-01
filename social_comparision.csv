@@ -1,0 +1,474 @@
+﻿P_ID,Permanent_Residence,Current_Residence,Year,Gender,Department,Q1 = Do you use any social media?,Q2 = Which social media account do you use mostly?,"Q3 = On average, how much time do you spend on social media daily?",Q4 = What is the main reason for using social media?,Q5 = Approximately how many follower do you have across all social media account?,"Q6 = On average , how many photos ,videos,posts or reels do you share on social media montly?"
+1,Arghakhanchi ,Hostel,Fourth,Male,IT,Yes,Facebook,1-3 hours,To causally pass time(time pass),100-300,5
+2,Morang,Hostel,First,Male,IT,Yes,Tiktok,30-60 minutes,To escape myself creatively(self-expression),100-300,0
+3,Bajura,Rented room,Second,Male,IT,Yes,Facebook,1-3 hours,To escape myself creatively(self-expression),More than 500,5
+4,Sindhupalchok,Living with family at home,First,Male,IT,Yes,Instagram,30-60 minutes,To causally pass time(time pass),100-300,2
+5,Dadlendura,Rented room,Fourth,Male,Computer,Yes,Facebook,3-6 hours,To connect with other(social interaction),More than 500,2
+6,Panchthar,Rented flat or apartment,Third,Male,Computer,Yes,Whatsapp,1-3 hours,To connect with other(social interaction),More than 500,2
+7,Lalitpur,Living with family at home,Third,Female,Computer,Yes,Twitter(X),More than 7 hours,To escape myself creatively(self-expression),100-300,2
+8,Kathmandu,Living with family at home,Third,Male,Computer,Yes,Instagram,30-60 minutes,,50-100,8
+9,Sindhupalchok,Living with family at home,First,Male,IT,Yes,Instagram,30-60 minutes,To causally pass time(time pass),50-100,0
+10,Siraha,Hostel,First,Female,IT,Yes,Instagram,1-3 hours,To escape myself creatively(self-expression),100-300,2
+11,Morang,Hostel,First,Female,IT,Yes,Instagram,3-6 hours,To escape myself creatively(self-expression),More than 500,2
+12,Lalitpur,Living with family at home,Fourth,Female,Computer,Yes,Instagram,1-3 hours,To connect with other(social interaction),50-100,2
+13,Lalitpur,Living with family at home,Fourth,Male,Computer,Yes,Twitter(X),1-3 hours,To causally pass time(time pass),50-100,0
+14,Ilam,Rented flat or apartment,Fourth,Male,Computer,Yes,Instagram,3-6 hours,To escape myself creatively(self-expression),More than 500,More than 10
+15,Gorkha,Rented flat or apartment,Fourth,Female,Computer,Yes,Instagram,1-3 hours,To connect with other(social interaction),100-300,2
+16,Accham,Living with family at home,Fourth,Female,IT,Yes,Youtube,More than 7 hours,To escape myself creatively(self-expression),300-500,0
+17,Parsa,Living with family at home,Fourth,Male,IT,Yes,Instagram,1-3 hours,To connect with other(social interaction),More than 500,More than 10
+18,Salyan,Living with family at home,Fourth,Male,Computer,Yes,Twitter(X),More than 7 hours,To connect with other(social interaction),More than 500,2
+19,Jhapa,Hostel,First,Male,IT,Yes,Instagram,30-60 minutes,To connect with other(social interaction),100-300,0
+20,Jhapa,Hostel,Second,Male,IT,Yes,Whatsapp,1-3 hours,To escape myself creatively(self-expression),100-300,More than 10
+21,Salyan,Rented room,First,Female,IT,Yes,Instagram,1-3 hours,To connect with other(social interaction),100-300,More than 10
+22,Palpa,Hostel,First,Male,IT,Yes,Instagram,30-60 minutes,To connect with other(social interaction),300-500,More than 10
+23,Lalitpur,Living with family at home,First,Male,Computer,Yes,Instagram,3-6 hours,To save memories experiences(archiving),300-500,More than 10
+24,Kathmandu,Rented flat or apartment,Fourth,Male,Computer,No,Whatsapp,1-3 hours,To escape myself creatively(self-expression),More than 500,0
+25,Kathmandu,Living with family at home,Fourth,Female,Computer,Yes,Instagram,1-3 hours,To connect with other(social interaction),100-300,2
+26,Arghakhanchi ,Rented room,First,Female,IT,Yes,Tiktok,More than 7 hours,To causally pass time(time pass),More than 500,More than 10
+27,Kathmandu,Living with family at home,First,Female,IT,Yes,Instagram,More than 7 hours,To causally pass time(time pass),300-500,More than 10
+28,Baitadi,Rented room,First,Male,IT,Yes,Instagram,1-3 hours,To escape myself creatively(self-expression),50-100,2
+29,Rupandehi,Living with family at home,First,Male,IT,Yes,Instagram,More than 7 hours,To save memories experiences(archiving),More than 500,0
+30,Lalitpur,Living with family at home,Second,Female,IT,Yes,Facebook,1-3 hours,To escape myself creatively(self-expression),More than 500,5
+31,Kathmandu,Living with family at home,Fourth,Male,Computer,Yes,Instagram,3-6 hours,To escape myself creatively(self-expression),More than 500,2
+32,Rupandehi,Rented flat or apartment,Fourth,Male,Computer,Yes,Facebook,1-3 hours,To escape myself creatively(self-expression),More than 500,8
+33,Rautahat,Living with family at home,Fourth,Female,Computer,Yes,Snapchat,1-3 hours,To connect with other(social interaction),300-500,2
+34,Kathmandu,Living with family at home,Fourth,Female,Computer,Yes,Instagram,More than 7 hours,To connect with other(social interaction),0-50,8
+35,Jhapa,Living with family at home,Fourth,Male,Computer,Yes,Whatsapp,1-3 hours,To connect with other(social interaction),100-300,0
+36,Sunsari,Hostel,Fourth,Male,Computer,Yes,Instagram,1-3 hours,To connect with other(social interaction),More than 500,2
+37,Dhanusha,Hostel,Fourth,Female,Computer,Yes,Instagram,30-60 minutes,To escape myself creatively(self-expression),50-100,5
+38,Kavrepalanchok,Living with family at home,Fourth,Male,Computer,Yes,Facebook,1-3 hours,To escape myself creatively(self-expression),100-300,2
+39,Gulmi,Living with family at home,Third,Male,Computer,Yes,Whatsapp,1-3 hours,To connect with other(social interaction),More than 500,2
+40,Gulmi,Living with family at home,Third,Male,Computer,Yes,Instagram,1-3 hours,To escape myself creatively(self-expression),More than 500,More than 10
+41,Chitwan,Rented flat or apartment,Third,Male,Computer,Yes,Reddit,1-3 hours,To connect with other(social interaction),100-300,2
+42,Gulmi,Living with family at home,First,Male,Computer,Yes,Snapchat,1-3 hours,To connect with other(social interaction),More than 500,0
+43,Kapilvastu,Living with relatives or guardians,First,Male,Computer,Yes,Instagram,1-3 hours,To connect with other(social interaction),More than 500,0
+44,Jhapa,Living with relatives or guardians,First,Female,Computer,Yes,Instagram,1-3 hours,To connect with other(social interaction),50-100,5
+45,Lalitpur,Rented flat or apartment,Third,Female,Computer,Yes,Instagram,1-3 hours,To escape myself creatively(self-expression),More than 500,2
+46,Kathmandu,Living with family at home,Third,Female,Computer,Yes,Instagram,3-6 hours,To causally pass time(time pass),0-50,0
+47,Bhaktapur,Living with family at home,Third,Female,Computer,Yes,Facebook,1-3 hours,To connect with other(social interaction),300-500,2
+48,Sunsari,Hostel,Third,Male,Computer,Yes,Facebook,3-6 hours,To causally pass time(time pass),100-300,0
+49,Rupandehi,Hostel,Fourth,Male,Computer,Yes,Snapchat,1-3 hours,To causally pass time(time pass),300-500,8
+50,Morang,Rented flat or apartment,Third,Male,Computer,Yes,Instagram,1-3 hours,To causally pass time(time pass),100-300,0
+51,Sinduli,Living with family at home,First,Male,Computer,Yes,Whatsapp,3-6 hours,To causally pass time(time pass),100-300,More than 10
+52,Kathmandu,Living with family at home,Fourth,Male,Computer,Yes,Instagram,More than 7 hours,To escape myself creatively(self-expression),100-300,2
+53,Palpa,Rented room,Fourth,Male,Computer,Yes,Whatsapp,10-30 minutes,To connect with other(social interaction),0-50,0
+54,Bhojpur,Living with family at home,Fourth,Female,Computer,Yes,Instagram,More than 7 hours,To causally pass time(time pass),300-500,2
+55,Mahottari,Rented flat or apartment,Fourth,Female,Computer,Yes,Instagram,1-3 hours,To connect with other(social interaction),50-100,5
+56,Tehrathum,Living with family at home,Fourth,Male,Computer,Yes,Instagram,10-30 minutes,To escape myself creatively(self-expression),100-300,0
+57,Dhanusha,Hostel,Fourth,Male,IT,Yes,Facebook,30-60 minutes,To causally pass time(time pass),More than 500,0
+58,Siraha,Hostel,First,Female,Computer,Yes,Instagram,1-3 hours,To causally pass time(time pass),50-100,0
+59,Bhojpur,Living with family at home,First,Female,IT,Yes,Instagram,3-6 hours,To escape myself creatively(self-expression),100-300,0
+60,Kapilvastu,Hostel,Fourth,Male,Computer,Yes,Instagram,1-3 hours,To save memories experiences(archiving),More than 500,0
+61,parsa,Rented flat or apartment,First,Male,Computer,No,Snapchat,10-30 minutes,To connect with other(social interaction),50-100,2
+62,Makawanpur,Hostel,First,Male,Computer,Yes,Youtube,3-6 hours,To escape myself creatively(self-expression),100-300,0
+63,Arghakhanchi ,Hostel,First,Male,Computer,Yes,Twitter(X),1-3 hours,To connect with other(social interaction),50-100,2
+64,Kathmandu,Living with family at home,First,Male,Computer,Yes,Whatsapp,30-60 minutes,To connect with other(social interaction),More than 500,0
+65,Makawanpur,Hostel,First,Male,Computer,Yes,Instagram,1-3 hours,To escape myself creatively(self-expression),More than 500,2
+66,Lalitpur,Living with family at home,First,Male,Computer,Yes,Instagram,30-60 minutes,To connect with other(social interaction),100-300,2
+67,Dhading,Living with family at home,First,Male,Computer,Yes,Instagram,1-3 hours,To escape myself creatively(self-expression),More than 500,2
+68,Rupandehi,Rented room,First,Male,Computer,Yes,Whatsapp,1-3 hours,To connect with other(social interaction),More than 500,2
+69,Rupandehi,Living with relatives or guardians,First,Male,Computer,Yes,Instagram,1-3 hours,To escape myself creatively(self-expression),100-300,0
+70,Sunsari,Living with family at home,First,Male,Computer,Yes,Instagram,3-6 hours,To escape myself creatively(self-expression),More than 500,2
+71,Mahottari,Rented flat or apartment,First,Male,Computer,Yes,Instagram,3-6 hours,To escape myself creatively(self-expression),More than 500,2
+72,Lamjung,Living with family at home,First,Male,Computer,Yes,Discord,3-6 hours,To connect with other(social interaction),100-300,0
+73,Baglung,Living with family at home,First,Male,Computer,Yes,Whatsapp,3-6 hours,To escape myself creatively(self-expression),More than 500,More than 10
+74,Ilam,Rented room,First,Male,Computer,Yes,Facebook,More than 7 hours,To escape myself creatively(self-expression),300-500,0
+75,Gulmi,Rented room,First,Male,Computer,Yes,Facebook,1-3 hours,To save memories experiences(archiving),More than 500,2
+76,Nawalparasi,Hostel,First,Male,Computer,Yes,Instagram,3-6 hours,To escape myself creatively(self-expression),More than 500,2
+77,Dhanusha,Rented room,First,Male,Computer,No,Viber,30-60 minutes,To escape myself creatively(self-expression),More than 500,More than 10
+78,Dhanusha,Rented flat or apartment,First,Male,Computer,Yes,Instagram,3-6 hours,To connect with other(social interaction),100-300,More than 10
+79,Lalitpur,Living with family at home,First,Female,IT,Yes,Instagram,3-6 hours,To escape myself creatively(self-expression),100-300,0
+80,Bhaktapur,Living with family at home,First,Male,IT,Yes,Instagram,1-3 hours,To connect with other(social interaction),100-300,0
+81,Lalitpur,Living with family at home,Second,Male,IT,Yes,Instagram,More than 7 hours,To escape myself creatively(self-expression),100-300,4
+82,Chitwan,Hostel,First,Male,IT,Yes,Instagram,1-3 hours,To connect with other(social interaction),300-500,5
+83,Kailali,Living with family at home,First,Male,IT,Yes,Instagram,30-60 minutes,To connect with other(social interaction),More than 500,8
+84,Dhanusha,Rented room,First,Male,IT,Yes,Facebook,More than 7 hours,To connect with other(social interaction),More than 500,8
+85,Dolakha,Living with family at home,First,Male,Computer,Yes,Instagram,1-3 hours,To connect with other(social interaction),50-100,2
+86,Kathmandu,Living with family at home,First,Male,Computer,Yes,Instagram,1-3 hours,To connect with other(social interaction),100-300,2
+87,Morang,Hostel,First,Male,Computer,Yes,Snapchat,10-30 minutes,To connect with other(social interaction),More than 500,0
+88,Lalitpur,Living with family at home,First,Female,Computer,Yes,Whatsapp,1-3 hours,To connect with other(social interaction),0-50,0
+89,Kathmandu,Living with family at home,First,Male,Computer,Yes,Instagram,1-3 hours,To causally pass time(time pass),100-300,2
+90,Kathmandu,Living with family at home,First,Male,Computer,Yes,Instagram,30-60 minutes,To escape myself creatively(self-expression),50-100,0
+91,Kathmandu,Rented room,First,Male,Computer,Yes,Facebook,More than 7 hours,To causally pass time(time pass),More than 500,More than 10
+92,Morang,Hostel,First,Female,Computer,Yes,Facebook,1-3 hours,To causally pass time(time pass),100-300,2
+93,Kathmandu,Living with family at home,First,Male,Computer,Yes,Instagram,1-3 hours,To causally pass time(time pass),100-300,2
+94,Kathmandu,Living with family at home,First,Male,Computer,Yes,Instagram,3-6 hours,To causally pass time(time pass),100-300,0
+95,Makawanpur,Living with family at home,First,Male,Computer,Yes,Instagram,3-6 hours,To escape myself creatively(self-expression),More than 500,5
+96,Gorkha,Living with family at home,First,Male,IT,Yes,Tiktok,3-6 hours,To connect with other(social interaction),100-300,0
+97,Lalitpur,Rented flat or apartment,First,Female,Computer,Yes,Instagram,More than 7 hours,To causally pass time(time pass),50-100,0
+98,Sarlahi,Living with family at home,Fourth,Female,Computer,Yes,Instagram,3-6 hours,To connect with other(social interaction),100-300,2
+99,Udayapur,Rented room,Third,Male,Computer,Yes,Youtube,3-6 hours,To causally pass time(time pass),More than 500,0
+100,Kanchanpur,Rented flat or apartment,Third,Male,Computer,Yes,Whatsapp,1-3 hours,To escape myself creatively(self-expression),More than 500,2
+101,Kapilvastu,Rented room,Third,Male,Computer,Yes,Instagram,1-3 hours,To save memories experiences(archiving),300-500,2
+102,Chitwan,Hostel,Third,Male,IT,Yes,Instagram,1-3 hours,To causally pass time(time pass),100-300,0
+103,Jhapa,Rented flat or apartment,Third,Male,Computer,Yes,Facebook,1-3 hours,To connect with other(social interaction),100-300,2
+104,Lalitpur,Living with family at home,Third,Male,Computer,Yes,Instagram,3-6 hours,To causally pass time(time pass),More than 500,0
+105,Rupandehi,Living with relatives or guardians,Third,Male,Computer,Yes,Instagram,3-6 hours,To causally pass time(time pass),100-300,0
+106,Lamjung,Living with family at home,Fourth,Male,Computer,Yes,Instagram,1-3 hours,To connect with other(social interaction),50-100,0
+107,Surkhet,Living with relatives or guardians,Fourth,Male,Computer,Yes,Youtube,1-3 hours,To causally pass time(time pass),300-500,3
+108,Rupandehi,Hostel,Fourth,Male,Computer,Yes,Reddit,1-3 hours,To escape myself creatively(self-expression),300-500,0
+109,Lamjung,Living with family at home,Fourth,Female,Computer,Yes,Instagram,1-3 hours,To escape myself creatively(self-expression),300-500,0
+110,Kathmandu,Living with family at home,Fourth,Male,Computer,Yes,Discord,1-3 hours,To connect with other(social interaction),50-100,0
+111,Kavrepalanchok,Living with family at home,Fourth,Male,Computer,Yes,Whatsapp,30-60 minutes,To connect with other(social interaction),100-300,0
+112,Surkhet,Rented room,Fourth,Male,Computer,Yes,Instagram,3-6 hours,To escape myself creatively(self-expression),100-300,More than 10
+113,Kanchanpur,Rented room,Fourth,Male,Computer,Yes,Instagram,3-6 hours,To save memories experiences(archiving),300-500,More than 10
+114,Dolakha,Living with family at home,Second,Male,Computer,Yes,Instagram,1-3 hours,To causally pass time(time pass),300-500,2
+115,Kathmandu,Living with family at home,Second,Male,Computer,Yes,Instagram,More than 7 hours,To escape myself creatively(self-expression),300-500,0
+116,Kathmandu,Living with family at home,Second,Female,Computer,Yes,Instagram,More than 7 hours,To connect with other(social interaction),More than 500,0
+117,Kailali,Rented flat or apartment,Second,Male,Computer,Yes,Tiktok,More than 7 hours,To escape myself creatively(self-expression),More than 500,2
+118,Kathmandu,Living with family at home,Second,Female,Computer,Yes,Facebook,More than 7 hours,To connect with other(social interaction),100-300,0
+119,Syangja,Rented flat or apartment,Second,Male,Computer,Yes,Tiktok,1-3 hours,To causally pass time(time pass),50-100,0
+120,Rupandehi,Hostel,Second,Male,Computer,Yes,Instagram,More than 7 hours,To connect with other(social interaction),More than 500,2
+121,Palpa,Hostel,Second,Male,Computer,Yes,Instagram,3-6 hours,To connect with other(social interaction),50-100,0
+122,Kathmandu,Living with family at home,Second,Female,Computer,Yes,Instagram,1-3 hours,To connect with other(social interaction),50-100,2
+123,Tanahun,Rented flat or apartment,Fourth,Male,Computer,Yes,Twitter(X),1-3 hours,To connect with other(social interaction),100-300,0
+124,Gulmi,Rented flat or apartment,Second,Male,Computer,Yes,Twitter(X),30-60 minutes,To connect with other(social interaction),More than 500,0
+125,Bardiya,Hostel,Fourth,Male,Computer,Yes,Reddit,30-60 minutes,To connect with other(social interaction),100-300,5
+126,Dhanusha,Living with family at home,Fourth,Female,Computer,Yes,Instagram,30-60 minutes,To escape myself creatively(self-expression),More than 500,0
+127,Nawalparasi,Rented room,Fourth,Female,Computer,Yes,Whatsapp,3-6 hours,To connect with other(social interaction),100-300,2
+128,Lalitpur,Living with family at home,Fourth,Female,Computer,Yes,Instagram,1-3 hours,To escape myself creatively(self-expression),100-300,2
+129,Bhaktapur,Living with family at home,Fourth,Male,Computer,Yes,Instagram,3-6 hours,To connect with other(social interaction),More than 500,5
+130,Rupandehi,Rented flat or apartment,Fourth,Male,Computer,Yes,Facebook,3-6 hours,To causally pass time(time pass),50-100,0
+131,Lalitpur,Living with family at home,Fourth,Female,Computer,Yes,Instagram,1-3 hours,To causally pass time(time pass),More than 500,More than 10
+132,Kathmandu,Living with family at home,Fourth,Female,Computer,No,Facebook,1-3 hours,To escape myself creatively(self-expression),0-50,0
+133,Lalitpur,Living with family at home,Fourth,Female,Computer,Yes,Instagram,1-3 hours,To causally pass time(time pass),50-100,8
+134,Kathmandu,Rented flat or apartment,Fourth,Male,Computer,Yes,Viber,1-3 hours,To escape myself creatively(self-expression),More than 500,2
+135,Panchthar,Living with relatives or guardians,Fourth,Male,Computer,Yes,Instagram,30-60 minutes,To save memories experiences(archiving),More than 500,2
+136,Okhaldhunga,Rented flat or apartment,Fourth,Female,Computer,Yes,Instagram,3-6 hours,To connect with other(social interaction),100-300,2
+137,Morang,Living with relatives or guardians,Third,Male,Computer,Yes,Instagram,3-6 hours,To save memories experiences(archiving),300-500,5
+138,Bajhang,Rented room,Third,Male,Computer,Yes,Instagram,3-6 hours,To causally pass time( time pass),0-50,0
+139,Kathmandu,Living with relatives or guardians,Third,Male,Computer,Yes,Instagram,1-3 hours,To causally pass time( time pass),100-300,2
+140,Kailali,Rented room,Fourth,Male,Computer,Yes,Facebook,1-3 hours,To connect with other(social interaction),More than 500,2
+141,Lalitpur,Living with family at home,Fourth,Male,IT,Yes,Instagram,1-3 hours,To connect with other(social interaction),50-100,2
+142,Sarlahi,Rented room,Third,Male,Computer,Yes,Instagram,1-3 hours,To escape into an entertaining world(fantasy),100-300,0
+143,Kaski,Living with family at home,First,Male,IT,Yes,Instagram,30-60 minutes,To connect with other(social interaction),100-300,2
+144,Gulmi,Rented flat or apartment,First,Male,Computer,No,Viber,1-3 hours,To connect with other(social interaction),0-50,2
+145,Kathmandu,Living with family at home,Third,Male,Computer,Yes,Facebook,More than 7 hours,To escape into an entertaining world(fantasy),0-50,0
+146,Jhapa,Living with family at home,Fourth,Female,Computer,Yes,Instagram,1-3 hours,To causally pass time( time pass),300-500,0
+147,Kathmandu,Living with family at home,First,Male,IT,Yes,Twitter(X),More than 7 hours,To save memories experiences(archiving),0-50,2
+148,Lalitpur,Living with family at home,Fourth,Female,Computer,Yes,Instagram,1-3 hours,To connect with other(social interaction),100-300,2
+149,Lalitpur,Rented room,Fourth,Male,Computer,Yes,Instagram,3-6 hours,To connect with other(social interaction),More than 500,0
+150,Kavrepalanchok,Living with family at home,Fourth,Male,Computer,Yes,Instagram,3-6 hours,To escape into an entertaining world(fantasy),300-500,5
+151,Sarlahi,Rented room,Third,Male,Computer,Yes,Whatsapp,30-60 minutes,To connect with other(social interaction),0-50,2
+152,Bajhang,Living with relatives or guardians,First,Male,IT,Yes,Instagram,1-3 hours,To connect with other(social interaction),100-300,0
+153,Rasuwa,Rented room,Third,Male,Computer,Yes,Whatsapp,30-60 minutes,To connect with other(social interaction),0-50,2
+154,Chitwan,Living with family at home,Second,Male,Computer,Yes,Instagram,3-6 hours,To connect with other(social interaction),300-500,0
+155,Gulmi,Rented flat or apartment,Second,Male,Computer,Yes,Discord,3-6 hours,To causally pass time( time pass),300-500,5
+156,Sarlahi,Rented room,Third,Male,Computer,Yes,Whatsapp,3-6 hours,To connect with other(social interaction),More than 500,2
+157,Dhanusha,Hostel,Fourth,Male,Computer,Yes,Whatsapp,1-3 hours,To connect with other(social interaction),100-300,2
+158,Morang,Hostel,First,Male,IT,Yes,Instagram,More than 7 hours,To escape into an entertaining world(fantasy),50-100,0
+159,Mahottari,Rented flat or apartment,First,Female,IT,Yes,Instagram,1-3 hours,To save memories experiences(archiving),More than 500,2
+160,Jhapa,Living with family at home,Second,Male,IT,Yes,Instagram,30-60 minutes,To causally pass time( time pass),50-100,0
+161,Okhaldhunga,Rented flat or apartment,Fourth,Male,Computer,Yes,Reddit,30-60 minutes,To connect with other(social interaction),More than 500,0
+162,Ilam,Rented flat or apartment,First,Male,IT,Yes,Twitter(X),1-3 hours,To causally pass time( time pass),0-50,0
+163,Jhapa,Hostel,First,Female,IT,Yes,Instagram,1-3 hours,To causally pass time( time pass),100-300,0
+164,Lalitpur,Living with family at home,First,Male,IT,Yes,Instagram,3-6 hours,To escape into an entertaining world(fantasy),50-100,0
+165,Kailali,Rented room,First,Female,IT,Yes,Instagram,10-30 minutes,To connect with other(social interaction),0-50,0
+166,Kapilvastu,Rented flat or apartment,Third,Male,Computer,Yes,Instagram,1-3 hours,To escape into an entertaining world(fantasy),More than 500,2
+167,Jhapa,Living with relatives or guardians,Third,Male,Computer,Yes,Instagram,3-6 hours,To connect with other(social interaction),More than 500,2
+168,Palpa,Rented flat or apartment,Third,Female,Computer,Yes,Whatsapp,30-60 minutes,To save memories experiences(archiving),More than 500,2
+169,Lalitpur,Living with family at home,Third,Female,Computer,Yes,Instagram,1-3 hours,To escape myself creatively(self-expression),More than 500,5
+170,Kathmandu,Living with family at home,First,Female,Computer,Yes,Instagram,3-6 hours,To connect with other(social interaction),More than 500,2
+171,Rukum,Rented room,Fourth,Male,Computer,Yes,Viber,3-6 hours,To escape into an entertaining world(fantasy),0-50,0
+172,Syangja,Rented room,Fourth,Male,Computer,Yes,Facebook,1-3 hours,To escape myself creatively(self-expression),100-300,2
+173,Chitwan,Hostel,Fourth,Female,Computer,Yes,Instagram,1-3 hours,To escape myself creatively(self-expression),More than 500,2
+174,Kailali,Rented room,Fourth,Male,Computer,Yes,Facebook,More than 7 hours,To causally pass time( time pass),100-300,0
+175,Rupandehi,Hostel,Fourth,Female,Computer,Yes,Instagram,30-60 minutes,To connect with other(social interaction),More than 500,2
+176,Lalitpur,Living with family at home,Fourth,Male,Computer,Yes,Instagram,1-3 hours,To escape into an entertaining world(fantasy),50-100,0
+177,Morang,Living with family at home,Fourth,Male,Computer,Yes,Instagram,1-3 hours,To escape into an entertaining world(fantasy),300-500,0
+178,Rupandehi,Hostel,Third,Male,Computer,Yes,Instagram,3-6 hours,To causally pass time( time pass),50-100,0
+179,Rupandehi,Rented flat or apartment,Third,Male,Computer,Yes,Instagram,1-3 hours,To causally pass time( time pass),300-500,More than 10
+180,Kanchanpur,Rented flat or apartment,Third,Male,Computer,Yes,Facebook,1-3 hours,To escape into an entertaining world(fantasy),300-500,2
+181,Bara,Rented room,Third,Male,Computer,Yes,Snapchat,3-6 hours,To connect with other(social interaction),More than 500,0
+182,Lalitpur,Living with family at home,First,Male,Computer,Yes,Instagram,1-3 hours,To connect with other(social interaction),50-100,2
+183,Okhaldhunga,Living with family at home,First,Male,Computer,Yes,Tiktok,1-3 hours,To connect with other(social interaction),More than 500,More than 10
+184,Kathmandu,Living with family at home,First,Female,Computer,Yes,Instagram,1-3 hours,To causally pass time( time pass),100-300,0
+185,Lamjung,Living with family at home,Fourth,Female,IT,Yes,Tiktok,More than 7 hours,To causally pass time( time pass),More than 500,2
+186,Siraha,Rented room,Fourth,Male,IT,Yes,Facebook,1-3 hours,To escape into an entertaining world(fantasy),More than 500,More than 10
+187,Kathmandu,Living with family at home,First,Female,Computer,Yes,Instagram,3-6 hours,To save memories experiences(archiving),300-500,More than 10
+188,Lalitpur,Living with family at home,Fourth,Male,Computer,Yes,Viber,3-6 hours,To causally pass time( time pass),0-50,0
+189,Palpa,Rented room,Fourth,Male,Computer,Yes,Facebook,3-6 hours,To escape into an entertaining world(fantasy),300-500,0
+190,Chitwan,Rented flat or apartment,Fourth,Female,Computer,Yes,Facebook,3-6 hours,To causally pass time( time pass),100-300,0
+191,Kathmandu,Living with family at home,Fourth,Male,Computer,Yes,Discord,1-3 hours,To connect with other(social interaction),0-50,0
+192,Mugu,Living with family at home,Fourth,Other,Computer,Yes,Viber,3-6 hours,To connect with other(social interaction),50-100,0
+193,Nawalparasi,Rented room,Fourth,Male,Computer,Yes,Reddit,More than 7 hours,To escape into an entertaining world(fantasy),0-50,0
+194,Udayapur,Rented room,Fourth,Male,Computer,Yes,Whatsapp,1-3 hours,To connect with other(social interaction),0-50,0
+195,Dang,Living with relatives or guardians,Fourth,Male,Computer,Yes,Facebook,30-60 minutes,To causally pass time( time pass),0-50,0
+196,Lalitpur,Living with family at home,First,Female,Computer,Yes,Instagram,3-6 hours,To connect with other(social interaction),100-300,2
+197,Bara,Living with relatives or guardians,Fourth,Male,Computer,Yes,Instagram,More than 7 hours,To connect with other(social interaction),More than 500,2
+198,Dhanusha,Rented flat or apartment,Fourth,Male,IT,Yes,Instagram,3-6 hours,To save memories experiences(archiving),More than 500,8
+199,Dhading,Rented room,Second,Male,Computer,Yes,Instagram,30-60 minutes,To escape myself creatively(self-expression),More than 500,2
+200,Lalitpur,Living with family at home,Fourth,Other,Computer,Yes,Instagram,3-6 hours,To connect with other(social interaction),300-500,2
+201,Kathmandu,Living with family at home,Third,Male,Computer,Yes,Instagram,3-6 hours,To connect with other(social interaction),More than 500,0
+202,Kanchanpur,Hostel,First,Female,IT,Yes,Instagram,30-60 minutes,To connect with other(social interaction),0-50,2
+203,Sankhuwasabha,Rented room,First,Female,IT,Yes,Tiktok,3-6 hours,To save memories experiences(archiving),100-300,2
+204,Kavrepalanchok,Living with family at home,Fourth,Female,Computer,Yes,Instagram,3-6 hours,To connect with other(social interaction),300-500,0
+205,Rukum,Living with family at home,Fourth,Female,Computer,Yes,Instagram,1-3 hours,To causally pass time( time pass),0-50,0
+206,Kalikot,Living with relatives or guardians,Fourth,Female,Computer,Yes,Instagram,3-6 hours,To escape into an entertaining world(fantasy),300-500,0
+207,Kathmandu,Living with family at home,Fourth,Female,Computer,Yes,Facebook,3-6 hours,To escape into an entertaining world(fantasy),100-300,0
+208,Mahottari,Hostel,Fourth,Male,Computer,Yes,Facebook,1-3 hours,To connect with other(social interaction),More than 500,2
+209,Bajhang,Rented room,Fourth,Male,Computer,Yes,Tiktok,30-60 minutes,To escape myself creatively(self-expression),More than 500,2
+210,Kathmandu,Living with family at home,First,Male,Computer,Yes,Instagram,1-3 hours,To causally pass time( time pass),0-50,0
+211,Lalitpur,Living with family at home,First,Male,Computer,Yes,Twitter(X),3-6 hours,To escape into an entertaining world(fantasy),More than 500,More than 10
+212,Bhaktapur,Living with family at home,Fourth,Female,IT,Yes,Instagram,3-6 hours,To causally pass time( time pass),100-300,2
+213,Nawalparasi,Rented room,Third,Male,Computer,Yes,Whatsapp,30-60 minutes,To causally pass time( time pass),300-500,3
+214,Sunsari,Rented flat or apartment,Third,Male,Computer,Yes,Instagram,1-3 hours,To connect with other(social interaction),300-500,2
+215,Kanchanpur,Rented flat or apartment,Fourth,Male,Computer,Yes,Viber,10-30 minutes,To connect with other(social interaction),0-50,0
+216,Kathmandu,Rented room,Fourth,Male,Computer,Yes,Facebook,30-60 minutes,To escape myself creatively(self-expression),More than 500,2
+217,Kathmandu,Living with family at home,Fourth,Male,Computer,Yes,Tiktok,1-3 hours,To escape myself creatively(self-expression),300-500,5
+218,Sunsari,Rented flat or apartment,Fourth,Male,Computer,Yes,Youtube,3-6 hours,To connect with other(social interaction),0-50,2
+219,Sunsari,Rented room,Fourth,Male,Computer,Yes,Viber,More than 7 hours,To causally pass time( time pass),0-50,More than 10
+220,Ramechhap,Living with family at home,Fourth,Male,Computer,Yes,Instagram,3-6 hours,To causally pass time( time pass),100-300,0
+221,Lalitpur,Living with family at home,Fourth,Male,Computer,Yes,Instagram,More than 7 hours,To causally pass time( time pass),More than 500,0
+222,Jhapa,Rented room,Fourth,Male,Computer,Yes,Facebook,3-6 hours,To connect with other(social interaction),0-50,2
+223,Rautahat,Rented room,Second,Male,Computer,Yes,Facebook,1-3 hours,To causally pass time( time pass),More than 500,2
+224,Lalitpur,Living with family at home,Fourth,Male,Computer,Yes,Twitter(X),3-6 hours,To causally pass time( time pass),100-300,2
+225,Dang,Rented room,Fourth,Male,Computer,Yes,Instagram,1-3 hours,To causally pass time( time pass),100-300,0
+226,Jhapa,Rented room,First,Male,IT,Yes,Instagram,30-60 minutes,To causally pass time( time pass),50-100,0
+227,Surkhet,Rented room,First,Male,IT,Yes,Instagram,More than 7 hours,To causally pass time( time pass),More than 500,More than 10
+228,Kathmandu,Living with family at home,First,Male,IT,Yes,Twitter(X),More than 7 hours,To escape into an entertaining world(fantasy),300-500,4
+229,Dhading,Living with family at home,First,Female,IT,Yes,Instagram,3-6 hours,To causally pass time( time pass),More than 500,5
+230,Salyan,Living with family at home,First,Male,IT,Yes,Snapchat,More than 7 hours,To connect with other(social interaction),50-100,0
+231,Kathmandu,Living with family at home,Fourth,Male,Computer,Yes,Instagram,3-6 hours,To connect with other(social interaction),50-100,2
+232,Dhanusha,Rented flat or apartment,Second,Male,Computer,Yes,Twitter(X),3-6 hours,To escape into an entertaining world(fantasy),0-50,2
+233,Bara,Rented flat or apartment,Second,Male,Computer,Yes,Facebook,30-60 minutes,To connect with other(social interaction),100-300,2
+234,Arghakhanchi ,Rented room,Second,Male,Computer,Yes,Facebook,30-60 minutes,To escape into an entertaining world(fantasy),100-300,2
+235,Kapilvastu,Rented room,Second,Male,Computer,Yes,Tiktok,3-6 hours,To save memories experiences(archiving),100-300,2
+236,Saptari,Living with family at home,Second,Male,Computer,Yes,Tiktok,3-6 hours,To causally pass time( time pass),50-100,0
+237,Chitwan,Rented flat or apartment,Second,Male,Computer,Yes,Instagram,More than 7 hours,To escape myself creatively(self-expression),More than 500,0
+238,Baitadi,Rented room,Second,Male,Computer,Yes,Whatsapp,30-60 minutes,To connect with other(social interaction),0-50,0
+239,Palpa,Living with family at home,Second,Male,Computer,Yes,Instagram,3-6 hours,To causally pass time( time pass),More than 500,2
+240,Taplejung,Hostel,Second,Male,Computer,Yes,Facebook,30-60 minutes,To causally pass time( time pass),50-100,0
+241,Chitwan,Hostel,Second,Female,Computer,Yes,Instagram,3-6 hours,To connect with other(social interaction),100-300,2
+242,Baglung,Rented flat or apartment,Second,Male,Computer,Yes,Instagram,3-6 hours,To causally pass time( time pass),100-300,5
+243,Chitwan,Rented flat or apartment,Second,Male,Computer,Yes,Instagram,30-60 minutes,To connect with other(social interaction),100-300,0
+244,Nawalparasi,Rented flat or apartment,Second,Male,Computer,Yes,Facebook,More than 7 hours,To causally pass time( time pass),0-50,0
+245,Nawalparasi,Rented flat or apartment,Second,Male,Computer,Yes,Twitter(X),10-30 minutes,To causally pass time( time pass),0-50,0
+246,Kathmandu,Living with family at home,Second,Male,Computer,Yes,Facebook,3-6 hours,To causally pass time( time pass),0-50,0
+247,Kathmandu,Living with family at home,Second,Female,Computer,Yes,Instagram,3-6 hours,To connect with other(social interaction),300-500,0
+248,Kanchanpur,Hostel,Second,Male,Computer,Yes,Facebook,More than 7 hours,To escape into an entertaining world(fantasy),More than 500,0
+249,Bhaktapur,Living with family at home,Second,Male,Computer,Yes,Reddit,10-30 minutes,To escape myself creatively(self-expression),0-50,0
+250,Baitadi,Living with family at home,Second,Male,Computer,Yes,Whatsapp,1-3 hours,To connect with other(social interaction),100-300,0
+251,Kathmandu,Living with family at home,Second,Male,Computer,Yes,Instagram,1-3 hours,To connect with other(social interaction),100-300,0
+252,Kathmandu,Living with family at home,Second,Male,Computer,Yes,Whatsapp,1-3 hours,To save memories experiences(archiving),0-50,0
+253,Jhapa,Rented room,Second,Male,Computer,Yes,Instagram,1-3 hours,To connect with other(social interaction),More than 500,0
+254,Rautahat,Rented room,Second,Male,Computer,Yes,Twitter(X),1-3 hours,To connect with other(social interaction),100-300,2
+255,Sunsari,Hostel,Third,Male,Computer,Yes,Viber,More than 7 hours,To escape myself creatively(self-expression),More than 500,More than 10
+256,Parsa,Hostel,Third,Male,Computer,Yes,Facebook,1-3 hours,To causally pass time( time pass),100-300,2
+257,Surkhet,Rented flat or apartment,Fourth,Male,Computer,Yes,Reddit,More than 7 hours,To causally pass time( time pass),300-500,0
+258,Banke,Rented room,Fourth,Male,Computer,Yes,Instagram,3-6 hours,To causally pass time( time pass),0-50,0
+259,Surkhet,Rented room,Fourth,Male,Computer,Yes,Reddit,More than 7 hours,To escape into an entertaining world(fantasy),300-500,2
+260,Sunsari,Living with family at home,Fourth,Male,Computer,Yes,Instagram,1-3 hours,To causally pass time( time pass),50-100,0
+261,Lalitpur,Living with family at home,Fourth,Male,Computer,Yes,Facebook,10-30 minutes,To connect with other(social interaction),50-100,2
+262,Lalitpur,Living with family at home,Fourth,Male,Computer,Yes,Facebook,10-30 minutes,To connect with other(social interaction),0-50,0
+263,Lalitpur,Living with family at home,Fourth,Male,Computer,Yes,Instagram,More than 7 hours,To causally pass time( time pass),More than 500,More than 10
+264,Lalitpur,Living with family at home,Fourth,Male,Computer,Yes,Viber,30-60 minutes,To connect with other(social interaction),More than 500,2
+265,Dang,Rented room,Fourth,Male,Computer,Yes,Whatsapp,30-60 minutes,To escape into an entertaining world(fantasy),50-100,0
+266,Banke,Rented room,Fourth,Male,Computer,Yes,Facebook,More than 7 hours,To escape myself creatively(self-expression),More than 500,More than 10
+267,Lalitpur,Living with family at home,Fourth,Male,Computer,Yes,Viber,3-6 hours,To escape myself creatively(self-expression),100-300,More than 10
+268,Jhapa,Rented flat or apartment,First,Male,Computer,Yes,Instagram,1-3 hours,To escape into an entertaining world(fantasy),300-500,2
+269,Parbat,Living with family at home,First,Male,Computer,Yes,Instagram,1-3 hours,To connect with other(social interaction),More than 500,2
+270,Pyuthan,Rented room,First,Male,Computer,Yes,Instagram,3-6 hours,To escape into an entertaining world(fantasy),100-300,0
+271,Nawalparasi,Rented flat or apartment,Fourth,Male,Computer,Yes,Twitter(X),10-30 minutes,To causally pass time( time pass),0-50,0
+272,Kathmandu,Living with family at home,Fourth,Male,Computer,Yes,Instagram,3-6 hours,To causally pass time( time pass),More than 500,2
+273,Kathmandu,Living with family at home,First,Male,Computer,Yes,Whatsapp,1-3 hours,To connect with other(social interaction),100-300,2
+274,Gulmi,Living with family at home,First,Male,Computer,Yes,Instagram,1-3 hours,To save memories experiences(archiving),More than 500,2
+275,Kavrepalanchok,Hostel,First,Female,Computer,Yes,Instagram,1-3 hours,To escape myself creatively(self-expression),100-300,2
+276,Lalitpur,Living with family at home,First,Male,Computer,Yes,Whatsapp,30-60 minutes,To connect with other(social interaction),50-100,0
+277,Lalitpur,Living with family at home,Second,Female,Computer,Yes,Tiktok,More than 7 hours,To escape into an entertaining world(fantasy),300-500,5
+278,Lamjung,Living with family at home,Second,Female,Computer,Yes,Instagram,3-6 hours,To escape into an entertaining world(fantasy),100-300,8
+279,Nawalparasi,Rented room,Fourth,Female,Computer,Yes,Instagram,1-3 hours,To save memories experiences(archiving),50-100,More than 10
+280,Arghakhanchi ,Hostel,Second,Female,Computer,Yes,Instagram,3-6 hours,To causally pass time( time pass),100-300,2
+281,Mahottari,Hostel,Second,Female,Computer,Yes,Instagram,3-6 hours,To causally pass time( time pass),300-500,2
+282,Parsa,Rented flat or apartment,First,Female,Computer,Yes,Facebook,30-60 minutes,To escape into an entertaining world(fantasy),More than 500,2
+283,Jhapa,Living with family at home,Fourth,Male,Computer,Yes,Whatsapp,1-3 hours,To causally pass time( time pass),50-100,0
+284,Kailali,Rented room,Fourth,Male,Computer,Yes,Instagram,1-3 hours,To escape myself creatively(self-expression),More than 500,2
+285,Lalitpur,Rented flat or apartment,Second,Female,IT,Yes,Instagram,3-6 hours,To escape into an entertaining world(fantasy),50-100,0
+286,Janakpur,Hostel,First,Female,IT,Yes,Instagram,1-3 hours,To causally pass time( time pass),100-300,5
+287,Kailali,Living with family at home,First,Female,IT,Yes,Instagram,1-3 hours,To causally pass time( time pass),300-500,More than 10
+288,Kathmandu,Living with family at home,Fourth,Male,Computer,Yes,Instagram,10-30 minutes,To causally pass time( time pass),0-50,0
+289,Kaski,Living with family at home,Fourth,Male,Computer,Yes,Facebook,1-3 hours,To escape into an entertaining world(fantasy),More than 500,5
+290,Dailekh ,Rented room,Second,Male,Computer,Yes,Twitter(X),1-3 hours,To escape into an entertaining world(fantasy),More than 500,0
+291,Jhapa,Rented room,Fourth,Male,Computer,Yes,Instagram,10-30 minutes,To connect with other(social interaction),100-300,0
+292,Udayapur,Rented flat or apartment,Fourth,Female,IT,No,Whatsapp,10-30 minutes,To save memories experiences(archiving),0-50,0
+293,Lalitpur,Living with family at home,Second,Male,Computer,Yes,Viber,30-60 minutes,To connect with other(social interaction),50-100,0
+294,Banke,Hostel,First,Female,Computer,Yes,Tiktok,1-3 hours,To escape myself creatively(self-expression),100-300,5
+295,Chitwan,Hostel,Second,Male,Computer,Yes,Facebook,3-6 hours,To causally pass time( time pass),More than 500,0
+296,Lalitpur,Rented room,Fourth,Female,Computer,Yes,Tiktok,3-6 hours,To connect with other(social interaction),100-300,0
+297,Dhanusha,Rented room,Fourth,Female,IT,Yes,Youtube,More than 7 hours,To escape into an entertaining world(fantasy),300-500,0
+298,Gulmi,Rented room,First,Male,Computer,Yes,Instagram,3-6 hours,To connect with other(social interaction),More than 500,0
+299,Dang,Hostel,Fourth,Female,Computer,Yes,Instagram,3-6 hours,To connect with other(social interaction),300-500,0
+300,Kathmandu,Living with family at home,Fourth,Female,Computer,Yes,Instagram,30-60 minutes,To causally pass time( time pass),More than 500,0
+301,Bara,Rented flat or apartment,Fourth,Male,Computer,Yes,Facebook,3-6 hours,To causally pass time( time pass),100-300,2
+302,Siraha,Rented flat or apartment,Fourth,Male,IT,Yes,Facebook,1-3 hours,To causally pass time( time pass),300-500,0
+303,Jhapa,Rented flat or apartment,First,Female,Computer,Yes,Instagram,More than 7 hours,To escape into an entertaining world(fantasy),0-50,0
+304,Kailali,Hostel,First,Male,Computer,Yes,Youtube,1-3 hours,To causally pass time( time pass),More than 500,2
+305,Nawalparasi,Rented flat or apartment,Fourth,Female,Computer,Yes,Instagram,3-6 hours,To connect with other(social interaction),More than 500,2
+306,Kanchanpur,Rented flat or apartment,Fourth,Male,IT,Yes,Facebook,1-3 hours,To connect with other(social interaction),100-300,2
+307,Baitadi,Living with family at home,Fourth,Male,Computer,Yes,Instagram,1-3 hours,To save memories experiences(archiving),More than 500,5
+308,Lalitpur,Living with family at home,Fourth,Male,Computer,Yes,Tiktok,3-6 hours,To causally pass time( time pass),300-500,8
+309,Lalitpur,Living with family at home,Fourth,Male,Computer,Yes,Twitter(X),3-6 hours,To connect with other(social interaction),More than 500,0
+310,Parsa,Hostel,Third,Female,Computer,Yes,Facebook,1-3 hours,To causally pass time( time pass),100-300,2
+311,Kathmandu,Living with family at home,Third,Female,Computer,Yes,Instagram,1-3 hours,To connect with other(social interaction),100-300,2
+312,Dang,Rented flat or apartment,Fourth,Male,Computer,Yes,Instagram,More than 7 hours,To save memories experiences(archiving),More than 500,2
+313,Lalitpur,Living with family at home,Fourth,Male,IT,Yes,Viber,1-3 hours,To connect with other(social interaction),300-500,2
+314,Lalitpur,Living with family at home,Third,Female,Computer,Yes,Instagram,1-3 hours,To causally pass time( time pass),100-300,2
+315,Parsa,Hostel,First,Female,Computer,Yes,Instagram,3-6 hours,To connect with other(social interaction),100-300,0
+316,Parbat,Hostel,First,Female,IT,Yes,Snapchat,More than 7 hours,To escape into an entertaining world(fantasy),100-300,0
+317,Morang,Rented flat or apartment,Fourth,Male,IT,Yes,Facebook,1-3 hours,To connect with other(social interaction),More than 500,0
+318,Lalitpur,Living with family at home,Third,Female,Computer,Yes,Instagram,1-3 hours,To connect with other(social interaction),300-500,2
+319,Siraha,Living with family at home,First,Female,IT,Yes,Whatsapp,1-3 hours,To connect with other(social interaction),300-500,8
+320,Makawanpur,Hostel,First,Male,Computer,Yes,Viber,1-3 hours,To connect with other(social interaction),More than 500,0
+321,Dhading,Rented flat or apartment,Fourth,Male,IT,Yes,Tiktok,1-3 hours,To connect with other(social interaction),More than 500,0
+322,Kaski,Living with family at home,Fourth,Male,Computer,Yes,Twitter(X),30-60 minutes,To causally pass time( time pass),0-50,4
+323,Kailali,Hostel,Fourth,Female,Computer,Yes,Instagram,3-6 hours,To escape into an entertaining world(fantasy),More than 500,8
+324,Dang,Living with family at home,Fourth,Male,IT,Yes,Whatsapp,3-6 hours,To connect with other(social interaction),More than 500,0
+325,Lalitpur,Living with family at home,Fourth,Male,Computer,Yes,Instagram,More than 7 hours,To causally pass time( time pass),More than 500,0
+326,Dolakha,Rented room,Fourth,Male,Computer,Yes,Instagram,30-60 minutes,To causally pass time( time pass),300-500,0
+327,Lalitpur,Living with family at home,Fourth,Male,Computer,Yes,Instagram,1-3 hours,To causally pass time( time pass),More than 500,8
+328,Kathmandu,Living with family at home,Third,Female,Computer,Yes,Tiktok,3-6 hours,To save memories experiences(archiving),More than 500,0
+329,Saptari,Living with family at home,Third,Female,Computer,Yes,Facebook,1-3 hours,To save memories experiences(archiving),300-500,5
+330,Khotang,Hostel,Third,Male,Computer,Yes,Youtube,1-3 hours,To escape myself creatively(self-expression),More than 500,2
+331,Bhaktapur,Living with family at home,First,Male,Computer,Yes,Instagram,1-3 hours,To causally pass time( time pass),0-50,0
+332,Bhaktapur,Living with family at home,First,Male,Computer,Yes,Instagram,1-3 hours,To causally pass time( time pass),50-100,0
+333,Sinduli,Rented room,First,Male,Computer,Yes,Instagram,1-3 hours,To causally pass time(time pass),100-300,0
+334,Dang,Rented room,First,Male,Computer,Yes,Instagram,3-6 hours,To causally pass time(time pass),100-300,0
+335,Jhapa,Rented flat or apartment,First,Male,Computer,Yes,Instagram,1-3 hours,,300-500,2
+336,Tanahun,Living with family at home,First,Male,Computer,Yes,Instagram,3-6 hours,To causally pass time(time pass),More than 500,More than 10
+337,Chitwan,Hostel,First,Male,Computer,Yes,Facebook,30-60 minutes,To connect with other(social interaction),300-500,0
+338,Ilam,Rented room,Fourth,Male,Computer,Yes,Instagram,3-6 hours,To connect with other(social interaction),100-300,5
+339,Udayapur,Rented room,First,Male,IT,Yes,Instagram,More than 7 hours,To escape into an entertaining world(fantasy),More than 500,5
+340,Lalitpur,Living with family at home,First,Female,IT,Yes,Instagram,3-6 hours,To causally pass time(time pass),100-300,2
+341,Chitwan,Rented flat or apartment,First,Male,IT,Yes,Discord,3-6 hours,To connect with other(social interaction),100-300,0
+342,Kaski,Rented flat or apartment,First,Male,IT,Yes,Instagram,1-3 hours,To connect with other(social interaction),More than 500,0
+343,Sinduli,Living with family at home,First,Male,IT,Yes,Instagram,More than 7 hours,To save memories experiences(archiving),More than 500,2
+344,Parbat,Living with relatives or guardians,Third,Male,Computer,Yes,Twitter(X),1-3 hours,To escape into an entertaining world(fantasy),50-100,0
+345,Kaski,Living with family at home,Second,Male,Computer,Yes,Facebook,10-30 minutes,To connect with other(social interaction),0-50,8
+346,Lalitpur,Living with family at home,Fourth,Male,Computer,Yes,Instagram,30-60 minutes,To causally pass time(time pass),100-300,0
+347,Kavrepalanchok,Rented flat or apartment,Third,Male,Computer,Yes,Instagram,More than 7 hours,To escape into an entertaining world(fantasy),100-300,0
+348,Janakpur,Living with family at home,First,Female,IT,Yes,Instagram,3-6 hours,To connect with other(social interaction),300-500,More than 10
+349,Nawalparasi,Hostel,First,Male,IT,Yes,Facebook,3-6 hours,To escape into an entertaining world(fantasy),300-500,0
+350,Syangja,Rented flat or apartment,Fourth,Female,Computer,Yes,Facebook,3-6 hours,To causally pass time(time pass),More than 500,5
+351,Kanchanpur,Rented room,First,Male,IT,Yes,Instagram,3-6 hours,To connect with other(social interaction),300-500,0
+352,Lalitpur,Living with family at home,First,Male,IT,Yes,Instagram,3-6 hours,To escape into an entertaining world(fantasy),50-100,0
+353,Kailali,Living with family at home,Second,Female,IT,Yes,Instagram,3-6 hours,To causally pass time(time pass),100-300,More than 10
+354,Kathmandu,Living with family at home,Second,Male,IT,Yes,Discord,10-30 minutes,To escape into an entertaining world(fantasy),0-50,0
+355,Makawanpur,Hostel,Third,Male,Computer,Yes,Instagram,More than 7 hours,To causally pass time(time pass),300-500,2
+356,Okhaldhunga,Living with family at home,Third,Male,Computer,Yes,Instagram,3-6 hours,To connect with other(social interaction),100-300,More than 10
+357,Chitwan,Rented flat or apartment,Third,Female,Computer,Yes,Instagram,30-60 minutes,To save memories experiences(archiving),300-500,2
+358,Kathmandu,Living with family at home,Third,Male,Computer,Yes,Instagram,3-6 hours,To escape into an entertaining world(fantasy),300-500,5
+359,Lalitpur,Living with family at home,Fourth,Male,Computer,Yes,Youtube,3-6 hours,To escape myself creatively(self-expression),More than 500,0
+360,Kailali,Rented room,Fourth,Male,Computer,Yes,Viber,More than 7 hours,To connect with other(social interaction),0-50,0
+361,Kathmandu,Living with family at home,Fourth,Male,Computer,Yes,Instagram,3-6 hours,To causally pass time(time pass),100-300,0
+362,Kathmandu,Living with family at home,Third,Male,Computer,Yes,Instagram,More than 7 hours,To connect with other(social interaction),More than 500,More than 10
+363,Kathmandu,Living with family at home,Third,Male,Computer,Yes,Instagram,1-3 hours,To causally pass time(time pass),100-300,0
+364,Jhapa,Rented room,Fourth,Male,Computer,Yes,Instagram,More than 7 hours,To connect with other(social interaction),More than 500,2
+365,Lalitpur,Living with family at home,Third,Female,Computer,Yes,Instagram,3-6 hours,To connect with other(social interaction),More than 500,2
+366,Kathmandu,Living with family at home,First,Female,Computer,Yes,Instagram,1-3 hours,To causally pass time(time pass),100-300,More than 10
+367,Kanchanpur,Rented room,Third,Male,Computer,Yes,Facebook,10-30 minutes,To causally pass time(time pass),More than 500,2
+368,Nawalparasi,Hostel,Third,Male,Computer,Yes,Instagram,1-3 hours,To save memories experiences(archiving),More than 500,2
+369,Kathmandu,Living with family at home,Third,Male,Computer,Yes,Instagram,3-6 hours,To causally pass time(time pass),More than 500,0
+370,Kathmandu,Living with family at home,Third,Female,Computer,Yes,Whatsapp,3-6 hours,To connect with other(social interaction),50-100,0
+371,Kathmandu,Living with family at home,Third,Male,Computer,Yes,Instagram,3-6 hours,To escape into an entertaining world(fantasy),100-300,0
+372,Kailali,Rented room,First,Male,Computer,Yes,Instagram,1-3 hours,To escape into an entertaining world(fantasy),100-300,0
+373,Dhanusha,Rented flat or apartment,Fourth,Male,IT,Yes,Facebook,3-6 hours,To causally pass time(time pass),100-300,0
+374,Bhaktapur,Living with family at home,Fourth,Female,Computer,Yes,Instagram,3-6 hours,To connect with other(social interaction),100-300,2
+375,Kavrepalanchok,Living with family at home,Second,Male,IT,Yes,Instagram,30-60 minutes,To causally pass time(time pass),0-50,0
+376,Kavrepalanchok,Rented room,First,Male,Computer,Yes,Instagram,1-3 hours,To causally pass time(time pass),50-100,0
+377,Lalitpur,Living with family at home,First,Male,IT,Yes,Instagram,1-3 hours,To causally pass time(time pass),100-300,0
+378,Tanahun,Living with family at home,First,Male,IT,Yes,Facebook,1-3 hours,To causally pass time(time pass),50-100,0
+379,Sarlahi,Living with family at home,First,Male,Computer,Yes,Instagram,1-3 hours,To causally pass time(time pass),300-500,0
+380,Bhaktapur,Living with family at home,Fourth,Male,Computer,Yes,Instagram,3-6 hours,To connect with other(social interaction),More than 500,5
+381,Siraha,Rented room,First,Male,IT,Yes,Instagram,1-3 hours,To connect with other(social interaction),More than 500,2
+382,Tanahun,Living with family at home,First,Male,IT,Yes,Instagram,1-3 hours,To causally pass time(time pass),100-300,0
+383,Morang,Hostel,First,Male,IT,Yes,Instagram,30-60 minutes,To causally pass time(time pass),More than 500,2
+384,Lalitpur,Rented flat or apartment,Fourth,Male,Computer,Yes,Whatsapp,1-3 hours,To connect with other(social interaction),300-500,0
+385,Palpa,Living with relatives or guardians,Fourth,Female,Computer,Yes,Instagram,30-60 minutes,To connect with other(social interaction),100-300,0
+386,Mahottari,Hostel,Fourth,Female,Computer,Yes,Whatsapp,1-3 hours,To connect with other(social interaction),More than 500,More than 10
+387,Sankhuwasabha,Living with family at home,Fourth,Female,Computer,Yes,Instagram,1-3 hours,To escape into an entertaining world(fantasy),100-300,0
+388,Sunsari,Rented room,Fourth,Female,Computer,Yes,Instagram,1-3 hours,To causally pass time(time pass),100-300,2
+389,Nawalparasi,Rented flat or apartment,Fourth,Female,Computer,Yes,Instagram,3-6 hours,To causally pass time(time pass),300-500,2
+390,Ilam,Hostel,Fourth,Male,Computer,Yes,Instagram,More than 7 hours,To escape into an entertaining world(fantasy),300-500,2
+391,Bhaktapur,Living with family at home,Fourth,Male,Computer,Yes,Instagram,1-3 hours,To connect with other(social interaction),More than 500,2
+392,Kathmandu,Living with family at home,First,Male,IT,Yes,Instagram,1-3 hours,To connect with other(social interaction),More than 500,2
+393,Kailali,Rented room,First,Male,IT,Yes,Instagram,3-6 hours,To escape myself creatively(self-expression),300-500,2
+394,Rautahat,Rented flat or apartment,First,Male,IT,Yes,Instagram,3-6 hours,To escape into an entertaining world(fantasy),50-100,0
+395,Banke,Rented room,First,Female,IT,Yes,Instagram,3-6 hours,To connect with other(social interaction),50-100,2
+396,Dang,Rented room,First,Female,IT,Yes,Instagram,30-60 minutes,To connect with other(social interaction),100-300,More than 10
+397,Dhading,Living with family at home,First,Female,Computer,Yes,Instagram,3-6 hours,To connect with other(social interaction),300-500,2
+398,Lalitpur,Living with family at home,First,Male,Computer,Yes,Facebook,1-3 hours,To causally pass time(time pass),100-300,0
+399,Jhapa,Hostel,First,Female,Computer,Yes,Instagram,1-3 hours,To save memories experiences(archiving),300-500,More than 10
+400,Kathmandu,Living with family at home,Fourth,Male,Computer,Yes,Instagram,30-60 minutes,To connect with other(social interaction),300-500,2
+401,Nawalparasi,Hostel,Fourth,Female,Computer,Yes,Instagram,3-6 hours,To causally pass time(time pass),100-300,0
+402,Pyuthan,Rented room,Fourth,Male,Computer,Yes,Instagram,3-6 hours,To causally pass time(time pass),50-100,2
+403,Kailali,Rented room,First,Male,Computer,Yes,Instagram,1-3 hours,To causally pass time(time pass),100-300,0
+404,Bhaktapur,Living with family at home,First,Female,Computer,Yes,Instagram,3-6 hours,To causally pass time(time pass),0-50,0
+405,Bhaktapur,Living with family at home,Fourth,Male,IT,Yes,Facebook,30-60 minutes,To save memories experiences(archiving),100-300,0
+406,Chitwan,Living with relatives or guardians,Fourth,Male,Computer,Yes,Instagram,1-3 hours,To connect with other(social interaction),100-300,0
+407,Gorkha,Living with family at home,Fourth,Male,Computer,Yes,Facebook,1-3 hours,To causally pass time(time pass),More than 500,0
+408,Mahottari,Rented room,Fourth,Male,Computer,Yes,Facebook,1-3 hours,To causally pass time(time pass),300-500,5
+409,Ilam,Rented flat or apartment,Fourth,Male,Computer,Yes,Instagram,More than 7 hours,To escape into an entertaining world(fantasy),100-300,More than 10
+410,Kathmandu,Living with family at home,Fourth,Male,Computer,Yes,Reddit,10-30 minutes,To connect with other(social interaction),More than 500,0
+411,Nuwakot,Living with relatives or guardians,Fourth,Male,Computer,Yes,Instagram,30-60 minutes,To causally pass time(time pass),300-500,8
+412,Gulmi,Rented room,Fourth,Male,Computer,Yes,Facebook,1-3 hours,To connect with other(social interaction),100-300,2
+413,Morang,Hostel,Fourth,Male,Computer,Yes,Reddit,10-30 minutes,To causally pass time(time pass),0-50,0
+414,Palpa,Living with family at home,Fourth,Male,Computer,Yes,Instagram,3-6 hours,To escape into an entertaining world(fantasy),300-500,More than 10
+415,Gorkha,Living with family at home,Fourth,Male,Computer,Yes,Instagram,3-6 hours,To connect with other(social interaction),100-300,0
+416,Syangja,Rented room,Fourth,Male,Computer,Yes,Instagram,30-60 minutes,To causally pass time(time pass),50-100,0
+417,Lalitpur,Living with family at home,First,Male,Computer,Yes,Instagram,1-3 hours,To connect with other(social interaction),100-300,0
+418,Bhaktapur,Living with family at home,First,Male,Computer,Yes,Facebook,3-6 hours,To connect with other(social interaction),50-100,0
+419,Lalitpur,Living with family at home,First,Female,Computer,Yes,Tiktok,More than 7 hours,To escape into an entertaining world(fantasy),More than 500,More than 10
+420,Lalitpur,Living with family at home,First,Female,Computer,Yes,Instagram,1-3 hours,To connect with other(social interaction),100-300,0
+421,Bhaktapur,Living with family at home,First,Male,Computer,Yes,Twitter(X),30-60 minutes,To escape myself creatively(self-expression),More than 500,More than 10
+422,Dhanusha,Rented room,First,Male,Computer,Yes,Facebook,3-6 hours,To escape into an entertaining world(fantasy),300-500,2
+423,Kathmandu,Rented room,First,Male,Computer,Yes,Facebook,30-60 minutes,To causally pass time(time pass),0-50,2
+424,Lalitpur,Living with family at home,First,Male,Computer,Yes,Instagram,1-3 hours,To causally pass time(time pass),50-100,0
+425,Sarlahi,Hostel,First,Male,Computer,Yes,Whatsapp,10-30 minutes,To connect with other(social interaction),0-50,0
+426,Lalitpur,Living with family at home,First,Male,Computer,Yes,Snapchat,3-6 hours,To connect with other(social interaction),More than 500,0
+427,Kaski,Living with family at home,First,Female,Computer,Yes,Instagram,1-3 hours,To connect with other(social interaction),100-300,More than 10
+428,Chitwan,Rented room,First,Male,Computer,Yes,Instagram,1-3 hours,To escape into an entertaining world(fantasy),300-500,More than 10
+429,Jhapa,Living with family at home,First,Male,Computer,Yes,Instagram,30-60 minutes,To escape myself creatively(self-expression),300-500,5
+430,Lamjung,Hostel,First,Male,Computer,Yes,Instagram,30-60 minutes,To escape myself creatively(self-expression),More than 500,2
+431,Kathmandu,Living with family at home,First,Male,IT,Yes,Youtube,1-3 hours,To connect with other(social interaction),50-100,5
+432,Lalitpur,Living with family at home,First,Male,Computer,Yes,Instagram,1-3 hours,To escape into an entertaining world(fantasy),50-100,2
+433,Kailali,Rented flat or apartment,First,Male,Computer,Yes,Instagram,More than 7 hours,To causally pass time(time pass),50-100,0
+434,Dolakha,Living with family at home,First,Male,Computer,Yes,Youtube,1-3 hours,To causally pass time(time pass),0-50,0
+435,Baglung,Rented room,First,Male,Computer,Yes,Twitter(X),More than 7 hours,To causally pass time(time pass),0-50,0
+436,Saptari,Rented flat or apartment,First,Male,Computer,Yes,Instagram,3-6 hours,To escape into an entertaining world(fantasy),More than 500,0
+437,Rupandehi,Rented flat or apartment,First,Male,Computer,Yes,Instagram,1-3 hours,To connect with other(social interaction),More than 500,0
+438,Pyuthan,Rented flat or apartment,First,Male,Computer,Yes,Instagram,1-3 hours,To escape into an entertaining world(fantasy),More than 500,0
+439,Jhapa,Hostel,Second,Female,Computer,Yes,Instagram,1-3 hours,To causally pass time(time pass),100-300,0
+440,Dhanusha,Rented flat or apartment,First,Female,Computer,Yes,Instagram,1-3 hours,To connect with other(social interaction),100-300,0
+441,Baglung,Living with family at home,Second,Male,Computer,Yes,Instagram,1-3 hours,To causally pass time(time pass),0-50,0
+442,Kathmandu,Living with family at home,First,Male,Computer,Yes,Facebook,30-60 minutes,To connect with other(social interaction),0-50,0
+443,Kanchanpur,Rented room,First,Male,Computer,Yes,Instagram,3-6 hours,To escape into an entertaining world(fantasy),100-300,2
+444,Kanchanpur,Rented room,First,Male,Computer,Yes,Instagram,3-6 hours,To connect with other(social interaction),100-300,2
+445,Makawanpur,Living with relatives or guardians,First,Male,Computer,Yes,Instagram,30-60 minutes,To escape into an entertaining world(fantasy),300-500,2
+446,Kathmandu,Living with family at home,First,Male,Computer,Yes,Youtube,30-60 minutes,To connect with other(social interaction),More than 500,2
+447,Dang,Rented flat or apartment,Second,Male,Computer,Yes,Instagram,1-3 hours,To connect with other(social interaction),300-500,2
+448,Kanchanpur,Rented room,Second,Male,Computer,Yes,Instagram,More than 7 hours,To connect with other(social interaction),100-300,2
+449,Saptari,Rented room,Fourth,Male,Computer,Yes,Facebook,1-3 hours,To connect with other(social interaction),300-500,0
+450,Syangja,Rented flat or apartment,Fourth,Male,Computer,Yes,Instagram,1-3 hours,To connect with other(social interaction),50-100,2
+451,Dhading,Rented room,Fourth,Male,Computer,Yes,Whatsapp,30-60 minutes,To connect with other(social interaction),50-100,2
+452,Pyuthan,Rented flat or apartment,Second,Male,Computer,Yes,Instagram,30-60 minutes,To causally pass time(time pass),100-300,More than 10
+453,Makawanpur,Living with relatives or guardians,Fourth,Male,Computer,Yes,Snapchat,3-6 hours,To causally pass time(time pass),More than 500,0
+454,Saptari,Living with family at home,First,Female,IT,Yes,Instagram,3-6 hours,To escape into an entertaining world(fantasy),300-500,More than 10
+455,Saptari,Hostel,Fourth,Female,Computer,Yes,Instagram,3-6 hours,To escape myself creatively(self-expression),More than 500,2
+456,Kavrepalanchok,Living with family at home,Fourth,Male,IT,Yes,Instagram,1-3 hours,To connect with other(social interaction),300-500,2
+457,Kathmandu,Living with family at home,Fourth,Male,Computer,Yes,Instagram,1-3 hours,To connect with other(social interaction),300-500,2
+458,Rautahat,Rented flat or apartment,Fourth,Female,IT,Yes,Tiktok,1-3 hours,To escape into an entertaining world(fantasy),More than 500,2
+459,Kaski,Rented room,Fourth,Female,Computer,Yes,Instagram,3-6 hours,To causally pass time(time pass),0-50,0
+460,Udayapur,Rented room,First,Male,Computer,Yes,Instagram,More than 7 hours,To causally pass time(time pass),More than 500,0
+461,Kathmandu,Living with family at home,Fourth,Male,Computer,Yes,Instagram,1-3 hours,To connect with other(social interaction),300-500,2
+462,Saptari,Living with family at home,Third,Female,Computer,Yes,Instagram,1-3 hours,To connect with other(social interaction),More than 500,2
+463,Lalitpur,Living with family at home,Third,Female,Computer,Yes,Instagram,1-3 hours,To causally pass time(time pass),50-100,0
+464,Lalitpur,Living with family at home,Third,Female,Computer,Yes,Instagram,1-3 hours,To connect with other(social interaction),100-300,2
+465,Kathmandu,Living with family at home,First,Female,IT,Yes,Instagram,3-6 hours,To connect with other(social interaction),100-300,0
+466,Dang,Hostel,Fourth,Male,IT,Yes,Instagram,1-3 hours,To connect with other(social interaction),100-300,5
+467,Saptari,Rented room,Fourth,Male,IT,Yes,Facebook,30-60 minutes,To connect with other(social interaction),More than 500,2
+468,Sindhupalchok,Living with family at home,Fourth,Male,IT,Yes,Tiktok,3-6 hours,To causally pass time(time pass),50-100,2
+469,Siraha,Rented room,Fourth,Male,Computer,Yes,Whatsapp,3-6 hours,To causally pass time(time pass),More than 500,5
+470,Kathmandu,Living with family at home,Fourth,Female,IT,Yes,Tiktok,1-3 hours,To connect with other(social interaction),50-100,2
+471,Saptari,Rented room,Fourth,Male,Computer,Yes,Facebook,1-3 hours,To save memories experiences(archiving),More than 500,2
+472,Dhading,Rented room,Fourth,Male,Computer,Yes,Facebook,3-6 hours,To connect with other(social interaction),300-500,2
+473,Dhanusha,Rented room,Fourth,Male,Computer,Yes,Whatsapp,More than 7 hours,To connect with other(social interaction),More than 500,More than 10
