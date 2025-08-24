@@ -129,6 +129,22 @@ for gender in genders:
     plt.title(f'Social Comparison Distribution – {gender}')
     plt.tight_layout()
     plt.show()
+
+# Department-wise Social Comparison Level Distribution (Percentage)
+departments = df['Department'].unique()
+
+for dept in departments:
+    subset = df[df['Department'] == dept]
+    dist = subset['social_comparison_level'].value_counts(normalize=True) * 100
+    dist = dist.reindex(['High', 'Medium', 'Low'], fill_value=0)  # Ensure consistent order
+
+    plt.figure(figsize=(5,5))
+    plt.pie(dist, labels=dist.index, autopct='%1.1f%%',
+            colors=['red', 'orange', 'skyblue'], startangle=140)
+    plt.title(f'Social Comparison Distribution – {dept} Department')
+    plt.tight_layout()
+    plt.show()
+
 # Social Comparison by Department – Bar Chart
 plt.figure(figsize=(7, 4))
 sns.countplot(data=df, x='social_comparison_level', hue='Department',
@@ -180,3 +196,12 @@ for year in years:
 
 # # Save as CSV
 # df.to_csv("C:\\Users\\LENOVO\\OneDrive\\Desktop\\all_every\\social_comparison_encoded.csv", index=False)
+
+
+
+
+
+
+
+
+

@@ -7,7 +7,7 @@ df = pd.read_csv("peer_pressure_encoded.csv")
 
 # Define classification function for peer pressure levels
 def classify_pp(value):
-    if value <= 2.0:
+    if value <= 2.5:
         return "High Pressure"
     elif value <= 3.5:
         return "Medium Pressure"
@@ -17,9 +17,25 @@ def classify_pp(value):
 
 df['peer_pressure_level'] = df['peer_pressure'].apply(classify_pp)
 
+
 # Count and percentage for peer pressure levels
 level_counts = df['peer_pressure_level'].value_counts(normalize=True) * 100
 level_counts = level_counts.reindex(['High Pressure', 'Medium Pressure', 'Low Pressure']).fillna(0)
+# Count of Peer Pressure Levels by Gender
+pp_gender_counts = df.groupby(['Gender', 'peer_pressure_level']).size().unstack().reindex(columns=['High Pressure', 'Medium Pressure', 'Low Pressure']).fillna(0)
+print("Peer Pressure Level Counts by Gender:")
+print(pp_gender_counts)
+
+# Count of Peer Pressure Levels by Department
+pp_dept_counts = df.groupby(['Department', 'peer_pressure_level']).size().unstack().reindex(columns=['High Pressure', 'Medium Pressure', 'Low Pressure']).fillna(0)
+print("\nPeer Pressure Level Counts by Department:")
+print(pp_dept_counts)
+
+# Count of Peer Pressure Levels by Year
+pp_year_counts = df.groupby(['Year', 'peer_pressure_level']).size().unstack().reindex(columns=['High Pressure', 'Medium Pressure', 'Low Pressure']).fillna(0)
+print("\nPeer Pressure Level Counts by Academic Year:")
+print(pp_year_counts)
+
 
 # Bar Chart of peer pressure levels (%)
 plt.figure(figsize=(6,4))
@@ -32,6 +48,20 @@ for i, v in enumerate(level_counts):
     plt.text(i, v + 1, f"{v:.1f}%", ha='center')
 plt.tight_layout()
 plt.show()
+# Peer Pressure by Department – Pie Charts
+departments = df['Department'].unique()
+
+for dept in departments:
+    subset = df[df['Department'] == dept]
+    dist = subset['peer_pressure_level'].value_counts(normalize=True) * 100
+    dist = dist.reindex(['High Pressure', 'Medium Pressure', 'Low Pressure']).fillna(0)
+
+    plt.figure(figsize=(5,5))
+    plt.pie(dist, labels=dist.index, autopct='%1.1f%%',
+            colors=['red', 'orange', 'skyblue'], startangle=140)
+    plt.title(f'Peer Pressure Distribution – {dept} Department')
+    plt.tight_layout()
+    plt.show()
 
 # Pie Chart of peer pressure levels
 plt.figure(figsize=(6,6))

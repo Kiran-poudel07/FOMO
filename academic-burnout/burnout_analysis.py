@@ -18,9 +18,24 @@ def classify_burnout(value):
 df['academic_burnout_level'] = df['academic_burnout'].apply(classify_burnout)
 
 # Count and percentage for burnout levels
+
 burnout_counts = df['academic_burnout_level'].value_counts(normalize=True) * 100
 burnout_counts = burnout_counts.reindex(['Exhausted', 'At Risk', 'Coping Well']).fillna(0)
 
+# Count of Academic Burnout Levels by Gender
+burnout_gender_counts = df.groupby(['Gender', 'academic_burnout_level']).size().unstack().reindex(columns=['Exhausted', 'At Risk', 'Coping Well']).fillna(0)
+print("Academic Burnout Level Counts by Gender:")
+print(burnout_gender_counts)
+
+# Count of Academic Burnout Levels by Department
+burnout_dept_counts = df.groupby(['Department', 'academic_burnout_level']).size().unstack().reindex(columns=['Exhausted', 'At Risk', 'Coping Well']).fillna(0)
+print("\nAcademic Burnout Level Counts by Department:")
+print(burnout_dept_counts)
+
+# Count of Academic Burnout Levels by Year
+burnout_year_counts = df.groupby(['Year', 'academic_burnout_level']).size().unstack().reindex(columns=['Exhausted', 'At Risk', 'Coping Well']).fillna(0)
+print("\nAcademic Burnout Level Counts by Year:")
+print(burnout_year_counts)
 # Bar Chart
 plt.figure(figsize=(6,4))
 burnout_counts.plot(kind='bar', color=['red', 'orange', 'skyblue'])
@@ -51,120 +66,136 @@ plt.xlabel('Burnout Level')
 plt.tight_layout()
 plt.show()
 
-# Distribution histogram + KDE plot
-plt.figure(figsize=(6,4))
-sns.histplot(df['academic_burnout'], bins=10, kde=True, color='purple')
-plt.title('Distribution of Academic Burnout Scores')
-plt.xlabel('Burnout Score (1 = Low, 5 = High)')
-plt.ylabel('Frequency')
-plt.tight_layout()
-plt.show()
+# # Distribution histogram + KDE plot
+# plt.figure(figsize=(6,4))
+# sns.histplot(df['academic_burnout'], bins=10, kde=True, color='purple')
+# plt.title('Distribution of Academic Burnout Scores')
+# plt.xlabel('Burnout Score (1 = Low, 5 = High)')
+# plt.ylabel('Frequency')
+# plt.tight_layout()
+# plt.show()
 
-# Box Plot by Gender
-plt.figure(figsize=(6,4))
-sns.boxplot(data=df, x='Gender', y='academic_burnout', palette='Set2')
-plt.title('Academic Burnout Scores by Gender')
-plt.ylabel('Burnout Score')
-plt.tight_layout()
-plt.show()
+# # Box Plot by Gender
+# plt.figure(figsize=(6,4))
+# sns.boxplot(data=df, x='Gender', y='academic_burnout', palette='Set2')
+# plt.title('Academic Burnout Scores by Gender')
+# plt.ylabel('Burnout Score')
+# plt.tight_layout()
+# plt.show()
 
-# Violin Plot by Gender
-plt.figure(figsize=(6,4))
-sns.violinplot(data=df, x='Gender', y='academic_burnout', palette='Set2')
-plt.title('Academic Burnout Distribution by Gender')
-plt.ylabel('Burnout Score')
-plt.tight_layout()
-plt.show()
+# # Violin Plot by Gender
+# plt.figure(figsize=(6,4))
+# sns.violinplot(data=df, x='Gender', y='academic_burnout', palette='Set2')
+# plt.title('Academic Burnout Distribution by Gender')
+# plt.ylabel('Burnout Score')
+# plt.tight_layout()
+# plt.show()
 
-# Box Plot by Department
-plt.figure(figsize=(6,4))
-sns.boxplot(data=df, x='Department', y='academic_burnout', palette='coolwarm')
-plt.title('Academic Burnout Scores by Department')
-plt.ylabel('Burnout Score')
-plt.tight_layout()
-plt.show()
+# # Box Plot by Department
+# plt.figure(figsize=(6,4))
+# sns.boxplot(data=df, x='Department', y='academic_burnout', palette='coolwarm')
+# plt.title('Academic Burnout Scores by Department')
+# plt.ylabel('Burnout Score')
+# plt.tight_layout()
+# plt.show()
 
-# Violin Plot by Department
-plt.figure(figsize=(6,4))
-sns.violinplot(data=df, x='Department', y='academic_burnout', palette='coolwarm')
-plt.title('Academic Burnout Distribution by Department')
-plt.ylabel('Burnout Score')
-plt.tight_layout()
-plt.show()
+# # Violin Plot by Department
+# plt.figure(figsize=(6,4))
+# sns.violinplot(data=df, x='Department', y='academic_burnout', palette='coolwarm')
+# plt.title('Academic Burnout Distribution by Department')
+# plt.ylabel('Burnout Score')
+# plt.tight_layout()
+# plt.show()
 
-# Box Plot by Year
-plt.figure(figsize=(6,4))
-sns.boxplot(data=df, x='Year', y='academic_burnout', palette='Spectral')
-plt.title('Academic Burnout Scores by Academic Year')
-plt.ylabel('Burnout Score')
-plt.tight_layout()
-plt.show()
+# # Box Plot by Year
+# plt.figure(figsize=(6,4))
+# sns.boxplot(data=df, x='Year', y='academic_burnout', palette='Spectral')
+# plt.title('Academic Burnout Scores by Academic Year')
+# plt.ylabel('Burnout Score')
+# plt.tight_layout()
+# plt.show()
 
-# Violin Plot by Year
-plt.figure(figsize=(6,4))
-sns.violinplot(data=df, x='Year', y='academic_burnout', palette='Spectral')
-plt.title('Academic Burnout Distribution by Academic Year')
-plt.ylabel('Burnout Score')
-plt.tight_layout()
-plt.show()
+# # Violin Plot by Year
+# plt.figure(figsize=(6,4))
+# sns.violinplot(data=df, x='Year', y='academic_burnout', palette='Spectral')
+# plt.title('Academic Burnout Distribution by Academic Year')
+# plt.ylabel('Burnout Score')
+# plt.tight_layout()
+# plt.show()
 
-# Countplot: Burnout Level by Gender
-plt.figure(figsize=(6, 4))
-sns.countplot(data=df, x='academic_burnout_level', hue='Gender',
-              order=['Exhausted', 'At Risk', 'Coping Well'], palette='Set2')
-plt.title('Academic Burnout Level by Gender')
-plt.xlabel('Burnout Level')
-plt.ylabel('Number of Students')
-plt.tight_layout()
-plt.show()
+# # Countplot: Burnout Level by Gender
+# plt.figure(figsize=(6, 4))
+# sns.countplot(data=df, x='academic_burnout_level', hue='Gender',
+#               order=['Exhausted', 'At Risk', 'Coping Well'], palette='Set2')
+# plt.title('Academic Burnout Level by Gender')
+# plt.xlabel('Burnout Level')
+# plt.ylabel('Number of Students')
+# plt.tight_layout()
+# plt.show()
 
-# Pie Chart by Gender
-genders = df['Gender'].unique()
-for gender in genders:
-    subset = df[df['Gender'] == gender]
+# # Pie Chart by Gender
+# genders = df['Gender'].unique()
+# for gender in genders:
+#     subset = df[df['Gender'] == gender]
+#     dist = subset['academic_burnout_level'].value_counts(normalize=True) * 100
+#     dist = dist.reindex(['Exhausted', 'At Risk', 'Coping Well']).fillna(0)
+
+#     plt.figure(figsize=(5,5))
+#     plt.pie(dist, labels=dist.index, autopct='%1.1f%%',
+#             colors=['red', 'orange', 'skyblue'], startangle=140)
+#     plt.title(f'Academic Burnout Distribution – {gender}')
+#     plt.tight_layout()
+#     plt.show()
+
+
+
+# Pie Chart by Department
+departments = df['Department'].unique()
+for dept in departments:
+    subset = df[df['Department'] == dept]
     dist = subset['academic_burnout_level'].value_counts(normalize=True) * 100
     dist = dist.reindex(['Exhausted', 'At Risk', 'Coping Well']).fillna(0)
 
     plt.figure(figsize=(5,5))
     plt.pie(dist, labels=dist.index, autopct='%1.1f%%',
             colors=['red', 'orange', 'skyblue'], startangle=140)
-    plt.title(f'Academic Burnout Distribution – {gender}')
+    plt.title(f'Academic Burnout Distribution – {dept} Department')
     plt.tight_layout()
     plt.show()
 
-# Bar Chart by Department
-plt.figure(figsize=(7, 4))
-sns.countplot(data=df, x='academic_burnout_level', hue='Department',
-              order=['Exhausted', 'At Risk', 'Coping Well'], palette='coolwarm')
-plt.title('Academic Burnout Level by Department')
-plt.xlabel('Burnout Level')
-plt.ylabel('Number of Students')
-plt.tight_layout()
-plt.show()
+# # Bar Chart by Department
+# plt.figure(figsize=(7, 4))
+# sns.countplot(data=df, x='academic_burnout_level', hue='Department',
+#               order=['Exhausted', 'At Risk', 'Coping Well'], palette='coolwarm')
+# plt.title('Academic Burnout Level by Department')
+# plt.xlabel('Burnout Level')
+# plt.ylabel('Number of Students')
+# plt.tight_layout()
+# plt.show()
 
-# Bar Chart by Year
-plt.figure(figsize=(7, 4))
-sns.countplot(data=df, x='academic_burnout_level', hue='Year',
-              order=['Exhausted', 'At Risk', 'Coping Well'], palette='Spectral')
-plt.title('Academic Burnout Level by Academic Year')
-plt.xlabel('Burnout Level')
-plt.ylabel('Number of Students')
-plt.tight_layout()
-plt.show()
+# # Bar Chart by Year
+# plt.figure(figsize=(7, 4))
+# sns.countplot(data=df, x='academic_burnout_level', hue='Year',
+#               order=['Exhausted', 'At Risk', 'Coping Well'], palette='Spectral')
+# plt.title('Academic Burnout Level by Academic Year')
+# plt.xlabel('Burnout Level')
+# plt.ylabel('Number of Students')
+# plt.tight_layout()
+# plt.show()
 
-# Pie Chart by Year
-years = df['Year'].unique()
-for year in years:
-    subset = df[df['Year'] == year]
-    dist = subset['academic_burnout_level'].value_counts(normalize=True) * 100
-    dist = dist.reindex(['Exhausted', 'At Risk', 'Coping Well']).fillna(0)
+# # Pie Chart by Year
+# years = df['Year'].unique()
+# for year in years:
+#     subset = df[df['Year'] == year]
+#     dist = subset['academic_burnout_level'].value_counts(normalize=True) * 100
+#     dist = dist.reindex(['Exhausted', 'At Risk', 'Coping Well']).fillna(0)
 
-    plt.figure(figsize=(5,5))
-    plt.pie(dist, labels=dist.index, autopct='%1.1f%%',
-            colors=['red', 'orange', 'skyblue'], startangle=140)
-    plt.title(f'Academic Burnout Distribution – {year} Year')
-    plt.tight_layout()
-    plt.show()
+#     plt.figure(figsize=(5,5))
+#     plt.pie(dist, labels=dist.index, autopct='%1.1f%%',
+#             colors=['red', 'orange', 'skyblue'], startangle=140)
+#     plt.title(f'Academic Burnout Distribution – {year} Year')
+#     plt.tight_layout()
+#     plt.show()
 
 # # Normalize label to lowercase + underscore
 # df['academic_burnout_level'] = df['academic_burnout_level'].str.lower().str.replace(" ", "_")

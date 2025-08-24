@@ -20,6 +20,42 @@ df['perceived_support_level'] = df['perceived_support'].apply(classify_support)
 # Count and percentage
 support_counts = df['perceived_support_level'].value_counts(normalize=True) * 100
 support_counts = support_counts.reindex(['Strong Support', 'Moderate Support', 'Low Support']).fillna(0)
+# ================================
+# Print Support Level Counts by Gender
+# ================================
+support_gender_counts = df.groupby(['Gender', 'perceived_support_level']).size().unstack().reindex(columns=['Strong Support', 'Moderate Support', 'Low Support']).fillna(0)
+print("\nPerceived Support Level Counts by Gender:")
+print(support_gender_counts)
+
+# ================================
+# Print Support Level Counts by Department
+# ================================
+support_dept_counts = df.groupby(['Department', 'perceived_support_level']).size().unstack().reindex(columns=['Strong Support', 'Moderate Support', 'Low Support']).fillna(0)
+print("\nPerceived Support Level Counts by Department:")
+print(support_dept_counts)
+
+# ================================
+# Print Support Level Counts by Year
+# ================================
+support_year_counts = df.groupby(['Year', 'perceived_support_level']).size().unstack().reindex(columns=['Strong Support', 'Moderate Support', 'Low Support']).fillna(0)
+print("\nPerceived Support Level Counts by Academic Year:")
+print(support_year_counts)
+
+# # ================================
+# # Pie Charts by Department
+# # ================================
+# departments = df['Department'].unique()
+# for dept in departments:
+#     subset = df[df['Department'] == dept]
+#     dist = subset['perceived_support_level'].value_counts(normalize=True) * 100
+#     dist = dist.reindex(['Strong Support', 'Moderate Support', 'Low Support']).fillna(0)
+
+#     plt.figure(figsize=(5,5))
+#     plt.pie(dist, labels=dist.index, autopct='%1.1f%%',
+#             colors=['skyblue', 'orange', 'red'], startangle=140)
+#     plt.title(f'Perceived Support Distribution – {dept} Department')
+#     plt.tight_layout()
+#     plt.show()
 
 # # Bar Chart
 # plt.figure(figsize=(6,4))
@@ -85,19 +121,19 @@ support_counts = support_counts.reindex(['Strong Support', 'Moderate Support', '
 # plt.tight_layout()
 # plt.show()
 
-# # Pie Chart by Gender
-# genders = df['Gender'].unique()
-# for gender in genders:
-#     subset = df[df['Gender'] == gender]
-#     dist = subset['perceived_support_level'].value_counts(normalize=True) * 100
-#     dist = dist.reindex(['Strong Support', 'Moderate Support', 'Low Support']).fillna(0)
+# Pie Chart by Gender
+genders = df['Gender'].unique()
+for gender in genders:
+    subset = df[df['Gender'] == gender]
+    dist = subset['perceived_support_level'].value_counts(normalize=True) * 100
+    dist = dist.reindex(['Strong Support', 'Moderate Support', 'Low Support']).fillna(0)
 
-#     plt.figure(figsize=(5,5))
-#     plt.pie(dist, labels=dist.index, autopct='%1.1f%%',
-#             colors=['skyblue', 'orange', 'red'], startangle=140)
-#     plt.title(f'Support Distribution – {gender}')
-#     plt.tight_layout()
-#     plt.show()
+    plt.figure(figsize=(5,5))
+    plt.pie(dist, labels=dist.index, autopct='%1.1f%%',
+            colors=['skyblue', 'orange', 'red'], startangle=140)
+    plt.title(f'Support Distribution – {gender}')
+    plt.tight_layout()
+    plt.show()
 
 # # Bar Chart by Department
 # plt.figure(figsize=(7, 4))
@@ -119,19 +155,19 @@ support_counts = support_counts.reindex(['Strong Support', 'Moderate Support', '
 # plt.tight_layout()
 # plt.show()
 
-# # Pie Chart by Year
-# years = df['Year'].unique()
-# for year in years:
-#     subset = df[df['Year'] == year]
-#     dist = subset['perceived_support_level'].value_counts(normalize=True) * 100
-#     dist = dist.reindex(['Strong Support', 'Moderate Support', 'Low Support']).fillna(0)
+# Pie Chart by Year
+years = df['Year'].unique()
+for year in years:
+    subset = df[df['Year'] == year]
+    dist = subset['perceived_support_level'].value_counts(normalize=True) * 100
+    dist = dist.reindex(['Strong Support', 'Moderate Support', 'Low Support']).fillna(0)
 
-#     plt.figure(figsize=(5,5))
-#     plt.pie(dist, labels=dist.index, autopct='%1.1f%%',
-#             colors=['skyblue', 'orange', 'red'], startangle=140)
-#     plt.title(f'Support Distribution – {year} Year')
-#     plt.tight_layout()
-#     plt.show()
+    plt.figure(figsize=(5,5))
+    plt.pie(dist, labels=dist.index, autopct='%1.1f%%',
+            colors=['skyblue', 'orange', 'red'], startangle=140)
+    plt.title(f'Support Distribution – {year} Year')
+    plt.tight_layout()
+    plt.show()
 
 # # Normalize label to lowercase + replace spaces with underscores for column naming
 # df['perceived_support_level'] = df['perceived_support_level'].str.lower().str.replace(" ", "_")

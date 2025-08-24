@@ -1,0 +1,474 @@
+P_ID,Department,Year,Gender,social_comparison,peer_pressure,academic_burnout,life_satisfaction,loneliness,perceived_support,cluster,cluster_name,heavy_user,Q2 = Which social media account do you use mostly?
+1,IT,Fourth,Male,4.0,3.8,3.8,2.0,3.6,3.0,1,Comparison-Prone,0,Facebook
+2,IT,First,Male,4.0,4.8,2.8,3.4,3.8,3.0,1,Comparison-Prone,0,Tiktok
+3,IT,Second,Male,2.6,4.0,3.0,2.2,2.4,2.4,0,Socially Secure,0,Facebook
+4,IT,First,Male,3.8,4.8,2.6,3.0,2.6,2.0,1,Comparison-Prone,0,Instagram
+5,Computer,Fourth,Male,2.6,3.0,3.0,2.0,3.0,2.0,0,Socially Secure,1,Facebook
+6,Computer,Third,Male,2.8,4.2,3.4,3.0,4.2,1.8,1,Comparison-Prone,0,Whatsapp
+7,Computer,Third,Female,2.8,3.4,1.4,3.8,3.2,2.8,0,Socially Secure,1,Twitter(X)
+8,Computer,Third,Male,3.2,3.2,3.0,2.2,3.0,2.6,0,Socially Secure,0,Instagram
+9,IT,First,Male,4.6,4.6,2.4,2.0,4.4,2.0,1,Comparison-Prone,0,Instagram
+10,IT,First,Female,2.2,2.8,2.8,2.8,3.2,2.0,0,Socially Secure,0,Instagram
+11,IT,First,Female,2.8,3.6,2.6,2.0,2.2,2.2,0,Socially Secure,1,Instagram
+12,Computer,Fourth,Female,3.6,4.0,2.8,3.8,4.6,2.4,1,Comparison-Prone,0,Instagram
+13,Computer,Fourth,Male,4.0,4.2,2.6,3.0,3.0,2.4,1,Comparison-Prone,0,Twitter(X)
+14,Computer,Fourth,Male,3.2,4.2,2.4,1.8,4.2,1.8,1,Comparison-Prone,1,Instagram
+15,Computer,Fourth,Female,2.8,4.6,1.8,2.8,2.4,3.0,0,Socially Secure,0,Instagram
+16,IT,Fourth,Female,4.0,4.8,1.8,2.6,4.2,1.6,1,Comparison-Prone,1,Youtube
+17,IT,Fourth,Male,3.0,4.6,2.6,2.2,3.8,2.0,1,Comparison-Prone,0,Instagram
+18,Computer,Fourth,Male,5.0,5.0,3.2,1.0,4.4,2.0,1,Comparison-Prone,1,Twitter(X)
+19,IT,First,Male,3.4,4.2,3.4,2.0,4.4,1.8,1,Comparison-Prone,0,Instagram
+20,IT,Second,Male,3.4,4.0,3.0,2.4,3.6,2.4,1,Comparison-Prone,0,Whatsapp
+21,IT,First,Female,2.0,2.0,3.0,3.0,3.0,5.0,0,Socially Secure,0,Instagram
+22,IT,First,Male,2.6,4.4,3.2,1.6,4.0,1.0,1,Comparison-Prone,0,Instagram
+23,Computer,First,Male,1.2,3.4,1.4,3.6,2.2,3.8,0,Socially Secure,1,Instagram
+24,Computer,Fourth,Male,2.2,4.2,3.4,3.6,3.6,4.6,0,Socially Secure,0,Whatsapp
+25,Computer,Fourth,Female,2.0,3.6,2.0,4.0,3.0,2.0,0,Socially Secure,0,Instagram
+26,IT,First,Female,2.6,3.4,2.0,3.2,3.8,3.0,0,Socially Secure,1,Tiktok
+27,IT,First,Female,2.6,3.6,2.2,3.2,3.8,3.0,0,Socially Secure,1,Instagram
+28,IT,First,Male,3.2,4.0,3.4,2.2,4.0,2.2,1,Comparison-Prone,0,Instagram
+29,IT,First,Male,3.6,3.0,3.0,2.0,2.0,1.8,0,Socially Secure,1,Instagram
+30,IT,Second,Female,2.2,3.6,1.4,2.8,3.4,1.8,0,Socially Secure,0,Facebook
+31,Computer,Fourth,Male,3.4,3.6,2.0,3.2,3.8,1.8,0,Socially Secure,1,Instagram
+32,Computer,Fourth,Male,4.4,4.8,2.2,1.0,4.0,2.6,1,Comparison-Prone,0,Facebook
+33,Computer,Fourth,Female,4.0,4.8,3.0,2.8,3.0,2.4,1,Comparison-Prone,0,Snapchat
+34,Computer,Fourth,Female,3.4,4.6,2.4,4.0,4.0,1.8,1,Comparison-Prone,1,Instagram
+35,Computer,Fourth,Male,3.6,5.0,2.4,3.0,4.0,2.4,1,Comparison-Prone,0,Whatsapp
+36,Computer,Fourth,Male,4.2,4.4,1.8,1.6,3.0,3.4,1,Comparison-Prone,0,Instagram
+37,Computer,Fourth,Female,3.2,5.0,1.8,3.2,3.2,1.8,1,Comparison-Prone,0,Instagram
+38,Computer,Fourth,Male,4.2,4.0,2.6,2.0,3.8,2.0,1,Comparison-Prone,0,Facebook
+39,Computer,Third,Male,3.6,3.0,3.6,2.6,3.4,2.4,0,Socially Secure,0,Whatsapp
+40,Computer,Third,Male,3.6,4.6,2.4,2.6,3.8,2.0,1,Comparison-Prone,0,Instagram
+41,Computer,Third,Male,4.2,4.2,2.2,2.2,4.2,1.4,1,Comparison-Prone,0,Reddit
+42,Computer,First,Male,3.4,3.6,1.8,2.2,4.0,2.2,0,Socially Secure,0,Snapchat
+43,Computer,First,Male,3.2,4.6,3.2,1.8,2.2,2.8,1,Comparison-Prone,0,Instagram
+44,Computer,First,Female,2.4,3.4,2.2,2.4,2.8,2.0,0,Socially Secure,0,Instagram
+45,Computer,Third,Female,4.0,3.8,2.8,2.4,4.6,1.6,1,Comparison-Prone,0,Instagram
+46,Computer,Third,Female,3.4,4.4,2.6,3.8,3.8,2.0,1,Comparison-Prone,1,Instagram
+47,Computer,Third,Female,3.4,4.6,2.2,1.4,3.6,1.6,1,Comparison-Prone,0,Facebook
+48,Computer,Third,Male,3.2,3.6,2.2,3.4,3.2,2.8,0,Socially Secure,1,Facebook
+49,Computer,Fourth,Male,3.8,4.8,3.2,2.2,3.8,2.8,1,Comparison-Prone,0,Snapchat
+50,Computer,Third,Male,3.8,4.0,4.0,1.6,4.4,1.6,1,Comparison-Prone,0,Instagram
+51,Computer,First,Male,3.8,4.8,4.2,3.0,4.8,2.4,1,Comparison-Prone,1,Whatsapp
+52,Computer,Fourth,Male,4.4,4.6,2.8,2.4,4.4,2.4,1,Comparison-Prone,1,Instagram
+53,Computer,Fourth,Male,5.0,5.0,2.6,2.8,3.8,1.4,1,Comparison-Prone,0,Whatsapp
+54,Computer,Fourth,Female,1.4,3.0,1.6,3.6,2.8,1.0,0,Socially Secure,1,Instagram
+55,Computer,Fourth,Female,2.2,4.0,2.8,2.8,2.4,2.0,0,Socially Secure,0,Instagram
+56,Computer,Fourth,Male,3.2,3.4,3.6,3.6,3.2,4.0,0,Socially Secure,0,Instagram
+57,IT,Fourth,Male,2.4,3.6,2.6,2.6,2.8,3.0,0,Socially Secure,0,Facebook
+58,Computer,First,Female,3.2,3.8,2.0,2.4,3.2,2.0,0,Socially Secure,0,Instagram
+59,IT,First,Female,4.0,4.2,3.0,2.6,3.6,1.4,1,Comparison-Prone,1,Instagram
+60,Computer,Fourth,Male,3.6,4.8,3.4,1.4,3.8,1.6,1,Comparison-Prone,0,Instagram
+61,Computer,First,Male,3.0,3.6,3.6,2.6,1.4,3.8,0,Socially Secure,0,Snapchat
+62,Computer,First,Male,2.0,3.6,2.8,3.4,2.8,2.2,0,Socially Secure,1,Youtube
+63,Computer,First,Male,5.0,4.4,3.2,3.2,2.4,3.2,1,Comparison-Prone,0,Twitter(X)
+64,Computer,First,Male,3.2,3.8,3.0,2.6,3.6,2.4,1,Comparison-Prone,0,Whatsapp
+65,Computer,First,Male,3.2,3.2,2.2,3.2,3.4,2.0,0,Socially Secure,0,Instagram
+66,Computer,First,Male,3.8,4.0,1.2,3.0,4.2,2.2,0,Socially Secure,0,Instagram
+67,Computer,First,Male,1.4,4.8,1.8,2.8,3.8,2.0,0,Socially Secure,0,Instagram
+68,Computer,First,Male,4.0,4.0,3.0,1.6,4.0,1.2,1,Comparison-Prone,0,Whatsapp
+69,Computer,First,Male,3.6,4.0,2.4,2.4,4.4,1.2,1,Comparison-Prone,0,Instagram
+70,Computer,First,Male,3.2,4.8,1.8,4.0,3.6,2.0,0,Socially Secure,1,Instagram
+71,Computer,First,Male,4.0,4.2,1.8,3.6,3.6,2.0,1,Comparison-Prone,1,Instagram
+72,Computer,First,Male,2.6,4.4,3.4,2.8,3.4,2.6,1,Comparison-Prone,1,Discord
+73,Computer,First,Male,5.0,4.2,2.2,2.4,2.2,2.0,1,Comparison-Prone,1,Whatsapp
+74,Computer,First,Male,2.2,3.2,2.4,2.8,3.0,2.0,0,Socially Secure,1,Facebook
+75,Computer,First,Male,3.0,4.6,2.6,2.2,3.4,1.0,1,Comparison-Prone,0,Facebook
+76,Computer,First,Male,1.6,4.0,2.0,4.2,3.4,3.6,0,Socially Secure,1,Instagram
+77,Computer,First,Male,2.4,3.4,2.0,1.2,1.4,1.2,0,Socially Secure,0,Viber
+78,Computer,First,Male,2.2,3.6,2.2,2.6,3.0,2.4,0,Socially Secure,1,Instagram
+79,IT,First,Female,4.2,5.0,2.4,2.4,4.4,2.0,1,Comparison-Prone,1,Instagram
+80,IT,First,Male,4.0,4.0,2.8,2.8,3.6,2.2,1,Comparison-Prone,0,Instagram
+81,IT,Second,Male,3.0,3.0,2.2,1.4,3.2,2.8,0,Socially Secure,1,Instagram
+82,IT,First,Male,2.2,3.8,2.6,2.8,1.8,3.4,0,Socially Secure,0,Instagram
+83,IT,First,Male,2.8,3.4,3.2,4.0,3.6,3.0,0,Socially Secure,0,Instagram
+84,IT,First,Male,3.2,3.8,2.2,2.2,3.2,1.4,0,Socially Secure,1,Facebook
+85,Computer,First,Male,3.0,3.4,2.4,1.8,2.8,3.0,0,Socially Secure,0,Instagram
+86,Computer,First,Male,2.2,3.8,2.6,2.4,3.4,2.4,0,Socially Secure,0,Instagram
+87,Computer,First,Male,4.6,5.0,3.8,1.0,4.2,1.4,1,Comparison-Prone,0,Snapchat
+88,Computer,First,Female,3.8,4.6,3.0,2.6,4.0,1.4,1,Comparison-Prone,0,Whatsapp
+89,Computer,First,Male,1.8,1.0,1.0,5.0,1.4,4.0,0,Socially Secure,0,Instagram
+90,Computer,First,Male,3.6,4.4,1.0,4.4,4.0,2.8,0,Socially Secure,0,Instagram
+91,Computer,First,Male,3.4,2.8,1.8,1.2,1.4,2.4,0,Socially Secure,1,Facebook
+92,Computer,First,Female,3.4,5.0,2.6,3.0,2.6,1.6,1,Comparison-Prone,0,Facebook
+93,Computer,First,Male,3.2,4.8,2.0,2.6,4.6,1.0,1,Comparison-Prone,0,Instagram
+94,Computer,First,Male,3.0,4.0,1.2,4.0,4.2,1.6,0,Socially Secure,1,Instagram
+95,Computer,First,Male,1.6,3.6,3.4,1.2,3.4,2.2,0,Socially Secure,1,Instagram
+96,IT,First,Male,3.6,4.2,2.2,3.6,2.8,2.2,0,Socially Secure,1,Tiktok
+97,Computer,First,Female,2.0,4.4,2.0,3.2,2.6,3.6,0,Socially Secure,1,Instagram
+98,Computer,Fourth,Female,3.0,3.8,2.6,2.4,3.4,2.0,0,Socially Secure,1,Instagram
+99,Computer,Third,Male,3.6,3.6,2.6,1.6,4.0,1.8,1,Comparison-Prone,1,Youtube
+100,Computer,Third,Male,2.0,4.2,2.8,3.0,2.2,2.4,0,Socially Secure,0,Whatsapp
+101,Computer,Third,Male,2.8,4.4,2.2,1.8,3.6,2.0,1,Comparison-Prone,0,Instagram
+102,IT,Third,Male,2.4,2.8,2.6,3.6,2.6,3.6,0,Socially Secure,0,Instagram
+103,Computer,Third,Male,5.0,3.8,2.0,2.2,3.4,2.0,1,Comparison-Prone,0,Facebook
+104,Computer,Third,Male,3.0,4.0,1.8,3.6,3.4,2.6,0,Socially Secure,1,Instagram
+105,Computer,Third,Male,2.2,4.0,2.6,2.2,2.8,3.6,0,Socially Secure,1,Instagram
+106,Computer,Fourth,Male,5.0,5.0,4.6,1.4,4.6,2.2,1,Comparison-Prone,0,Instagram
+107,Computer,Fourth,Male,2.2,2.8,3.2,3.4,2.2,2.6,0,Socially Secure,0,Youtube
+108,Computer,Fourth,Male,3.4,4.2,1.0,4.4,7.2,3.0,1,Comparison-Prone,0,Reddit
+109,Computer,Fourth,Female,2.6,4.0,2.0,4.4,4.4,1.6,0,Socially Secure,0,Instagram
+110,Computer,Fourth,Male,3.2,5.0,1.0,2.2,4.4,2.2,1,Comparison-Prone,0,Discord
+111,Computer,Fourth,Male,3.6,4.0,2.6,2.2,4.6,2.0,1,Comparison-Prone,0,Whatsapp
+112,Computer,Fourth,Male,2.2,3.4,3.0,2.2,3.0,2.4,0,Socially Secure,1,Instagram
+113,Computer,Fourth,Male,3.6,4.2,2.6,3.0,4.0,3.0,1,Comparison-Prone,1,Instagram
+114,Computer,Second,Male,2.4,4.4,2.4,2.4,3.4,1.6,0,Socially Secure,0,Instagram
+115,Computer,Second,Male,5.0,5.0,4.4,2.4,3.0,3.0,1,Comparison-Prone,1,Instagram
+116,Computer,Second,Female,2.2,5.0,1.2,4.2,1.8,3.8,0,Socially Secure,1,Instagram
+117,Computer,Second,Male,3.8,3.4,2.8,3.0,3.0,1.6,0,Socially Secure,1,Tiktok
+118,Computer,Second,Female,4.2,5.0,3.0,2.4,4.6,1.0,1,Comparison-Prone,1,Facebook
+119,Computer,Second,Male,4.0,4.4,3.0,2.2,3.6,3.2,1,Comparison-Prone,0,Tiktok
+120,Computer,Second,Male,2.6,4.2,3.2,2.8,3.6,1.8,1,Comparison-Prone,1,Instagram
+121,Computer,Second,Male,4.0,4.0,2.2,2.4,3.0,2.0,1,Comparison-Prone,1,Instagram
+122,Computer,Second,Female,2.0,3.6,1.8,3.8,1.8,2.2,0,Socially Secure,0,Instagram
+123,Computer,Fourth,Male,4.4,5.0,4.0,1.4,4.4,2.0,1,Comparison-Prone,0,Twitter(X)
+124,Computer,Second,Male,4.4,4.8,1.8,1.8,4.0,1.6,1,Comparison-Prone,0,Twitter(X)
+125,Computer,Fourth,Male,2.6,2.8,2.2,2.8,2.8,2.0,0,Socially Secure,0,Reddit
+126,Computer,Fourth,Female,3.4,4.4,2.4,1.8,3.2,1.4,1,Comparison-Prone,0,Instagram
+127,Computer,Fourth,Female,3.2,5.0,2.4,3.4,3.8,2.6,1,Comparison-Prone,1,Whatsapp
+128,Computer,Fourth,Female,2.6,4.0,2.0,3.0,2.6,1.8,0,Socially Secure,0,Instagram
+129,Computer,Fourth,Male,3.2,5.0,3.8,2.2,3.6,2.4,1,Comparison-Prone,1,Instagram
+130,Computer,Fourth,Male,3.2,3.2,2.6,4.0,3.4,2.8,0,Socially Secure,1,Facebook
+131,Computer,Fourth,Female,3.2,3.6,2.6,2.0,2.8,1.4,0,Socially Secure,0,Instagram
+132,Computer,Fourth,Female,2.6,2.2,1.0,4.0,3.0,2.6,0,Socially Secure,0,Facebook
+133,Computer,Fourth,Female,3.2,4.4,2.4,2.6,3.0,2.0,1,Comparison-Prone,0,Instagram
+134,Computer,Fourth,Male,2.8,4.2,2.6,2.0,3.8,1.4,1,Comparison-Prone,0,Viber
+135,Computer,Fourth,Male,3.0,4.2,1.8,2.4,3.6,3.0,0,Socially Secure,0,Instagram
+136,Computer,Fourth,Female,3.0,4.8,2.0,2.6,4.0,1.6,1,Comparison-Prone,1,Instagram
+137,Computer,Third,Male,1.8,3.4,3.0,3.0,3.0,3.8,0,Socially Secure,1,Instagram
+138,Computer,Third,Male,1.8,2.6,1.0,5.0,5.0,4.0,0,Socially Secure,1,Instagram
+139,Computer,Third,Male,2.8,3.8,1.6,3.6,3.4,2.4,0,Socially Secure,0,Instagram
+140,Computer,Fourth,Male,4.0,4.4,3.4,1.2,4.4,2.2,1,Comparison-Prone,0,Facebook
+141,IT,Fourth,Male,2.4,3.6,1.4,3.6,2.8,2.2,0,Socially Secure,0,Instagram
+142,Computer,Third,Male,4.0,3.8,3.4,2.0,4.4,1.8,1,Comparison-Prone,0,Instagram
+143,IT,First,Male,3.8,5.0,3.0,2.6,4.2,1.6,1,Comparison-Prone,0,Instagram
+144,Computer,First,Male,3.0,3.0,2.6,2.6,3.0,3.0,0,Socially Secure,0,Viber
+145,Computer,Third,Male,2.4,3.0,1.8,2.8,3.2,2.6,0,Socially Secure,1,Facebook
+146,Computer,Fourth,Female,4.2,4.8,3.4,1.6,3.6,1.6,1,Comparison-Prone,0,Instagram
+147,IT,First,Male,3.6,3.8,2.0,3.0,4.0,2.4,0,Socially Secure,1,Twitter(X)
+148,Computer,Fourth,Female,3.6,4.6,3.4,3.6,4.0,2.4,1,Comparison-Prone,0,Instagram
+149,Computer,Fourth,Male,4.0,3.8,1.4,4.2,2.0,3.8,0,Socially Secure,1,Instagram
+150,Computer,Fourth,Male,3.4,4.2,2.4,2.4,4.2,2.6,1,Comparison-Prone,1,Instagram
+151,Computer,Third,Male,2.4,2.4,1.6,2.4,3.6,3.0,0,Socially Secure,0,Whatsapp
+152,IT,First,Male,3.6,4.0,2.2,2.6,2.8,4.0,0,Socially Secure,0,Instagram
+153,Computer,Third,Male,2.6,3.4,2.8,3.0,3.4,2.6,0,Socially Secure,0,Whatsapp
+154,Computer,Second,Male,2.4,3.6,1.8,3.2,3.6,2.4,0,Socially Secure,1,Instagram
+155,Computer,Second,Male,2.0,4.0,1.6,3.0,4.0,2.0,0,Socially Secure,1,Discord
+156,Computer,Third,Male,2.8,4.0,2.4,2.4,3.4,2.0,0,Socially Secure,1,Whatsapp
+157,Computer,Fourth,Male,4.0,4.4,2.6,3.0,3.6,3.0,1,Comparison-Prone,0,Whatsapp
+158,IT,First,Male,3.4,3.2,3.0,1.2,2.6,1.8,0,Socially Secure,1,Instagram
+159,IT,First,Female,3.0,4.0,2.8,2.6,3.0,1.6,0,Socially Secure,0,Instagram
+160,IT,Second,Male,3.4,5.0,2.6,3.2,2.8,2.8,1,Comparison-Prone,0,Instagram
+161,Computer,Fourth,Male,5.0,5.0,4.6,1.4,4.6,3.8,1,Comparison-Prone,0,Reddit
+162,IT,First,Male,4.2,5.0,3.6,1.4,4.4,2.6,1,Comparison-Prone,0,Twitter(X)
+163,IT,First,Female,3.6,3.8,3.6,2.2,3.0,2.0,1,Comparison-Prone,0,Instagram
+164,IT,First,Male,3.0,3.8,2.0,3.0,3.4,2.6,0,Socially Secure,1,Instagram
+165,IT,First,Female,4.2,4.8,2.4,2.6,4.4,1.6,1,Comparison-Prone,0,Instagram
+166,Computer,Third,Male,3.2,4.6,2.8,1.6,4.4,2.2,1,Comparison-Prone,0,Instagram
+167,Computer,Third,Male,3.4,4.0,2.4,1.8,3.6,1.4,1,Comparison-Prone,1,Instagram
+168,Computer,Third,Female,3.6,4.0,2.6,2.2,4.4,1.8,1,Comparison-Prone,0,Whatsapp
+169,Computer,Third,Female,3.4,4.6,3.2,1.2,3.0,1.6,1,Comparison-Prone,0,Instagram
+170,Computer,First,Female,2.4,4.4,2.6,2.6,3.2,1.4,0,Socially Secure,1,Instagram
+171,Computer,Fourth,Male,2.4,4.4,2.0,4.0,3.4,2.8,0,Socially Secure,1,Viber
+172,Computer,Fourth,Male,3.8,4.4,3.6,2.8,3.8,1.8,1,Comparison-Prone,0,Facebook
+173,Computer,Fourth,Female,2.2,3.0,2.2,3.0,2.4,2.8,0,Socially Secure,0,Instagram
+174,Computer,Fourth,Male,3.0,3.0,3.4,2.0,4.2,2.2,1,Comparison-Prone,1,Facebook
+175,Computer,Fourth,Female,3.2,3.4,1.8,1.8,3.4,2.8,0,Socially Secure,0,Instagram
+176,Computer,Fourth,Male,2.6,3.6,1.6,2.8,4.0,3.2,0,Socially Secure,0,Instagram
+177,Computer,Fourth,Male,1.4,1.6,1.6,3.0,3.6,3.2,0,Socially Secure,0,Instagram
+178,Computer,Third,Male,2.8,4.2,2.6,3.0,3.0,2.8,0,Socially Secure,1,Instagram
+179,Computer,Third,Male,3.8,3.8,3.2,2.2,4.4,2.6,1,Comparison-Prone,0,Instagram
+180,Computer,Third,Male,2.0,3.0,2.0,3.0,2.2,1.8,0,Socially Secure,0,Facebook
+181,Computer,Third,Male,2.8,3.8,2.6,2.2,3.2,1.8,0,Socially Secure,1,Snapchat
+182,Computer,First,Male,3.6,4.0,2.8,3.2,3.6,2.8,1,Comparison-Prone,0,Instagram
+183,Computer,First,Male,3.2,4.4,1.8,1.8,4.2,1.8,1,Comparison-Prone,0,Tiktok
+184,Computer,First,Female,2.6,4.2,1.2,4.0,5.0,1.2,0,Socially Secure,0,Instagram
+185,IT,Fourth,Female,3.4,4.2,2.4,2.8,3.4,1.8,1,Comparison-Prone,1,Tiktok
+186,IT,Fourth,Male,3.0,4.0,2.6,2.4,2.8,1.8,0,Socially Secure,0,Facebook
+187,Computer,First,Female,3.4,4.6,2.2,2.2,5.0,1.0,1,Comparison-Prone,1,Instagram
+188,Computer,Fourth,Male,2.2,3.2,2.6,1.8,3.4,1.6,0,Socially Secure,1,Viber
+189,Computer,Fourth,Male,3.6,4.4,2.0,4.8,3.6,2.8,0,Socially Secure,1,Facebook
+190,Computer,Fourth,Female,3.0,3.6,2.6,3.4,3.4,2.4,0,Socially Secure,1,Facebook
+191,Computer,Fourth,Male,5.0,4.2,2.6,4.2,3.0,4.2,0,Socially Secure,0,Discord
+192,Computer,Fourth,Other,2.0,4.8,2.0,4.4,3.6,2.2,0,Socially Secure,1,Viber
+193,Computer,Fourth,Male,2.6,3.0,2.4,3.8,4.2,2.0,0,Socially Secure,1,Reddit
+194,Computer,Fourth,Male,2.0,2.6,2.8,2.2,2.8,1.8,0,Socially Secure,0,Whatsapp
+195,Computer,Fourth,Male,2.8,4.2,3.4,2.6,3.0,2.4,0,Socially Secure,0,Facebook
+196,Computer,First,Female,2.2,2.2,1.6,3.8,3.8,2.2,0,Socially Secure,1,Instagram
+197,Computer,Fourth,Male,3.4,4.0,3.2,1.2,3.2,1.2,1,Comparison-Prone,1,Instagram
+198,IT,Fourth,Male,3.6,4.6,2.6,2.6,4.2,2.2,1,Comparison-Prone,1,Instagram
+199,Computer,Second,Male,3.0,4.0,2.6,2.4,3.0,1.8,0,Socially Secure,0,Instagram
+200,Computer,Fourth,Other,2.4,3.8,2.0,3.2,3.2,2.4,0,Socially Secure,1,Instagram
+201,Computer,Third,Male,4.4,4.2,1.8,3.0,4.4,1.6,1,Comparison-Prone,1,Instagram
+202,IT,First,Female,3.0,3.0,2.6,3.0,3.0,3.4,0,Socially Secure,0,Instagram
+203,IT,First,Female,3.4,4.4,3.0,2.4,3.6,2.0,1,Comparison-Prone,1,Tiktok
+204,Computer,Fourth,Female,2.0,3.8,2.2,4.0,2.2,2.0,0,Socially Secure,1,Instagram
+205,Computer,Fourth,Female,4.4,4.0,3.2,3.0,2.6,2.8,1,Comparison-Prone,0,Instagram
+206,Computer,Fourth,Female,3.0,3.6,2.0,3.2,3.8,2.2,0,Socially Secure,1,Instagram
+207,Computer,Fourth,Female,3.0,3.6,2.2,3.0,3.0,2.2,0,Socially Secure,1,Facebook
+208,Computer,Fourth,Male,3.4,3.0,2.6,1.8,3.2,1.2,0,Socially Secure,0,Facebook
+209,Computer,Fourth,Male,2.4,2.8,2.0,3.2,2.4,2.2,0,Socially Secure,0,Tiktok
+210,Computer,First,Male,3.2,4.6,2.4,2.6,4.4,2.4,1,Comparison-Prone,0,Instagram
+211,Computer,First,Male,4.2,3.6,3.2,3.2,4.2,2.6,1,Comparison-Prone,1,Twitter(X)
+212,IT,Fourth,Female,1.6,4.2,1.2,3.4,2.2,1.8,0,Socially Secure,1,Instagram
+213,Computer,Third,Male,3.6,4.0,2.4,3.4,3.4,3.4,0,Socially Secure,0,Whatsapp
+214,Computer,Third,Male,2.2,3.6,3.6,2.2,2.8,2.4,0,Socially Secure,0,Instagram
+215,Computer,Fourth,Male,4.6,5.0,2.6,1.6,3.6,2.2,1,Comparison-Prone,0,Viber
+216,Computer,Fourth,Male,4.6,4.6,2.8,2.2,3.6,1.8,1,Comparison-Prone,0,Facebook
+217,Computer,Fourth,Male,4.8,4.2,3.4,2.2,3.2,1.8,1,Comparison-Prone,0,Tiktok
+218,Computer,Fourth,Male,5.0,5.0,4.2,2.0,5.0,1.8,1,Comparison-Prone,1,Youtube
+219,Computer,Fourth,Male,5.0,5.0,3.0,1.6,3.0,1.2,1,Comparison-Prone,1,Viber
+220,Computer,Fourth,Male,2.4,4.0,1.2,3.4,3.8,1.4,0,Socially Secure,1,Instagram
+221,Computer,Fourth,Male,2.6,3.8,1.0,4.0,3.0,2.0,0,Socially Secure,1,Instagram
+222,Computer,Fourth,Male,2.6,2.6,1.8,5.0,3.4,1.8,0,Socially Secure,1,Facebook
+223,Computer,Second,Male,3.0,3.6,1.4,1.6,3.0,3.2,0,Socially Secure,0,Facebook
+224,Computer,Fourth,Male,4.8,5.0,3.8,1.6,5.0,1.6,1,Comparison-Prone,1,Twitter(X)
+225,Computer,Fourth,Male,2.6,3.2,2.0,2.4,2.8,2.0,0,Socially Secure,0,Instagram
+226,IT,First,Male,3.2,4.2,3.8,3.0,2.8,3.0,0,Socially Secure,0,Instagram
+227,IT,First,Male,3.6,2.8,1.2,3.0,2.6,1.8,0,Socially Secure,1,Instagram
+228,IT,First,Male,3.6,3.8,2.4,3.2,2.6,2.4,0,Socially Secure,1,Twitter(X)
+229,IT,First,Female,3.2,5.0,1.0,2.2,4.8,1.0,1,Comparison-Prone,1,Instagram
+230,IT,First,Male,4.0,3.8,1.0,3.2,3.4,2.2,0,Socially Secure,1,Snapchat
+231,Computer,Fourth,Male,4.2,4.8,2.2,2.2,4.6,2.2,1,Comparison-Prone,1,Instagram
+232,Computer,Second,Male,3.2,3.0,2.4,1.6,3.6,2.4,0,Socially Secure,1,Twitter(X)
+233,Computer,Second,Male,2.8,3.8,3.8,2.0,4.0,2.2,1,Comparison-Prone,0,Facebook
+234,Computer,Second,Male,3.2,3.6,3.6,2.0,3.8,2.2,1,Comparison-Prone,0,Facebook
+235,Computer,Second,Male,3.2,4.2,2.6,3.4,2.6,3.4,0,Socially Secure,1,Tiktok
+236,Computer,Second,Male,3.0,4.2,3.6,2.6,3.8,2.8,1,Comparison-Prone,1,Tiktok
+237,Computer,Second,Male,4.2,5.0,3.8,3.2,3.6,4.4,1,Comparison-Prone,1,Instagram
+238,Computer,Second,Male,2.0,3.0,2.0,1.8,2.4,2.2,0,Socially Secure,0,Whatsapp
+239,Computer,Second,Male,4.0,3.4,1.2,4.2,3.0,3.6,0,Socially Secure,1,Instagram
+240,Computer,Second,Male,2.2,3.8,1.6,3.4,2.8,2.8,0,Socially Secure,0,Facebook
+241,Computer,Second,Female,2.8,4.2,2.4,3.8,2.8,1.6,0,Socially Secure,1,Instagram
+242,Computer,Second,Male,4.4,4.2,2.0,2.6,3.6,2.8,1,Comparison-Prone,1,Instagram
+243,Computer,Second,Male,4.6,4.2,3.0,2.6,4.6,1.6,1,Comparison-Prone,0,Instagram
+244,Computer,Second,Male,3.6,3.0,4.0,2.0,3.4,3.2,1,Comparison-Prone,1,Facebook
+245,Computer,Second,Male,4.2,4.0,2.0,3.4,4.0,2.4,1,Comparison-Prone,0,Twitter(X)
+246,Computer,Second,Male,4.0,3.8,3.0,3.0,3.8,2.0,1,Comparison-Prone,1,Facebook
+247,Computer,Second,Female,2.8,4.6,2.6,2.6,3.4,1.4,1,Comparison-Prone,1,Instagram
+248,Computer,Second,Male,2.2,2.6,1.8,2.2,2.2,2.2,0,Socially Secure,1,Facebook
+249,Computer,Second,Male,5.0,5.0,2.4,3.2,4.0,3.0,1,Comparison-Prone,0,Reddit
+250,Computer,Second,Male,3.4,3.2,2.0,2.4,3.4,3.0,0,Socially Secure,0,Whatsapp
+251,Computer,Second,Male,4.2,4.6,1.8,3.6,4.2,2.6,1,Comparison-Prone,0,Instagram
+252,Computer,Second,Male,3.0,3.2,2.2,2.6,3.8,2.2,0,Socially Secure,0,Whatsapp
+253,Computer,Second,Male,4.6,4.2,2.8,2.6,3.4,2.6,1,Comparison-Prone,0,Instagram
+254,Computer,Second,Male,2.8,3.2,2.8,3.0,2.2,2.6,0,Socially Secure,0,Twitter(X)
+255,Computer,Third,Male,3.8,3.4,4.2,3.4,3.4,3.4,0,Socially Secure,1,Viber
+256,Computer,Third,Male,2.4,2.4,2.2,1.4,3.0,2.8,0,Socially Secure,0,Facebook
+257,Computer,Fourth,Male,2.4,3.2,2.4,3.0,4.0,2.2,0,Socially Secure,1,Reddit
+258,Computer,Fourth,Male,2.8,4.4,2.0,3.4,2.8,2.0,0,Socially Secure,1,Instagram
+259,Computer,Fourth,Male,3.8,5.0,3.0,1.4,4.6,1.8,1,Comparison-Prone,1,Reddit
+260,Computer,Fourth,Male,2.6,4.4,1.8,3.4,3.4,3.0,0,Socially Secure,0,Instagram
+261,Computer,Fourth,Male,3.6,4.0,2.0,2.6,4.2,2.2,1,Comparison-Prone,0,Facebook
+262,Computer,Fourth,Male,3.4,3.6,2.0,3.0,4.0,2.2,0,Socially Secure,0,Facebook
+263,Computer,Fourth,Male,5.0,5.0,2.4,2.2,3.4,1.8,1,Comparison-Prone,1,Instagram
+264,Computer,Fourth,Male,2.6,3.0,2.6,1.8,2.6,1.8,0,Socially Secure,0,Viber
+265,Computer,Fourth,Male,3.4,4.0,3.2,2.4,4.2,2.6,1,Comparison-Prone,0,Whatsapp
+266,Computer,Fourth,Male,5.0,5.0,4.4,1.4,4.0,2.2,1,Comparison-Prone,1,Facebook
+267,Computer,Fourth,Male,2.8,3.4,2.2,2.0,5.0,3.0,0,Socially Secure,1,Viber
+268,Computer,First,Male,2.4,3.0,2.6,2.0,3.0,1.8,0,Socially Secure,0,Instagram
+269,Computer,First,Male,4.0,4.0,2.8,3.2,3.8,2.0,1,Comparison-Prone,0,Instagram
+270,Computer,First,Male,5.0,5.0,3.4,2.6,3.4,2.0,1,Comparison-Prone,1,Instagram
+271,Computer,Fourth,Male,5.0,3.8,3.6,2.2,3.2,1.8,1,Comparison-Prone,0,Twitter(X)
+272,Computer,Fourth,Male,3.0,3.6,2.4,2.4,2.6,2.8,0,Socially Secure,1,Instagram
+273,Computer,First,Male,3.2,5.0,3.2,2.6,4.2,1.8,1,Comparison-Prone,0,Whatsapp
+274,Computer,First,Male,4.4,5.0,2.6,2.8,4.0,1.8,1,Comparison-Prone,0,Instagram
+275,Computer,First,Female,4.2,4.0,2.8,1.6,4.0,1.6,1,Comparison-Prone,0,Instagram
+276,Computer,First,Male,2.2,2.8,2.2,3.8,3.4,3.2,0,Socially Secure,0,Whatsapp
+277,Computer,Second,Female,3.2,4.0,2.0,3.6,3.4,2.4,0,Socially Secure,1,Tiktok
+278,Computer,Second,Female,2.6,4.8,2.6,3.4,2.0,2.2,0,Socially Secure,1,Instagram
+279,Computer,Fourth,Female,3.0,4.0,2.4,2.4,3.0,2.0,0,Socially Secure,0,Instagram
+280,Computer,Second,Female,2.2,4.4,1.6,3.8,3.0,2.2,0,Socially Secure,1,Instagram
+281,Computer,Second,Female,3.2,3.2,2.2,3.4,3.4,2.2,0,Socially Secure,1,Instagram
+282,Computer,First,Female,2.8,2.0,2.0,3.0,2.6,1.6,0,Socially Secure,0,Facebook
+283,Computer,Fourth,Male,3.8,4.0,2.8,2.2,3.2,2.6,1,Comparison-Prone,0,Whatsapp
+284,Computer,Fourth,Male,3.0,4.0,3.0,3.0,2.4,2.0,0,Socially Secure,0,Instagram
+285,IT,Second,Female,1.8,3.2,3.0,2.6,3.2,1.6,0,Socially Secure,1,Instagram
+286,IT,First,Female,2.0,1.8,2.0,1.8,2.4,2.2,0,Socially Secure,0,Instagram
+287,IT,First,Female,3.8,3.6,2.0,3.6,2.6,2.0,0,Socially Secure,0,Instagram
+288,Computer,Fourth,Male,3.2,3.8,2.0,3.2,3.2,3.0,0,Socially Secure,0,Instagram
+289,Computer,Fourth,Male,2.6,4.0,2.0,3.6,3.6,2.4,0,Socially Secure,0,Facebook
+290,Computer,Second,Male,5.0,5.0,1.2,2.4,2.2,2.0,1,Comparison-Prone,0,Twitter(X)
+291,Computer,Fourth,Male,4.2,5.0,2.4,2.2,3.8,2.0,1,Comparison-Prone,0,Instagram
+292,IT,Fourth,Female,2.0,3.2,1.8,2.0,1.8,2.8,0,Socially Secure,0,Whatsapp
+293,Computer,Second,Male,2.6,4.6,4.4,4.2,4.2,2.6,1,Comparison-Prone,0,Viber
+294,Computer,First,Female,3.0,3.6,2.6,2.2,4.0,1.4,1,Comparison-Prone,0,Tiktok
+295,Computer,Second,Male,2.2,4.2,2.6,2.8,1.4,1.6,0,Socially Secure,1,Facebook
+296,Computer,Fourth,Female,2.6,3.6,2.0,3.2,3.6,2.2,0,Socially Secure,1,Tiktok
+297,IT,Fourth,Female,3.6,5.0,2.0,2.6,4.2,1.6,1,Comparison-Prone,1,Youtube
+298,Computer,First,Male,3.0,3.0,2.4,2.4,2.6,1.6,0,Socially Secure,1,Instagram
+299,Computer,Fourth,Female,3.0,4.4,2.2,2.4,2.2,2.0,0,Socially Secure,1,Instagram
+300,Computer,Fourth,Female,4.0,4.0,3.6,3.0,3.6,2.4,1,Comparison-Prone,0,Instagram
+301,Computer,Fourth,Male,1.8,3.4,1.8,2.6,3.2,1.4,0,Socially Secure,1,Facebook
+302,IT,Fourth,Male,2.6,4.0,3.2,2.0,4.2,1.6,1,Comparison-Prone,0,Facebook
+303,Computer,First,Female,2.4,4.2,2.6,2.0,3.8,2.0,1,Comparison-Prone,1,Instagram
+304,Computer,First,Male,4.0,3.8,2.0,2.6,4.4,1.0,1,Comparison-Prone,0,Youtube
+305,Computer,Fourth,Female,3.4,4.2,2.4,2.6,3.6,2.6,1,Comparison-Prone,1,Instagram
+306,IT,Fourth,Male,2.6,4.8,2.6,1.6,3.2,1.4,1,Comparison-Prone,0,Facebook
+307,Computer,Fourth,Male,3.2,4.6,2.0,3.0,3.4,2.0,1,Comparison-Prone,0,Instagram
+308,Computer,Fourth,Male,3.0,4.2,2.0,2.0,3.8,2.8,0,Socially Secure,1,Tiktok
+309,Computer,Fourth,Male,2.6,4.2,1.6,3.8,3.6,2.0,0,Socially Secure,1,Twitter(X)
+310,Computer,Third,Female,2.4,4.0,2.4,2.4,3.0,1.4,0,Socially Secure,0,Facebook
+311,Computer,Third,Female,3.8,4.0,3.0,1.0,4.4,1.0,1,Comparison-Prone,0,Instagram
+312,Computer,Fourth,Male,2.8,3.8,3.2,2.4,3.2,2.6,0,Socially Secure,1,Instagram
+313,IT,Fourth,Male,2.0,3.0,2.0,2.2,2.8,2.2,0,Socially Secure,0,Viber
+314,Computer,Third,Female,2.2,3.6,2.6,4.0,3.8,3.6,0,Socially Secure,0,Instagram
+315,Computer,First,Female,3.0,4.4,2.4,2.6,3.6,3.2,0,Socially Secure,1,Instagram
+316,IT,First,Female,5.0,4.6,3.0,3.6,4.6,2.2,1,Comparison-Prone,1,Snapchat
+317,IT,Fourth,Male,3.2,3.6,2.8,2.4,3.4,2.0,0,Socially Secure,0,Facebook
+318,Computer,Third,Female,2.6,5.0,2.2,3.6,4.4,1.0,1,Comparison-Prone,0,Instagram
+319,IT,First,Female,1.8,2.6,2.2,1.4,3.6,1.6,0,Socially Secure,0,Whatsapp
+320,Computer,First,Male,3.0,3.6,2.4,2.6,3.6,1.6,0,Socially Secure,0,Viber
+321,IT,Fourth,Male,3.2,3.4,3.0,2.6,3.0,2.2,0,Socially Secure,0,Tiktok
+322,Computer,Fourth,Male,4.0,3.8,3.4,2.4,3.8,3.0,1,Comparison-Prone,0,Twitter(X)
+323,Computer,Fourth,Female,3.2,3.8,2.6,2.6,3.4,2.2,0,Socially Secure,1,Instagram
+324,IT,Fourth,Male,2.6,3.2,1.8,2.8,3.2,2.2,0,Socially Secure,1,Whatsapp
+325,Computer,Fourth,Male,3.4,4.2,2.4,4.4,2.6,3.4,0,Socially Secure,1,Instagram
+326,Computer,Fourth,Male,4.0,4.6,3.6,2.6,4.6,1.0,1,Comparison-Prone,0,Instagram
+327,Computer,Fourth,Male,3.0,3.4,2.6,2.4,3.6,2.2,0,Socially Secure,0,Instagram
+328,Computer,Third,Female,2.8,4.4,1.4,4.2,4.0,1.6,0,Socially Secure,1,Tiktok
+329,Computer,Third,Female,3.2,3.8,3.0,2.6,3.6,1.6,1,Comparison-Prone,0,Facebook
+330,Computer,Third,Male,4.0,5.0,2.4,2.6,3.6,1.0,1,Comparison-Prone,0,Youtube
+331,Computer,First,Male,3.0,4.4,2.4,2.6,4.0,2.0,1,Comparison-Prone,0,Instagram
+332,Computer,First,Male,3.6,4.4,2.8,2.6,3.2,2.2,1,Comparison-Prone,0,Instagram
+333,Computer,First,Male,1.8,3.2,2.2,3.8,3.6,2.6,0,Socially Secure,0,Instagram
+334,Computer,First,Male,3.0,3.8,2.2,2.6,3.4,1.8,0,Socially Secure,1,Instagram
+335,Computer,First,Male,2.6,3.6,3.2,2.0,2.4,2.0,0,Socially Secure,0,Instagram
+336,Computer,First,Male,2.6,3.2,2.0,4.4,3.6,1.6,0,Socially Secure,1,Instagram
+337,Computer,First,Male,3.4,4.2,3.0,2.0,3.8,1.8,1,Comparison-Prone,0,Facebook
+338,Computer,Fourth,Male,3.4,3.6,2.4,2.0,2.8,2.0,0,Socially Secure,1,Instagram
+339,IT,First,Male,2.0,2.2,2.4,1.6,2.0,2.0,0,Socially Secure,1,Instagram
+340,IT,First,Female,4.4,5.0,3.2,1.8,4.8,1.8,1,Comparison-Prone,1,Instagram
+341,IT,First,Male,3.6,4.8,3.6,2.6,4.4,1.6,1,Comparison-Prone,1,Discord
+342,IT,First,Male,3.8,4.0,1.6,2.8,4.8,1.2,1,Comparison-Prone,0,Instagram
+343,IT,First,Male,5.0,4.0,2.2,2.6,2.2,3.0,0,Socially Secure,1,Instagram
+344,Computer,Third,Male,2.0,2.4,1.4,4.4,2.6,2.6,0,Socially Secure,0,Twitter(X)
+345,Computer,Second,Male,3.0,4.4,2.6,2.4,3.4,1.8,1,Comparison-Prone,0,Facebook
+346,Computer,Fourth,Male,5.0,4.6,3.0,2.6,4.0,1.6,1,Comparison-Prone,0,Instagram
+347,Computer,Third,Male,1.8,4.4,2.6,4.8,4.6,2.8,0,Socially Secure,1,Instagram
+348,IT,First,Female,2.8,4.8,2.8,2.4,2.4,1.6,1,Comparison-Prone,1,Instagram
+349,IT,First,Male,3.8,3.6,2.4,3.4,3.0,3.0,0,Socially Secure,1,Facebook
+350,Computer,Fourth,Female,3.2,4.0,2.8,2.6,5.0,1.0,1,Comparison-Prone,1,Facebook
+351,IT,First,Male,2.8,3.2,2.2,3.2,2.2,3.0,0,Socially Secure,1,Instagram
+352,IT,First,Male,3.0,4.2,2.0,2.8,3.4,3.0,0,Socially Secure,1,Instagram
+353,IT,Second,Female,1.8,4.6,2.4,2.6,4.4,1.6,1,Comparison-Prone,1,Instagram
+354,IT,Second,Male,3.6,4.0,4.6,2.4,4.2,3.4,1,Comparison-Prone,0,Discord
+355,Computer,Third,Male,3.2,4.4,3.0,2.4,3.8,2.2,1,Comparison-Prone,1,Instagram
+356,Computer,Third,Male,2.6,3.2,2.6,3.4,3.4,2.4,0,Socially Secure,1,Instagram
+357,Computer,Third,Female,3.4,4.2,3.4,2.2,3.4,1.4,1,Comparison-Prone,0,Instagram
+358,Computer,Third,Male,3.4,3.4,3.6,1.8,4.6,1.8,1,Comparison-Prone,1,Instagram
+359,Computer,Fourth,Male,4.6,5.0,3.0,3.0,5.0,1.2,1,Comparison-Prone,1,Youtube
+360,Computer,Fourth,Male,4.2,4.6,3.0,3.4,4.2,2.6,1,Comparison-Prone,1,Viber
+361,Computer,Fourth,Male,2.4,4.2,2.0,3.2,3.8,2.8,0,Socially Secure,1,Instagram
+362,Computer,Third,Male,4.8,4.4,1.6,4.2,4.2,2.6,1,Comparison-Prone,1,Instagram
+363,Computer,Third,Male,3.8,4.4,3.0,2.6,3.6,2.0,1,Comparison-Prone,0,Instagram
+364,Computer,Fourth,Male,3.2,4.0,3.0,1.2,4.6,1.4,1,Comparison-Prone,1,Instagram
+365,Computer,Third,Female,2.8,4.2,2.6,3.0,3.8,2.0,1,Comparison-Prone,1,Instagram
+366,Computer,First,Female,2.2,4.4,2.4,2.8,4.0,1.4,1,Comparison-Prone,0,Instagram
+367,Computer,Third,Male,3.4,5.0,3.4,2.0,2.2,3.0,1,Comparison-Prone,0,Facebook
+368,Computer,Third,Male,3.2,4.8,3.2,2.2,3.6,2.4,1,Comparison-Prone,0,Instagram
+369,Computer,Third,Male,2.8,3.4,2.0,2.8,3.2,2.0,0,Socially Secure,1,Instagram
+370,Computer,Third,Female,2.8,4.0,1.2,3.2,2.6,1.2,0,Socially Secure,1,Whatsapp
+371,Computer,Third,Male,2.2,3.6,1.2,4.2,2.8,2.4,0,Socially Secure,1,Instagram
+372,Computer,First,Male,3.8,4.8,3.2,2.6,4.6,2.8,1,Comparison-Prone,0,Instagram
+373,IT,Fourth,Male,3.0,4.0,2.6,2.8,3.2,1.6,0,Socially Secure,1,Facebook
+374,Computer,Fourth,Female,2.4,3.4,2.6,2.0,2.8,1.2,0,Socially Secure,1,Instagram
+375,IT,Second,Male,4.0,4.0,3.6,2.4,2.2,2.2,1,Comparison-Prone,0,Instagram
+376,Computer,First,Male,4.6,1.8,2.2,1.8,4.0,1.8,0,Socially Secure,0,Instagram
+377,IT,First,Male,3.4,3.8,2.4,3.0,3.8,2.4,0,Socially Secure,0,Instagram
+378,IT,First,Male,3.2,4.0,3.2,2.6,2.2,2.0,0,Socially Secure,0,Facebook
+379,Computer,First,Male,2.6,4.4,2.8,2.8,3.4,2.4,0,Socially Secure,0,Instagram
+380,Computer,Fourth,Male,5.0,4.8,1.8,2.0,5.0,2.6,1,Comparison-Prone,1,Instagram
+381,IT,First,Male,2.4,2.2,2.0,2.2,3.0,8.4,0,Socially Secure,0,Instagram
+382,IT,First,Male,4.2,4.8,3.2,2.0,4.2,3.2,1,Comparison-Prone,0,Instagram
+383,IT,First,Male,3.2,4.4,3.2,2.2,3.0,1.6,1,Comparison-Prone,0,Instagram
+384,Computer,Fourth,Male,2.4,3.4,2.2,3.0,3.4,2.2,0,Socially Secure,0,Whatsapp
+385,Computer,Fourth,Female,3.6,3.8,3.2,2.4,3.8,2.6,1,Comparison-Prone,0,Instagram
+386,Computer,Fourth,Female,3.4,3.8,2.8,2.2,2.6,2.4,0,Socially Secure,0,Whatsapp
+387,Computer,Fourth,Female,3.4,3.4,3.0,1.8,2.8,3.0,0,Socially Secure,0,Instagram
+388,Computer,Fourth,Female,3.8,5.0,3.0,3.2,3.0,2.2,1,Comparison-Prone,0,Instagram
+389,Computer,Fourth,Female,1.8,4.6,2.2,3.6,2.4,3.4,0,Socially Secure,1,Instagram
+390,Computer,Fourth,Male,2.8,4.2,3.2,2.2,4.4,1.8,1,Comparison-Prone,1,Instagram
+391,Computer,Fourth,Male,2.4,4.0,1.4,3.6,3.0,2.6,0,Socially Secure,0,Instagram
+392,IT,First,Male,3.2,3.8,3.4,1.6,3.4,1.8,1,Comparison-Prone,0,Instagram
+393,IT,First,Male,2.2,3.6,2.4,2.0,3.8,1.2,0,Socially Secure,1,Instagram
+394,IT,First,Male,2.4,4.2,2.4,1.6,4.2,1.6,1,Comparison-Prone,1,Instagram
+395,IT,First,Female,1.0,3.2,3.6,3.0,2.4,2.4,0,Socially Secure,1,Instagram
+396,IT,First,Female,3.0,3.2,2.8,2.0,2.6,2.8,0,Socially Secure,0,Instagram
+397,Computer,First,Female,2.4,4.2,3.0,1.8,3.2,2.0,1,Comparison-Prone,1,Instagram
+398,Computer,First,Male,3.8,4.0,1.8,3.0,4.0,2.6,1,Comparison-Prone,0,Facebook
+399,Computer,First,Female,3.8,4.2,2.8,2.8,3.0,1.6,1,Comparison-Prone,0,Instagram
+400,Computer,Fourth,Male,2.4,4.0,2.8,4.2,3.0,1.4,0,Socially Secure,0,Instagram
+401,Computer,Fourth,Female,2.4,3.4,2.2,3.6,2.8,2.6,0,Socially Secure,1,Instagram
+402,Computer,Fourth,Male,3.2,3.2,1.6,3.4,3.2,2.4,0,Socially Secure,1,Instagram
+403,Computer,First,Male,4.2,5.0,1.8,2.0,4.6,1.8,1,Comparison-Prone,0,Instagram
+404,Computer,First,Female,3.2,5.0,2.4,3.0,4.4,2.0,1,Comparison-Prone,1,Instagram
+405,IT,Fourth,Male,5.0,5.0,3.4,1.8,3.6,1.8,1,Comparison-Prone,0,Facebook
+406,Computer,Fourth,Male,3.0,4.6,2.2,3.0,3.8,2.2,1,Comparison-Prone,0,Instagram
+407,Computer,Fourth,Male,2.8,2.8,1.8,3.0,3.6,2.0,0,Socially Secure,0,Facebook
+408,Computer,Fourth,Male,2.2,3.0,2.0,4.0,3.0,2.0,0,Socially Secure,0,Facebook
+409,Computer,Fourth,Male,2.8,4.0,1.6,3.6,3.0,2.6,0,Socially Secure,1,Instagram
+410,Computer,Fourth,Male,4.2,5.0,2.8,1.4,4.8,1.2,1,Comparison-Prone,0,Reddit
+411,Computer,Fourth,Male,4.0,4.4,3.8,2.0,3.6,2.4,1,Comparison-Prone,0,Instagram
+412,Computer,Fourth,Male,3.4,3.4,2.4,2.2,3.6,2.4,0,Socially Secure,0,Facebook
+413,Computer,Fourth,Male,4.6,5.0,4.2,2.0,4.2,2.2,1,Comparison-Prone,0,Reddit
+414,Computer,Fourth,Male,3.2,3.8,1.8,2.4,3.0,2.4,0,Socially Secure,1,Instagram
+415,Computer,Fourth,Male,2.8,3.2,2.8,3.4,3.2,2.8,0,Socially Secure,1,Instagram
+416,Computer,Fourth,Male,3.8,5.0,3.2,3.0,3.4,2.8,1,Comparison-Prone,0,Instagram
+417,Computer,First,Male,2.4,3.4,3.4,1.6,3.6,2.4,0,Socially Secure,0,Instagram
+418,Computer,First,Male,4.0,3.4,3.0,1.6,3.0,3.6,0,Socially Secure,1,Facebook
+419,Computer,First,Female,3.0,5.0,2.4,2.6,4.6,1.8,1,Comparison-Prone,1,Tiktok
+420,Computer,First,Female,3.8,4.6,2.6,2.6,3.2,2.0,1,Comparison-Prone,0,Instagram
+421,Computer,First,Male,2.2,1.4,1.0,4.2,3.4,1.4,0,Socially Secure,0,Twitter(X)
+422,Computer,First,Male,2.8,3.0,2.4,2.4,3.0,2.4,0,Socially Secure,1,Facebook
+423,Computer,First,Male,3.8,4.0,2.2,4.4,3.8,1.4,0,Socially Secure,0,Facebook
+424,Computer,First,Male,2.8,3.6,1.2,3.2,4.2,2.8,0,Socially Secure,0,Instagram
+425,Computer,First,Male,3.6,4.6,3.4,1.8,5.0,1.8,1,Comparison-Prone,0,Whatsapp
+426,Computer,First,Male,3.0,4.4,1.4,4.4,3.6,2.8,0,Socially Secure,1,Snapchat
+427,Computer,First,Female,2.6,5.0,1.6,3.2,4.4,1.2,1,Comparison-Prone,0,Instagram
+428,Computer,First,Male,3.0,4.0,2.6,2.8,3.4,1.8,0,Socially Secure,0,Instagram
+429,Computer,First,Male,2.2,3.2,1.2,2.8,3.6,1.6,0,Socially Secure,0,Instagram
+430,Computer,First,Male,4.0,4.2,3.8,2.2,4.4,1.4,1,Comparison-Prone,0,Instagram
+431,IT,First,Male,3.0,3.4,2.4,3.4,3.8,2.4,0,Socially Secure,0,Youtube
+432,Computer,First,Male,3.0,3.8,2.2,3.0,3.8,2.0,0,Socially Secure,0,Instagram
+433,Computer,First,Male,4.4,4.4,3.0,3.0,3.2,1.6,1,Comparison-Prone,1,Instagram
+434,Computer,First,Male,3.8,3.4,2.2,3.8,3.0,2.8,0,Socially Secure,0,Youtube
+435,Computer,First,Male,3.4,3.6,2.6,3.2,4.8,3.6,0,Socially Secure,1,Twitter(X)
+436,Computer,First,Male,3.8,4.8,2.6,3.6,3.2,2.6,1,Comparison-Prone,1,Instagram
+437,Computer,First,Male,3.0,4.2,3.4,2.4,4.6,2.4,1,Comparison-Prone,0,Instagram
+438,Computer,First,Male,3.4,3.8,2.4,3.4,3.6,2.6,0,Socially Secure,0,Instagram
+439,Computer,Second,Female,2.4,4.0,2.2,3.4,3.2,2.0,0,Socially Secure,0,Instagram
+440,Computer,First,Female,3.0,4.2,2.2,2.0,3.4,2.0,1,Comparison-Prone,0,Instagram
+441,Computer,Second,Male,3.8,4.6,1.4,4.4,4.0,2.8,0,Socially Secure,0,Instagram
+442,Computer,First,Male,4.8,5.0,4.0,1.2,4.0,2.8,1,Comparison-Prone,0,Facebook
+443,Computer,First,Male,3.2,5.0,1.4,3.2,3.4,1.0,1,Comparison-Prone,1,Instagram
+444,Computer,First,Male,3.2,5.0,1.4,3.2,3.4,1.0,1,Comparison-Prone,1,Instagram
+445,Computer,First,Male,1.8,3.0,2.8,2.6,4.0,1.4,0,Socially Secure,0,Instagram
+446,Computer,First,Male,3.8,4.4,2.0,1.8,3.6,2.2,1,Comparison-Prone,0,Youtube
+447,Computer,Second,Male,3.0,3.2,3.0,1.6,3.0,1.8,0,Socially Secure,0,Instagram
+448,Computer,Second,Male,2.4,3.8,2.0,2.2,2.0,2.6,0,Socially Secure,1,Instagram
+449,Computer,Fourth,Male,3.4,4.8,4.4,2.2,4.2,1.8,1,Comparison-Prone,0,Facebook
+450,Computer,Fourth,Male,3.8,4.8,2.8,1.2,2.6,1.6,1,Comparison-Prone,0,Instagram
+451,Computer,Fourth,Male,2.8,4.8,2.2,1.8,3.4,1.6,1,Comparison-Prone,0,Whatsapp
+452,Computer,Second,Male,3.2,4.0,1.8,3.2,3.6,2.4,0,Socially Secure,0,Instagram
+453,Computer,Fourth,Male,3.0,3.8,2.6,2.2,2.6,1.8,0,Socially Secure,1,Snapchat
+454,IT,First,Female,3.6,5.0,2.8,1.4,4.6,1.4,1,Comparison-Prone,1,Instagram
+455,Computer,Fourth,Female,2.2,3.8,3.2,1.8,2.4,1.4,0,Socially Secure,1,Instagram
+456,IT,Fourth,Male,3.0,4.4,2.2,3.4,3.8,2.8,0,Socially Secure,0,Instagram
+457,Computer,Fourth,Male,4.2,4.2,3.2,2.0,3.8,2.2,1,Comparison-Prone,0,Instagram
+458,IT,Fourth,Female,3.2,4.0,2.2,2.2,3.6,1.0,1,Comparison-Prone,0,Tiktok
+459,Computer,Fourth,Female,2.6,3.4,2.0,3.6,3.2,1.4,0,Socially Secure,1,Instagram
+460,Computer,First,Male,3.2,4.2,2.2,2.8,3.6,2.6,0,Socially Secure,1,Instagram
+461,Computer,Fourth,Male,4.2,4.2,3.2,2.0,3.8,2.2,1,Comparison-Prone,0,Instagram
+462,Computer,Third,Female,3.2,4.4,2.4,2.4,4.2,1.2,1,Comparison-Prone,0,Instagram
+463,Computer,Third,Female,2.4,3.6,1.4,3.6,4.0,3.6,0,Socially Secure,0,Instagram
+464,Computer,Third,Female,2.4,4.8,2.2,3.6,4.4,1.0,1,Comparison-Prone,0,Instagram
+465,IT,First,Female,3.8,4.6,3.4,2.6,4.0,2.0,1,Comparison-Prone,1,Instagram
+466,IT,Fourth,Male,3.4,4.2,2.4,2.2,3.0,2.0,1,Comparison-Prone,0,Instagram
+467,IT,Fourth,Male,2.6,3.6,3.6,2.2,3.0,1.8,0,Socially Secure,0,Facebook
+468,IT,Fourth,Male,2.2,4.2,2.8,2.8,2.4,3.0,0,Socially Secure,1,Tiktok
+469,Computer,Fourth,Male,3.2,4.6,3.8,1.2,3.8,1.4,1,Comparison-Prone,1,Whatsapp
+470,IT,Fourth,Female,4.4,4.6,1.2,2.8,3.6,2.8,1,Comparison-Prone,0,Tiktok
+471,Computer,Fourth,Male,2.2,2.4,2.4,3.0,2.2,1.6,0,Socially Secure,0,Facebook
+472,Computer,Fourth,Male,3.4,4.2,3.0,2.8,4.2,2.6,1,Comparison-Prone,1,Facebook
+473,Computer,Fourth,Male,2.8,3.6,2.4,1.6,2.4,1.4,0,Socially Secure,1,Whatsapp

@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load your life satisfaction data (adjust path)
-df = pd.read_csv("C:\\Users\\LENOVO\\OneDrive\\Desktop\\all_every\\life_satisfaction_encoded.csv")
+df = pd.read_csv("life_satisfaction_encoded.csv")
 
 # Classification function for life satisfaction (1=Strongly Agree, 5=Strongly Disagree)
 def classify_ls(value):
@@ -20,6 +20,22 @@ df['life_satisfaction_level'] = df['life_satisfaction'].apply(classify_ls)
 # Count and percentage for life satisfaction levels
 ls_counts = df['life_satisfaction_level'].value_counts(normalize=True) * 100
 ls_counts = ls_counts.reindex(['Satisfied', 'Neutral', 'Dissatisfied']).fillna(0)
+
+# Print life satisfaction level counts by Gender
+ls_gender_counts = df.groupby(['Gender', 'life_satisfaction_level']).size().unstack().reindex(columns=['Satisfied', 'Neutral', 'Dissatisfied']).fillna(0)
+print("Life Satisfaction Level Counts by Gender:")
+print(ls_gender_counts)
+
+# Print life satisfaction level counts by Department
+ls_dept_counts = df.groupby(['Department', 'life_satisfaction_level']).size().unstack().reindex(columns=['Satisfied', 'Neutral', 'Dissatisfied']).fillna(0)
+print("\nLife Satisfaction Level Counts by Department:")
+print(ls_dept_counts)
+
+# Print life satisfaction level counts by Year
+ls_year_counts = df.groupby(['Year', 'life_satisfaction_level']).size().unstack().reindex(columns=['Satisfied', 'Neutral', 'Dissatisfied']).fillna(0)
+print("\nLife Satisfaction Level Counts by Year:")
+print(ls_year_counts)
+
 
 # Bar Chart
 plt.figure(figsize=(6,4))
@@ -51,62 +67,62 @@ plt.xlabel('Life Satisfaction Level')
 plt.tight_layout()
 plt.show()
 
-# Histogram + KDE of raw life satisfaction scores
-plt.figure(figsize=(6,4))
-sns.histplot(df['life_satisfaction'], bins=10, kde=True, color='purple')
-plt.title('Distribution of Life Satisfaction Scores')
-plt.xlabel('Life Satisfaction Score (1 = High Satisfaction, 5 = Low)')
-plt.ylabel('Frequency')
-plt.tight_layout()
-plt.show()
+# # Histogram + KDE of raw life satisfaction scores
+# plt.figure(figsize=(6,4))
+# sns.histplot(df['life_satisfaction'], bins=10, kde=True, color='purple')
+# plt.title('Distribution of Life Satisfaction Scores')
+# plt.xlabel('Life Satisfaction Score (1 = High Satisfaction, 5 = Low)')
+# plt.ylabel('Frequency')
+# plt.tight_layout()
+# plt.show()
 
-# Box Plot by Gender
-plt.figure(figsize=(6,4))
-sns.boxplot(data=df, x='Gender', y='life_satisfaction', palette='Set2')
-plt.title('Life Satisfaction Scores by Gender')
-plt.ylabel('Life Satisfaction Score')
-plt.tight_layout()
-plt.show()
+# # Box Plot by Gender
+# plt.figure(figsize=(6,4))
+# sns.boxplot(data=df, x='Gender', y='life_satisfaction', palette='Set2')
+# plt.title('Life Satisfaction Scores by Gender')
+# plt.ylabel('Life Satisfaction Score')
+# plt.tight_layout()
+# plt.show()
 
-# Violin Plot by Gender
-plt.figure(figsize=(6,4))
-sns.violinplot(data=df, x='Gender', y='life_satisfaction', palette='Set2')
-plt.title('Life Satisfaction Distribution by Gender')
-plt.ylabel('Life Satisfaction Score')
-plt.tight_layout()
-plt.show()
+# # Violin Plot by Gender
+# plt.figure(figsize=(6,4))
+# sns.violinplot(data=df, x='Gender', y='life_satisfaction', palette='Set2')
+# plt.title('Life Satisfaction Distribution by Gender')
+# plt.ylabel('Life Satisfaction Score')
+# plt.tight_layout()
+# plt.show()
 
-# Box Plot by Department
-plt.figure(figsize=(6,4))
-sns.boxplot(data=df, x='Department', y='life_satisfaction', palette='coolwarm')
-plt.title('Life Satisfaction Scores by Department')
-plt.ylabel('Life Satisfaction Score')
-plt.tight_layout()
-plt.show()
+# # Box Plot by Department
+# plt.figure(figsize=(6,4))
+# sns.boxplot(data=df, x='Department', y='life_satisfaction', palette='coolwarm')
+# plt.title('Life Satisfaction Scores by Department')
+# plt.ylabel('Life Satisfaction Score')
+# plt.tight_layout()
+# plt.show()
 
-# Violin Plot by Department
-plt.figure(figsize=(6,4))
-sns.violinplot(data=df, x='Department', y='life_satisfaction', palette='coolwarm')
-plt.title('Life Satisfaction Distribution by Department')
-plt.ylabel('Life Satisfaction Score')
-plt.tight_layout()
-plt.show()
+# # Violin Plot by Department
+# plt.figure(figsize=(6,4))
+# sns.violinplot(data=df, x='Department', y='life_satisfaction', palette='coolwarm')
+# plt.title('Life Satisfaction Distribution by Department')
+# plt.ylabel('Life Satisfaction Score')
+# plt.tight_layout()
+# plt.show()
 
-# Box Plot by Year
-plt.figure(figsize=(6,4))
-sns.boxplot(data=df, x='Year', y='life_satisfaction', palette='Spectral')
-plt.title('Life Satisfaction Scores by Academic Year')
-plt.ylabel('Life Satisfaction Score')
-plt.tight_layout()
-plt.show()
+# # Box Plot by Year
+# plt.figure(figsize=(6,4))
+# sns.boxplot(data=df, x='Year', y='life_satisfaction', palette='Spectral')
+# plt.title('Life Satisfaction Scores by Academic Year')
+# plt.ylabel('Life Satisfaction Score')
+# plt.tight_layout()
+# plt.show()
 
-# Violin Plot by Year
-plt.figure(figsize=(6,4))
-sns.violinplot(data=df, x='Year', y='life_satisfaction', palette='Spectral')
-plt.title('Life Satisfaction Distribution by Academic Year')
-plt.ylabel('Life Satisfaction Score')
-plt.tight_layout()
-plt.show()
+# # Violin Plot by Year
+# plt.figure(figsize=(6,4))
+# sns.violinplot(data=df, x='Year', y='life_satisfaction', palette='Spectral')
+# plt.title('Life Satisfaction Distribution by Academic Year')
+# plt.ylabel('Life Satisfaction Score')
+# plt.tight_layout()
+# plt.show()
 
 # Countplot: Life Satisfaction Level by Gender
 plt.figure(figsize=(6, 4))
@@ -151,6 +167,21 @@ plt.xlabel('Life Satisfaction Level')
 plt.ylabel('Number of Students')
 plt.tight_layout()
 plt.show()
+
+# Pie Chart by Department
+departments = df['Department'].unique()
+for dept in departments:
+    subset = df[df['Department'] == dept]
+    dist = subset['life_satisfaction_level'].value_counts(normalize=True) * 100
+    dist = dist.reindex(['Satisfied', 'Neutral', 'Dissatisfied']).fillna(0)
+
+    plt.figure(figsize=(5,5))
+    plt.pie(dist, labels=dist.index, autopct='%1.1f%%',
+            colors=['green', 'orange', 'red'], startangle=140)
+    plt.title(f'Life Satisfaction Distribution – {dept} Department')
+    plt.tight_layout()
+    plt.show()
+
 
 # Pie Chart by Year
 years = df['Year'].unique()

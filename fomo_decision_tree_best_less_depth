@@ -1,0 +1,33 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label=<social_comparison &le; 2.9<br/>gini = 0.667<br/>samples = 378<br/>value = [126.0, 126.0, 126.0]<br/>class = High FOMO>, fillcolor="#ffffff"] ;
+1 [label=<perceived_support &le; 2.1<br/>gini = 0.362<br/>samples = 138<br/>value = [0.0, 110.466, 34.406]<br/>class = Low FOMO>, fillcolor="#77eda8"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label=<peer_pressure &le; 3.9<br/>gini = 0.497<br/>samples = 64<br/>value = [0.0, 20.712, 24.177]<br/>class = Moderate FOMO>, fillcolor="#ede3fb"] ;
+1 -> 2 ;
+3 [label=<gini = 0.449<br/>samples = 35<br/>value = [0.0, 20.712, 10.694]<br/>class = Low FOMO>, fillcolor="#9ff2c2"] ;
+2 -> 3 ;
+4 [label=<gini = 0.0<br/>samples = 29<br/>value = [0.0, 0.0, 13.483]<br/>class = Moderate FOMO>, fillcolor="#8139e5"] ;
+2 -> 4 ;
+5 [label=<social_comparison &le; 2.5<br/>gini = 0.184<br/>samples = 74<br/>value = [0.0, 89.753, 10.229]<br/>class = Low FOMO>, fillcolor="#50e88f"] ;
+1 -> 5 ;
+6 [label=<gini = 0.084<br/>samples = 48<br/>value = [0.0, 70.767, 3.255]<br/>class = Low FOMO>, fillcolor="#42e687"] ;
+5 -> 6 ;
+7 [label=<gini = 0.393<br/>samples = 26<br/>value = [0.0, 18.986, 6.974]<br/>class = Low FOMO>, fillcolor="#82efaf"] ;
+5 -> 7 ;
+8 [label=<academic_burnout &le; 2.9<br/>gini = 0.549<br/>samples = 240<br/>value = [126.0, 15.534, 91.594]<br/>class = High FOMO>, fillcolor="#f9e0cf"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label=<peer_pressure &le; 4.5<br/>gini = 0.53<br/>samples = 159<br/>value = [25.941, 13.808, 66.952]<br/>class = Moderate FOMO>, fillcolor="#bf9af2"] ;
+8 -> 9 ;
+10 [label=<gini = 0.349<br/>samples = 110<br/>value = [0.0, 13.808, 47.424]<br/>class = Moderate FOMO>, fillcolor="#a673ed"] ;
+9 -> 10 ;
+11 [label=<gini = 0.49<br/>samples = 49<br/>value = [25.941, 0.0, 19.528]<br/>class = High FOMO>, fillcolor="#f9e0ce"] ;
+9 -> 11 ;
+12 [label=<peer_pressure &le; 3.9<br/>gini = 0.335<br/>samples = 81<br/>value = [100.059, 1.726, 24.642]<br/>class = High FOMO>, fillcolor="#eca26c"] ;
+8 -> 12 ;
+13 [label=<gini = 0.273<br/>samples = 20<br/>value = [0.0, 1.726, 8.834]<br/>class = Moderate FOMO>, fillcolor="#9a60ea"] ;
+12 -> 13 ;
+14 [label=<gini = 0.236<br/>samples = 61<br/>value = [100.059, 0.0, 15.808]<br/>class = High FOMO>, fillcolor="#e99558"] ;
+12 -> 14 ;
+}
